@@ -3,7 +3,7 @@
 
 * Відкрити термінал в якійсь директорії та ввести 
     ``` 
-    git clone git@github.com:sspucredico/sspucredico.github.io.git 
+    git clone git@github.com:sspucredico/credico.git
     ```
 * В обраній директорії з'явиться папка **sspucredico.github.io**
 * Викликати контекстне меню на директорії **sspucredico.github.io** > **Відкрити за допомогою VSCode**
