@@ -1,4 +1,4 @@
-export const title = '<Credico 2022>'
+export const title = '<Credico 2023>'
 export const configuration = {
     participant: {
         title: 'Учасникам',
