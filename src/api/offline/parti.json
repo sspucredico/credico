@@ -1,3039 +1,2346 @@
 [
-    {
-         "nameUA": "Li Xiaoqing",
-         "nameEN": "Li Xiaoqing"
-     },
- {
-         "nameUA": "Аббасова Інеса",
-         "nameEN": "Abbasova Inesa"
-     },
- {
-         "nameUA": "Алексєєва Каріна",
-         "nameEN": "Aleksieieva Karina"
-     },
- {
-         "nameUA": "Алієв Максим",
-         "nameEN": "Aliiev Maksym"
-     },
- {
-         "nameUA": "Алкнова Діана",
-         "nameEN": "Alknova Diana"
-     },
- {
-         "nameUA": "Алконова Діана",
-         "nameEN": "Alkonova Diana"
-     },
- {
-         "nameUA": "Алтухова Катерина",
-         "nameEN": "Altukhova Kateryna"
-     },
- {
-         "nameUA": "Аляб`єва Діана",
-         "nameEN": "Aliab`ieva Diana"
-     },
- {
-         "nameUA": "Андрєєва Милана",
-         "nameEN": "Andrieieva Mylana"
-     },
- {
-         "nameUA": "Антонів Віталій",
-         "nameEN": "Antoniv Vitalii"
-     },
- {
-         "nameUA": "Аркадьєв Владислав",
-         "nameEN": "Arkadiev Vladyslav"
-     },
- {
-         "nameUA": "Астахова Анна",
-         "nameEN": "Astakhova Anna"
-     },
- {
-         "nameUA": "Бабенко Каріна",
-         "nameEN": "Babenko Karina"
-     },
- {
-         "nameUA": "Бабенко Маргарита",
-         "nameEN": "Babenko Marharyta"
-     },
- {
-         "nameUA": "Бавикін Савва",
-         "nameEN": "Bavykin Savva"
-     },
- {
-         "nameUA": "Баглик Марія",
-         "nameEN": "Bahlyk Mariia"
-     },
- {
-         "nameUA": "Байдак Анжела",
-         "nameEN": "Baidak Anzhela"
-     },
- {
-         "nameUA": "Балух Юлія",
-         "nameEN": "Balukh Yuliia"
-     },
- {
-         "nameUA": "Баранник Марія",
-         "nameEN": "Barannyk Mariia"
-     },
- {
-         "nameUA": "Баранов Олександр",
-         "nameEN": "Baranov Oleksandr"
-     },
- {
-         "nameUA": "Баранчук Максим",
-         "nameEN": "Baranchuk Maksym"
-     },
- {
-         "nameUA": "Барна Марія",
-         "nameEN": "Barna Mariia"
-     },
- {
-         "nameUA": "Баяк Яна",
-         "nameEN": "Baiak Yana"
-     },
- {
-         "nameUA": "Бебих Денис",
-         "nameEN": "Bebykh Denys"
-     },
- {
-         "nameUA": "Березанська Меланія",
-         "nameEN": "Berezanska Melaniia"
-     },
- {
-         "nameUA": "Березовський Ігор",
-         "nameEN": "Berezovskyi Ihor"
-     },
- {
-         "nameUA": "Берестень Володимир",
-         "nameEN": "Beresten Volodymyr"
-     },
- {
-         "nameUA": "Беседа Вікторія",
-         "nameEN": "Beseda Viktoriia"
-     },
- {
-         "nameUA": "Бєльська Анна",
-         "nameEN": "Bielska Anna"
-     },
- {
-         "nameUA": "Биков Олег",
-         "nameEN": "Bykov Oleh"
-     },
- {
-         "nameUA": "Бикова Інна",
-         "nameEN": "Bykova Inna"
-     },
- {
-         "nameUA": "Бичок Ірина",
-         "nameEN": "Bychok Iryna"
-     },
- {
-         "nameUA": "Бібленко Назар",
-         "nameEN": "Biblenko Nazar"
-     },
- {
-         "nameUA": "Білицька Елеонора",
-         "nameEN": "Bilytska Eleonora"
-     },
- {
-         "nameUA": "Білоусенко Вадим",
-         "nameEN": "Bilousenko Vadym"
-     },
- {
-         "nameUA": "Бовтвиненко Денис",
-         "nameEN": "Bovtvynenko Denys"
-     },
- {
-         "nameUA": "Богдан Дар'я",
-         "nameEN": "Bohdan Daria"
-     },
- {
-         "nameUA": "Богданович Ігор",
-         "nameEN": "Bohdanovych Ihor"
-     },
- {
-         "nameUA": "Богун Владислава",
-         "nameEN": "Bohun Vladyslava"
-     },
- {
-         "nameUA": "Богурський Олександр",
-         "nameEN": "Bohurskyi Oleksandr"
-     },
- {
-         "nameUA": "Бодарєва Єлизавета",
-         "nameEN": "Bodarieva Yelyzaveta"
-     },
- {
-         "nameUA": "Боднаревська Катерина",
-         "nameEN": "Bodnarevska Kateryna"
-     },
- {
-         "nameUA": "Божко Наталія",
-         "nameEN": "Bozhko Nataliia"
-     },
- {
-         "nameUA": "Боковець Катерина",
-         "nameEN": "Bokovets Kateryna"
-     },
- {
-         "nameUA": "Болбот Денис",
-         "nameEN": "Bolbot Denys"
-     },
- {
-         "nameUA": "Болтушенко Олена",
-         "nameEN": "Boltushenko Olena"
-     },
- {
-         "nameUA": "Бондар Максим",
-         "nameEN": "Bondar Maksym"
-     },
- {
-         "nameUA": "Бондар Марина",
-         "nameEN": "Bondar Maryna"
-     },
- {
-         "nameUA": "Бондар Сергій",
-         "nameEN": "Bondar Serhii"
-     },
- {
-         "nameUA": "Бондар Станіслав",
-         "nameEN": "Bondar Stanislav"
-     },
- {
-         "nameUA": "Бондарев Артем",
-         "nameEN": "Bondarev Artem"
-     },
- {
-         "nameUA": "Бондарець Олександр",
-         "nameEN": "Bondarets Oleksandr"
-     },
- {
-         "nameUA": "Бондарєв Руслан",
-         "nameEN": "Bondariev Ruslan"
-     },
- {
-         "nameUA": "Бондарєва Яна",
-         "nameEN": "Bondarieva Yana"
-     },
- {
-         "nameUA": "Борисова Катерина",
-         "nameEN": "Borysova Kateryna"
-     },
- {
-         "nameUA": "Борошнєв Ігор",
-         "nameEN": "Boroshniev Ihor"
-     },
- {
-         "nameUA": "Борт Кирило",
-         "nameEN": "Bort Kyrylo"
-     },
- {
-         "nameUA": "Броварний Олексій",
-         "nameEN": "Brovarnyi Oleksii"
-     },
- {
-         "nameUA": "Буглак Євгенія",
-         "nameEN": "Buhlak Yevheniia"
-     },
- {
-         "nameUA": "Будішевський Єгор",
-         "nameEN": "Budishevskyi Yehor"
-     },
- {
-         "nameUA": "Бура Богдана",
-         "nameEN": "Bura Bohdana"
-     },
- {
-         "nameUA": "Бурая Катерина",
-         "nameEN": "Buraia Kateryna"
-     },
- {
-         "nameUA": "Бурлаков Дмитро",
-         "nameEN": "Burlakov Dmytro"
-     },
- {
-         "nameUA": "Бутенко Анна",
-         "nameEN": "Butenko Anna"
-     },
- {
-         "nameUA": "Бутенко Ульяна",
-         "nameEN": "Butenko Uliana"
-     },
- {
-         "nameUA": "Бутенко Уляна",
-         "nameEN": "Butenko Uliana"
-     },
- {
-         "nameUA": "Вакулко Андрій",
-         "nameEN": "Vakulko Andrii"
-     },
- {
-         "nameUA": "Ванжула Владислава",
-         "nameEN": "Vanzhula Vladyslava"
-     },
- {
-         "nameUA": "Варламова Аліна",
-         "nameEN": "Varlamova Alina"
-     },
- {
-         "nameUA": "Василенко Анжела",
-         "nameEN": "Vasylenko Anzhela"
-     },
- {
-         "nameUA": "Василик Андрій",
-         "nameEN": "Vasylyk Andrii"
-     },
- {
-         "nameUA": "Васильчук Олег",
-         "nameEN": "Vasylchuk Oleh"
-     },
- {
-         "nameUA": "Василюк Андрій",
-         "nameEN": "Vasyliuk Andrii"
-     },
- {
-         "nameUA": "Васільєв Денис",
-         "nameEN": "Vasiliev Denys"
-     },
- {
-         "nameUA": "Васько Андрій",
-         "nameEN": "Vasko Andrii"
-     },
- {
-         "nameUA": "Вацеба Уляна",
-         "nameEN": "Vatseba Uliana"
-     },
- {
-         "nameUA": "Вдодович Ігор",
-         "nameEN": "Vdodovych Ihor"
-     },
- {
-         "nameUA": "Велика Анастасія",
-         "nameEN": "Velyka Anastasiia"
-     },
- {
-         "nameUA": "Вербицька Анастасія",
-         "nameEN": "Verbytska Anastasiia"
-     },
- {
-         "nameUA": "Веселовська Анастасія",
-         "nameEN": "Veselovska Anastasiia"
-     },
- {
-         "nameUA": "Виниченко Євгенія",
-         "nameEN": "Vynychenko Yevheniia"
-     },
- {
-         "nameUA": "Винокур Юрій",
-         "nameEN": "Vynokur Yurii"
-     },
- {
-         "nameUA": "Вільчинський Богдан",
-         "nameEN": "Vilchynskyi Bohdan"
-     },
- {
-         "nameUA": "Вінніченко Богдан",
-         "nameEN": "Vinnichenko Bohdan"
-     },
- {
-         "nameUA": "Владика Назар",
-         "nameEN": "Vladyka Nazar"
-     },
- {
-         "nameUA": "Власенко Ігор",
-         "nameEN": "Vlasenko Ihor"
-     },
- {
-         "nameUA": "Влох Ольга",
-         "nameEN": "Vlokh Olha"
-     },
- {
-         "nameUA": "Вовк Арсеній",
-         "nameEN": "Vovk Arsenii"
-     },
- {
-         "nameUA": "Вовк Валерій",
-         "nameEN": "Vovk Valerii"
-     },
- {
-         "nameUA": "Вода Ігор",
-         "nameEN": "Voda Ihor"
-     },
- {
-         "nameUA": "Вода Назар",
-         "nameEN": "Voda Nazar"
-     },
- {
-         "nameUA": "Войтовський Ярослав",
-         "nameEN": "Voitovskyi Yaroslav"
-     },
- {
-         "nameUA": "Волошин Зоряна",
-         "nameEN": "Voloshyn Zoriana"
-     },
- {
-         "nameUA": "Воробйов Іван",
-         "nameEN": "Vorobiov Ivan"
-     },
- {
-         "nameUA": "Воскобойник Карина",
-         "nameEN": "Voskoboinyk Karyna"
-     },
- {
-         "nameUA": "Вязмітінов Костянтин",
-         "nameEN": "Viazmitinov Kostiantyn"
-     },
- {
-         "nameUA": "Гаврилюк Артем",
-         "nameEN": "Havryliuk Artem"
-     },
- {
-         "nameUA": "Гайдай Богдан",
-         "nameEN": "Haidai Bohdan"
-     },
- {
-         "nameUA": "Галкіна Марія",
-         "nameEN": "Halkina Mariia"
-     },
- {
-         "nameUA": "Гануляк Дмитро",
-         "nameEN": "Hanuliak Dmytro"
-     },
- {
-         "nameUA": "Гапанович Лада",
-         "nameEN": "Hapanovych Lada"
-     },
- {
-         "nameUA": "Гармаш Дар'я",
-         "nameEN": "Harmash Daria"
-     },
- {
-         "nameUA": "Гарнюк Аліна",
-         "nameEN": "Harniuk Alina"
-     },
- {
-         "nameUA": "Гасанов Алі",
-         "nameEN": "Hasanov Ali"
-     },
- {
-         "nameUA": "Гергель Єгор",
-         "nameEN": "Herhel Yehor"
-     },
- {
-         "nameUA": "Геча Кирило",
-         "nameEN": "Hecha Kyrylo"
-     },
- {
-         "nameUA": "Гібій Денис",
-         "nameEN": "Hibii Denys"
-     },
- {
-         "nameUA": "Глушко Ірина",
-         "nameEN": "Hlushko Iryna"
-     },
- {
-         "nameUA": "Глущенко Аліна",
-         "nameEN": "Hlushchenko Alina"
-     },
- {
-         "nameUA": "Гнітецький Максим",
-         "nameEN": "Hnitetskyi Maksym"
-     },
- {
-         "nameUA": "Гнітецький Тарас",
-         "nameEN": "Hnitetskyi Taras"
-     },
- {
-         "nameUA": "Головань Соломія",
-         "nameEN": "Holovan Solomiia"
-     },
- {
-         "nameUA": "Голод Владислав",
-         "nameEN": "Holod Vladyslav"
-     },
- {
-         "nameUA": "Голубєва Анастасія",
-         "nameEN": "Holubieva Anastasiia"
-     },
- {
-         "nameUA": "Гонтар Олена",
-         "nameEN": "Hontar Olena"
-     },
- {
-         "nameUA": "Гончаренко Діана",
-         "nameEN": "Honcharenko Diana"
-     },
- {
-         "nameUA": "Горбань Валерія",
-         "nameEN": "Horban Valeriia"
-     },
- {
-         "nameUA": "Гордієнко Тарас",
-         "nameEN": "Hordiienko Taras"
-     },
- {
-         "nameUA": "Горінова Дарина",
-         "nameEN": "Horinova Daryna"
-     },
- {
-         "nameUA": "Горлач Денис",
-         "nameEN": "Horlach Denys"
-     },
- {
-         "nameUA": "Горовий Ігор",
-         "nameEN": "Horovyi Ihor"
-     },
- {
-         "nameUA": "Грек Владислав",
-         "nameEN": "Hrek Vladyslav"
-     },
- {
-         "nameUA": "Григанська Юлія",
-         "nameEN": "Hryhanska Yuliia"
-     },
- {
-         "nameUA": "Гриненко Олександр",
-         "nameEN": "Hrynenko Oleksandr"
-     },
- {
-         "nameUA": "Гриньків Максим",
-         "nameEN": "Hrynkiv Maksym"
-     },
- {
-         "nameUA": "Гриньова Вероніка",
-         "nameEN": "Hrynova Veronika"
-     },
- {
-         "nameUA": "Гринюк Сергій",
-         "nameEN": "Hryniuk Serhii"
-     },
- {
-         "nameUA": "Грицаєнко Євгеній",
-         "nameEN": "Hrytsaienko Yevhenii"
-     },
- {
-         "nameUA": "Грицак Анастасія",
-         "nameEN": "Hrytsak Anastasiia"
-     },
- {
-         "nameUA": "Грищук Богдан",
-         "nameEN": "Hryshchuk Bohdan"
-     },
- {
-         "nameUA": "Громова Анна",
-         "nameEN": "Hromova Anna"
-     },
- {
-         "nameUA": "Громченко Анна",
-         "nameEN": "Hromchenko Anna"
-     },
- {
-         "nameUA": "Гузенко Данііл",
-         "nameEN": "Huzenko Daniil"
-     },
- {
-         "nameUA": "Гуменюк Аріна",
-         "nameEN": "Humeniuk Arina"
-     },
- {
-         "nameUA": "Гура Ігор",
-         "nameEN": "Hura Ihor"
-     },
- {
-         "nameUA": "Гуріна Анастасія",
-         "nameEN": "Hurina Anastasiia"
-     },
- {
-         "nameUA": "Гуцал Анастасія",
-         "nameEN": "Hutsal Anastasiia"
-     },
- {
-         "nameUA": "Ґусєв Владислав",
-         "nameEN": "Gusiev Vladyslav"
-     },
- {
-         "nameUA": "Давиденко Дар’я",
-         "nameEN": "Davydenko Daria"
-     },
- {
-         "nameUA": "Давидяк Максим",
-         "nameEN": "Davydiak Maksym"
-     },
- {
-         "nameUA": "Даньо Анна",
-         "nameEN": "Dano Anna"
-     },
- {
-         "nameUA": "Данюк Ярослав",
-         "nameEN": "Daniuk Yaroslav"
-     },
- {
-         "nameUA": "Дейнега Софія",
-         "nameEN": "Deineha Sofiia"
-     },
- {
-         "nameUA": "Демченко Віталій",
-         "nameEN": "Demchenko Vitalii"
-     },
- {
-         "nameUA": "Демчишин Неля",
-         "nameEN": "Demchyshyn Nelia"
-     },
- {
-         "nameUA": "Ден Сиї",
-         "nameEN": "Den Syi"
-     },
- {
-         "nameUA": "Денисенко Вікторія",
-         "nameEN": "Denysenko Viktoriia"
-     },
- {
-         "nameUA": "Дзюбан Владислав",
-         "nameEN": "Dziuban Vladyslav"
-     },
- {
-         "nameUA": "Дика Анастасія",
-         "nameEN": "Dyka Anastasiia"
-     },
- {
-         "nameUA": "Діденко Віра",
-         "nameEN": "Didenko Vira"
-     },
- {
-         "nameUA": "Діденко Софія",
-         "nameEN": "Didenko Sofiia"
-     },
- {
-         "nameUA": "Дідківський Олександр",
-         "nameEN": "Didkivskyi Oleksandr"
-     },
- {
-         "nameUA": "Діжа Олексій",
-         "nameEN": "Dizha Oleksii"
-     },
- {
-         "nameUA": "Дін Чжипен",
-         "nameEN": "Din Chzhypen"
-     },
- {
-         "nameUA": "Добровольський Єгор",
-         "nameEN": "Dobrovolskyi Yehor"
-     },
- {
-         "nameUA": "Добрунов Владислав",
-         "nameEN": "Dobrunov Vladyslav"
-     },
- {
-         "nameUA": "Довженко Анастасія",
-         "nameEN": "Dovzhenko Anastasiia"
-     },
- {
-         "nameUA": "Долиба Аліна",
-         "nameEN": "Dolyba Alina"
-     },
- {
-         "nameUA": "Донковцев Микита",
-         "nameEN": "Donkovtsev Mykyta"
-     },
- {
-         "nameUA": "Древинський Владислав",
-         "nameEN": "Drevynskyi Vladyslav"
-     },
- {
-         "nameUA": "Дрогіна Валентина",
-         "nameEN": "Drohina Valentyna"
-     },
- {
-         "nameUA": "Дубінська Світлана",
-         "nameEN": "Dubinska Svitlana"
-     },
- {
-         "nameUA": "Дуброва Григорій",
-         "nameEN": "Dubrova Hryhorii"
-     },
- {
-         "nameUA": "Дударенко Поліна",
-         "nameEN": "Dudarenko Polina"
-     },
- {
-         "nameUA": "Дудник Максим",
-         "nameEN": "Dudnyk Maksym"
-     },
- {
-         "nameUA": "Духнич Володимир",
-         "nameEN": "Dukhnych Volodymyr"
-     },
- {
-         "nameUA": "Дьяков Данііл",
-         "nameEN": "Diakov Daniil"
-     },
- {
-         "nameUA": "Дьячок Ілля",
-         "nameEN": "Diachok Illia"
-     },
- {
-         "nameUA": "Дяченко Катерина",
-         "nameEN": "Diachenko Kateryna"
-     },
- {
-         "nameUA": "Ейнарссон Фрея",
-         "nameEN": "Einarsson Freia"
-     },
- {
-         "nameUA": "Євсеєнко Тимофій",
-         "nameEN": "Yevseienko Tymofii"
-     },
- {
-         "nameUA": "Євтушенко Ілля",
-         "nameEN": "Yevtushenko Illia"
-     },
- {
-         "nameUA": "Єпанчин Сергій",
-         "nameEN": "Yepanchyn Serhii"
-     },
- {
-         "nameUA": "Єрмак Єлизавета",
-         "nameEN": "Yermak Yelyzaveta"
-     },
- {
-         "nameUA": "Єрьоміна Кароліна",
-         "nameEN": "Yeromina Karolina"
-     },
- {
-         "nameUA": "Єфремова Юлія",
-         "nameEN": "Yefremova Yuliia"
-     },
- {
-         "nameUA": "Жаворонок Дмитро",
-         "nameEN": "Zhavoronok Dmytro"
-     },
- {
-         "nameUA": "Жгута Павло",
-         "nameEN": "Zhhuta Pavlo"
-     },
- {
-         "nameUA": "Жежель Кароліна",
-         "nameEN": "Zhezhel Karolina"
-     },
- {
-         "nameUA": "Железняк Євгеній",
-         "nameEN": "Zhelezniak Yevhenii"
-     },
- {
-         "nameUA": "Жеребна Ірина",
-         "nameEN": "Zherebna Iryna"
-     },
- {
-         "nameUA": "Жила Аріна",
-         "nameEN": "Zhyla Arina"
-     },
- {
-         "nameUA": "Жильцова Юлія",
-         "nameEN": "Zhyltsova Yuliia"
-     },
- {
-         "nameUA": "Житник Марія",
-         "nameEN": "Zhytnyk Mariia"
-     },
- {
-         "nameUA": "Жмуд Віктор",
-         "nameEN": "Zhmud Viktor"
-     },
- {
-         "nameUA": "Жуков Богдан",
-         "nameEN": "Zhukov Bohdan"
-     },
- {
-         "nameUA": "Жученко Анастасія",
-         "nameEN": "Zhuchenko Anastasiia"
-     },
- {
-         "nameUA": "Заборовський Микита",
-         "nameEN": "Zaborovskyi Mykyta"
-     },
- {
-         "nameUA": "Завійська Софія",
-         "nameEN": "Zaviiska Sofiia"
-     },
- {
-         "nameUA": "Загацький Вадім",
-         "nameEN": "Zahatskyi Vadim"
-     },
- {
-         "nameUA": "Заєць Владислав",
-         "nameEN": "Zaiets Vladyslav"
-     },
- {
-         "nameUA": "Зайцева Єлизавета",
-         "nameEN": "Zaitseva Yelyzaveta"
-     },
- {
-         "nameUA": "Заремба Ярослав",
-         "nameEN": "Zaremba Yaroslav"
-     },
- {
-         "nameUA": "Захарченко Крістіна",
-         "nameEN": "Zakharchenko Kristina"
-     },
- {
-         "nameUA": "Захарчук Владислав",
-         "nameEN": "Zakharchuk Vladyslav"
-     },
- {
-         "nameUA": "Захарчук Максим",
-         "nameEN": "Zakharchuk Maksym"
-     },
- {
-         "nameUA": "Заянчковський Владислав",
-         "nameEN": "Zaianchkovskyi Vladyslav"
-     },
- {
-         "nameUA": "Здоренко Назар",
-         "nameEN": "Zdorenko Nazar"
-     },
- {
-         "nameUA": "Зимогляд Данііл",
-         "nameEN": "Zymohliad Daniil"
-     },
- {
-         "nameUA": "Зміївська Вікторія",
-         "nameEN": "Zmiivska Viktoriia"
-     },
- {
-         "nameUA": "Зубкова Ольга",
-         "nameEN": "Zubkova Olha"
-     },
- {
-         "nameUA": "Зубчик Владислав",
-         "nameEN": "Zubchyk Vladyslav"
-     },
- {
-         "nameUA": "Іванов Кирило",
-         "nameEN": "Ivanov Kyrylo"
-     },
- {
-         "nameUA": "Іванова Валерія",
-         "nameEN": "Ivanova Valeriia"
-     },
- {
-         "nameUA": "Івашина Дар'я",
-         "nameEN": "Ivashyna Daria"
-     },
- {
-         "nameUA": "Іжик Лілія",
-         "nameEN": "Izhyk Liliia"
-     },
- {
-         "nameUA": "Іліуц Анна",
-         "nameEN": "Iliuts Anna"
-     },
- {
-         "nameUA": "Ільїна Валерія",
-         "nameEN": "Ilina Valeriia"
-     },
- {
-         "nameUA": "Ільницької Марії",
-         "nameEN": "Ilnytskoi Marii"
-     },
- {
-         "nameUA": "Ільченко Гліб",
-         "nameEN": "Ilchenko Hlib"
-     },
- {
-         "nameUA": "Ільченко Мирослава",
-         "nameEN": "Ilchenko Myroslava"
-     },
- {
-         "nameUA": "Ільченко Нікіта",
-         "nameEN": "Ilchenko Nikita"
-     },
- {
-         "nameUA": "Ільчук Валерія",
-         "nameEN": "Ilchuk Valeriia"
-     },
- {
-         "nameUA": "Іпполітова Вероніка",
-         "nameEN": "Ippolitova Veronika"
-     },
- {
-         "nameUA": "Ірина Шеремет",
-         "nameEN": "Iryna Sheremet"
-     },
- {
-         "nameUA": "Іскрицький Микита",
-         "nameEN": "Iskrytskyi Mykyta"
-     },
- {
-         "nameUA": "Іщук Артем",
-         "nameEN": "Ishchuk Artem"
-     },
- {
-         "nameUA": "Кабєльнік Єлизавета",
-         "nameEN": "Kabielnik Yelyzaveta"
-     },
- {
-         "nameUA": "Кадебський Сергій",
-         "nameEN": "Kadebskyi Serhii"
-     },
- {
-         "nameUA": "Казарін Іван",
-         "nameEN": "Kazarin Ivan"
-     },
- {
-         "nameUA": "Калашник Ілля",
-         "nameEN": "Kalashnyk Illia"
-     },
- {
-         "nameUA": "Каленик Аріадна",
-         "nameEN": "Kalenyk Ariadna"
-     },
- {
-         "nameUA": "Калініченко Максим",
-         "nameEN": "Kalinichenko Maksym"
-     },
- {
-         "nameUA": "Калюжна Софія",
-         "nameEN": "Kaliuzhna Sofiia"
-     },
- {
-         "nameUA": "Карабліна Аліна",
-         "nameEN": "Karablina Alina"
-     },
- {
-         "nameUA": "Караваєв Артем",
-         "nameEN": "Karavaiev Artem"
-     },
- {
-         "nameUA": "Карастельова Віолетта",
-         "nameEN": "Karastelova Violetta"
-     },
- {
-         "nameUA": "Карась Варвара",
-         "nameEN": "Karas Varvara"
-     },
- {
-         "nameUA": "Карпун Вадим",
-         "nameEN": "Karpun Vadym"
-     },
- {
-         "nameUA": "Карп'як Павло",
-         "nameEN": "Karpiak Pavlo"
-     },
- {
-         "nameUA": "Касіневич Юрій",
-         "nameEN": "Kasinevych Yurii"
-     },
- {
-         "nameUA": "Кац Денис",
-         "nameEN": "Kats Denys"
-     },
- {
-         "nameUA": "Кирило Липенко",
-         "nameEN": "Kyrylo Lypenko"
-     },
- {
-         "nameUA": "Киринюк Максим",
-         "nameEN": "Kyryniuk Maksym"
-     },
- {
-         "nameUA": "Киричок Олександр",
-         "nameEN": "Kyrychok Oleksandr"
-     },
- {
-         "nameUA": "Кирноз Андрій",
-         "nameEN": "Kyrnoz Andrii"
-     },
- {
-         "nameUA": "Кифорук Людмила",
-         "nameEN": "Kyforuk Liudmyla"
-     },
- {
-         "nameUA": "Кірік Олександр",
-         "nameEN": "Kirik Oleksandr"
-     },
- {
-         "nameUA": "Кірницький Юрій",
-         "nameEN": "Kirnytskyi Yurii"
-     },
- {
-         "nameUA": "Кірьошкіна Кіра",
-         "nameEN": "Kiroshkina Kira"
-     },
- {
-         "nameUA": "Кіслова Софія",
-         "nameEN": "Kislova Sofiia"
-     },
- {
-         "nameUA": "Клименко Анатолій",
-         "nameEN": "Klymenko Anatolii"
-     },
- {
-         "nameUA": "Климович Анастасія",
-         "nameEN": "Klymovych Anastasiia"
-     },
- {
-         "nameUA": "Климчук Сергій",
-         "nameEN": "Klymchuk Serhii"
-     },
- {
-         "nameUA": "Клівенков Максим",
-         "nameEN": "Klivenkov Maksym"
-     },
- {
-         "nameUA": "Клімчук Ліліта",
-         "nameEN": "Klimchuk Lilita"
-     },
- {
-         "nameUA": "Клочко Єлизавета",
-         "nameEN": "Klochko Yelyzaveta"
-     },
- {
-         "nameUA": "Книш-Петренко Захарій",
-         "nameEN": "Knysh-Petrenko Zakharii"
-     },
- {
-         "nameUA": "Кобильник Олександр",
-         "nameEN": "Kobylnyk Oleksandr"
-     },
- {
-         "nameUA": "Кобяк Артем",
-         "nameEN": "Kobiak Artem"
-     },
- {
-         "nameUA": "Коваленко Єлизавета",
-         "nameEN": "Kovalenko Yelyzaveta"
-     },
- {
-         "nameUA": "Коваль Поліна",
-         "nameEN": "Koval Polina"
-     },
- {
-         "nameUA": "Ковальов Андрій",
-         "nameEN": "Kovalov Andrii"
-     },
- {
-         "nameUA": "Ковальський Юрій",
-         "nameEN": "Kovalskyi Yurii"
-     },
- {
-         "nameUA": "Ковтун Анастасія",
-         "nameEN": "Kovtun Anastasiia"
-     },
- {
-         "nameUA": "Ковтунович Роман",
-         "nameEN": "Kovtunovych Roman"
-     },
- {
-         "nameUA": "Кожина Анастасія",
-         "nameEN": "Kozhyna Anastasiia"
-     },
- {
-         "nameUA": "Кожокар Костянтин",
-         "nameEN": "Kozhokar Kostiantyn"
-     },
- {
-         "nameUA": "Кожушко Руслан",
-         "nameEN": "Kozhushko Ruslan"
-     },
- {
-         "nameUA": "Козак Олександра",
-         "nameEN": "Kozak Oleksandra"
-     },
- {
-         "nameUA": "Козолуп Олександр",
-         "nameEN": "Kozolup Oleksandr"
-     },
- {
-         "nameUA": "Козоріз Данило",
-         "nameEN": "Kozoriz Danylo"
-     },
- {
-         "nameUA": "Колєснік Поліна",
-         "nameEN": "Koliesnik Polina"
-     },
- {
-         "nameUA": "Колісніченко Роман",
-         "nameEN": "Kolisnichenko Roman"
-     },
- {
-         "nameUA": "Коломоєць Матвєй",
-         "nameEN": "Kolomoiets Matviei"
-     },
- {
-         "nameUA": "Коляда Анастасія",
-         "nameEN": "Koliada Anastasiia"
-     },
- {
-         "nameUA": "Комаров Данило",
-         "nameEN": "Komarov Danylo"
-     },
- {
-         "nameUA": "Комарова Кіра",
-         "nameEN": "Komarova Kira"
-     },
- {
-         "nameUA": "Конда Богдан",
-         "nameEN": "Konda Bohdan"
-     },
- {
-         "nameUA": "Кондратюк Олександр",
-         "nameEN": "Kondratiuk Oleksandr"
-     },
- {
-         "nameUA": "Коновалець Юлія",
-         "nameEN": "Konovalets Yuliia"
-     },
- {
-         "nameUA": "Коновалов Євген",
-         "nameEN": "Konovalov Yevhen"
-     },
- {
-         "nameUA": "Коняхіна Кіра",
-         "nameEN": "Koniakhina Kira"
-     },
- {
-         "nameUA": "Копаниця Дмитро",
-         "nameEN": "Kopanytsia Dmytro"
-     },
- {
-         "nameUA": "Корженівська Оксана",
-         "nameEN": "Korzhenivska Oksana"
-     },
- {
-         "nameUA": "Корнієнко Артем",
-         "nameEN": "Korniienko Artem"
-     },
- {
-         "nameUA": "Корнієнко Марія",
-         "nameEN": "Korniienko Mariia"
-     },
- {
-         "nameUA": "Корнієнко Олександр",
-         "nameEN": "Korniienko Oleksandr"
-     },
- {
-         "nameUA": "Корнійчук Максим",
-         "nameEN": "Korniichuk Maksym"
-     },
- {
-         "nameUA": "Корнійчук Юрій",
-         "nameEN": "Korniichuk Yurii"
-     },
- {
-         "nameUA": "Коробко Ольга",
-         "nameEN": "Korobko Olha"
-     },
- {
-         "nameUA": "Коровай Алла",
-         "nameEN": "Korovai Alla"
-     },
- {
-         "nameUA": "Коровай Віталій",
-         "nameEN": "Korovai Vitalii"
-     },
- {
-         "nameUA": "Короленко Анастасія",
-         "nameEN": "Korolenko Anastasiia"
-     },
- {
-         "nameUA": "Коршунова Валерія",
-         "nameEN": "Korshunova Valeriia"
-     },
- {
-         "nameUA": "Корягіна Діана",
-         "nameEN": "Koriahina Diana"
-     },
- {
-         "nameUA": "Косань Анастасія",
-         "nameEN": "Kosan Anastasiia"
-     },
- {
-         "nameUA": "Костельний Павло",
-         "nameEN": "Kostelnyi Pavlo"
-     },
- {
-         "nameUA": "Костенко Олександра",
-         "nameEN": "Kostenko Oleksandra"
-     },
- {
-         "nameUA": "Костоглод Артем",
-         "nameEN": "Kostohlod Artem"
-     },
- {
-         "nameUA": "Котелевський Кирило",
-         "nameEN": "Kotelevskyi Kyrylo"
-     },
- {
-         "nameUA": "Котенко Роман",
-         "nameEN": "Kotenko Roman"
-     },
- {
-         "nameUA": "Котова Мірра",
-         "nameEN": "Kotova Mirra"
-     },
- {
-         "nameUA": "Котульська Нонна",
-         "nameEN": "Kotulska Nonna"
-     },
- {
-         "nameUA": "Коцюба Ірина",
-         "nameEN": "Kotsiuba Iryna"
-     },
- {
-         "nameUA": "Кочкова Яна",
-         "nameEN": "Kochkova Yana"
-     },
- {
-         "nameUA": "Кошицький Олексій",
-         "nameEN": "Koshytskyi Oleksii"
-     },
- {
-         "nameUA": "Кошлатий Ярослав",
-         "nameEN": "Koshlatyi Yaroslav"
-     },
- {
-         "nameUA": "Кравчук Владислав",
-         "nameEN": "Kravchuk Vladyslav"
-     },
- {
-         "nameUA": "Крамський Віталій",
-         "nameEN": "Kramskyi Vitalii"
-     },
- {
-         "nameUA": "Красник Єлизавета",
-         "nameEN": "Krasnyk Yelyzaveta"
-     },
- {
-         "nameUA": "Краснюкова Ганна",
-         "nameEN": "Krasniukova Hanna"
-     },
- {
-         "nameUA": "Красовська Ірина",
-         "nameEN": "Krasovska Iryna"
-     },
- {
-         "nameUA": "Крашаниця Ольга",
-         "nameEN": "Krashanytsia Olha"
-     },
- {
-         "nameUA": "Кременецька Мілана",
-         "nameEN": "Kremenetska Milana"
-     },
- {
-         "nameUA": "Кривонос Володимир",
-         "nameEN": "Kryvonos Volodymyr"
-     },
- {
-         "nameUA": "Криворучко Дмитро",
-         "nameEN": "Kryvoruchko Dmytro"
-     },
- {
-         "nameUA": "Крижанівський Назар",
-         "nameEN": "Kryzhanivskyi Nazar"
-     },
- {
-         "nameUA": "Криницина Надія",
-         "nameEN": "Krynytsyna Nadiia"
-     },
- {
-         "nameUA": "Кропивка Владислав",
-         "nameEN": "Kropyvka Vladyslav"
-     },
- {
-         "nameUA": "Кругляк Володимир",
-         "nameEN": "Kruhliak Volodymyr"
-     },
- {
-         "nameUA": "Крюченко Ігор",
-         "nameEN": "Kriuchenko Ihor"
-     },
- {
-         "nameUA": "Крячко Анастасія",
-         "nameEN": "Kriachko Anastasiia"
-     },
- {
-         "nameUA": "Кудрик Артем",
-         "nameEN": "Kudryk Artem"
-     },
- {
-         "nameUA": "Куєвда Артем",
-         "nameEN": "Kuievda Artem"
-     },
- {
-         "nameUA": "Кузенко Анастасія",
-         "nameEN": "Kuzenko Anastasiia"
-     },
- {
-         "nameUA": "Кузьмич Павло",
-         "nameEN": "Kuzmych Pavlo"
-     },
- {
-         "nameUA": "Куксін Денис",
-         "nameEN": "Kuksin Denys"
-     },
- {
-         "nameUA": "Кулик Олександр",
-         "nameEN": "Kulyk Oleksandr"
-     },
- {
-         "nameUA": "Куліченко Єва",
-         "nameEN": "Kulichenko Yeva"
-     },
- {
-         "nameUA": "Куліш Сергій",
-         "nameEN": "Kulish Serhii"
-     },
- {
-         "nameUA": "Кулэша Дмитро",
-         "nameEN": "Kulэsha Dmytro"
-     },
- {
-         "nameUA": "Курінна Юлія",
-         "nameEN": "Kurinna Yuliia"
-     },
- {
-         "nameUA": "Куріцький Дмитро",
-         "nameEN": "Kuritskyi Dmytro"
-     },
- {
-         "nameUA": "Курська Юлія",
-         "nameEN": "Kurska Yuliia"
-     },
- {
-         "nameUA": "Куцай Анна",
-         "nameEN": "Kutsai Anna"
-     },
- {
-         "nameUA": "Кучеренко Денис",
-         "nameEN": "Kucherenko Denys"
-     },
- {
-         "nameUA": "Лаврик Денис",
-         "nameEN": "Lavryk Denys"
-     },
- {
-         "nameUA": "Лаврик Олександр",
-         "nameEN": "Lavryk Oleksandr"
-     },
- {
-         "nameUA": "Лагойко Дмитро",
-         "nameEN": "Lahoiko Dmytro"
-     },
- {
-         "nameUA": "Лаетін Дмитро",
-         "nameEN": "Laetin Dmytro"
-     },
- {
-         "nameUA": "Лазаретна Дана",
-         "nameEN": "Lazaretna Dana"
-     },
- {
-         "nameUA": "Лазерцев Максим",
-         "nameEN": "Lazertsev Maksym"
-     },
- {
-         "nameUA": "Лахай Ілля",
-         "nameEN": "Lakhai Illia"
-     },
- {
-         "nameUA": "Лахно Володимир",
-         "nameEN": "Lakhno Volodymyr"
-     },
- {
-         "nameUA": "Лебідь Олександр",
-         "nameEN": "Lebid Oleksandr"
-     },
- {
-         "nameUA": "Левченко Єлизавета",
-         "nameEN": "Levchenko Yelyzaveta"
-     },
- {
-         "nameUA": "Легкий Юрій",
-         "nameEN": "Lehkyi Yurii"
-     },
- {
-         "nameUA": "Леонтьєва Катерина",
-         "nameEN": "Leontieva Kateryna"
-     },
- {
-         "nameUA": "Лепенко Маргарита",
-         "nameEN": "Lepenko Marharyta"
-     },
- {
-         "nameUA": "Лепьошкіна Анна",
-         "nameEN": "Leposhkina Anna"
-     },
- {
-         "nameUA": "Литовченко Людмила",
-         "nameEN": "Lytovchenko Liudmyla"
-     },
- {
-         "nameUA": "Ліксанін Іван",
-         "nameEN": "Liksanin Ivan"
-     },
- {
-         "nameUA": "Лісаченко Сергій",
-         "nameEN": "Lisachenko Serhii"
-     },
- {
-         "nameUA": "Лісовенко Дмитро",
-         "nameEN": "Lisovenko Dmytro"
-     },
- {
-         "nameUA": "Ліхно Катерина",
-         "nameEN": "Likhno Kateryna"
-     },
- {
-         "nameUA": "Лобода Софія",
-         "nameEN": "Loboda Sofiia"
-     },
- {
-         "nameUA": "Ломакін Георгій",
-         "nameEN": "Lomakin Heorhii"
-     },
- {
-         "nameUA": "Лопійчук Петро",
-         "nameEN": "Lopiichuk Petro"
-     },
- {
-         "nameUA": "Лубко Валентин",
-         "nameEN": "Lubko Valentyn"
-     },
- {
-         "nameUA": "Луговий Олег",
-         "nameEN": "Luhovyi Oleh"
-     },
- {
-         "nameUA": "Луговський Сергій",
-         "nameEN": "Luhovskyi Serhii"
-     },
- {
-         "nameUA": "Лузан Валерія",
-         "nameEN": "Luzan Valeriia"
-     },
- {
-         "nameUA": "Луняка Ірина",
-         "nameEN": "Luniaka Iryna"
-     },
- {
-         "nameUA": "Луценко Руслан",
-         "nameEN": "Lutsenko Ruslan"
-     },
- {
-         "nameUA": "Лучнікова Дарина",
-         "nameEN": "Luchnikova Daryna"
-     },
- {
-         "nameUA": "Лю Фен",
-         "nameEN": "Liu Fen"
-     },
- {
-         "nameUA": "Люненко Петро",
-         "nameEN": "Liunenko Petro"
-     },
- {
-         "nameUA": "Лютовська Діана",
-         "nameEN": "Liutovska Diana"
-     },
- {
-         "nameUA": "Лялюк Вероніка",
-         "nameEN": "Lialiuk Veronika"
-     },
- {
-         "nameUA": "Лясківський Володимир",
-         "nameEN": "Liaskivskyi Volodymyr"
-     },
- {
-         "nameUA": "Ляшенко Владислав",
-         "nameEN": "Liashenko Vladyslav"
-     },
- {
-         "nameUA": "М’яло Софія",
-         "nameEN": "Mialo Sofiia"
-     },
- {
-         "nameUA": "Магдалина Маргарита",
-         "nameEN": "Mahdalyna Marharyta"
-     },
- {
-         "nameUA": "Магіліна Валерія",
-         "nameEN": "Mahilina Valeriia"
-     },
- {
-         "nameUA": "Мазур Вадим",
-         "nameEN": "Mazur Vadym"
-     },
- {
-         "nameUA": "Мазур Киріл",
-         "nameEN": "Mazur Kyril"
-     },
- {
-         "nameUA": "Майковський Іван",
-         "nameEN": "Maikovskyi Ivan"
-     },
- {
-         "nameUA": "Майоров Сергій",
-         "nameEN": "Maiorov Serhii"
-     },
- {
-         "nameUA": "Макаренко Анастасія",
-         "nameEN": "Makarenko Anastasiia"
-     },
- {
-         "nameUA": "Максименко Дмитро",
-         "nameEN": "Maksymenko Dmytro"
-     },
- {
-         "nameUA": "Маленко Анастасія",
-         "nameEN": "Malenko Anastasiia"
-     },
- {
-         "nameUA": "Малихіна Іванна",
-         "nameEN": "Malykhina Ivanna"
-     },
- {
-         "nameUA": "Малік Іван",
-         "nameEN": "Malik Ivan"
-     },
- {
-         "nameUA": "Маліцький Максим",
-         "nameEN": "Malitskyi Maksym"
-     },
- {
-         "nameUA": "Малюкін Олександр",
-         "nameEN": "Maliukin Oleksandr"
-     },
- {
-         "nameUA": "Маляр Людмила",
-         "nameEN": "Maliar Liudmyla"
-     },
- {
-         "nameUA": "Мамонтов Євген",
-         "nameEN": "Mamontov Yevhen"
-     },
- {
-         "nameUA": "Манскова Юлія",
-         "nameEN": "Manskova Yuliia"
-     },
- {
-         "nameUA": "Мануйлик Євгеній",
-         "nameEN": "Manuilyk Yevhenii"
-     },
- {
-         "nameUA": "Мар`єнков Денис",
-         "nameEN": "Mar`ienkov Denys"
-     },
- {
-         "nameUA": "Маринюк Дмитро",
-         "nameEN": "Maryniuk Dmytro"
-     },
- {
-         "nameUA": "Мартиняк Ганна",
-         "nameEN": "Martyniak Hanna"
-     },
- {
-         "nameUA": "Мартіян Максим",
-         "nameEN": "Martiian Maksym"
-     },
- {
-         "nameUA": "Марущак Ілля",
-         "nameEN": "Marushchak Illia"
-     },
- {
-         "nameUA": "Марфіна Дар'я",
-         "nameEN": "Marfina Daria"
-     },
- {
-         "nameUA": "Марценюк Вадим",
-         "nameEN": "Martseniuk Vadym"
-     },
- {
-         "nameUA": "Маслюченко Петро",
-         "nameEN": "Masliuchenko Petro"
-     },
- {
-         "nameUA": "Матвєєв Ілля",
-         "nameEN": "Matvieiev Illia"
-     },
- {
-         "nameUA": "Матвєєв Михайло",
-         "nameEN": "Matvieiev Mykhailo"
-     },
- {
-         "nameUA": "Матвієнко Катерина",
-         "nameEN": "Matviienko Kateryna"
-     },
- {
-         "nameUA": "Матвіюк Софія",
-         "nameEN": "Matviiuk Sofiia"
-     },
- {
-         "nameUA": "Матюк Дмитро",
-         "nameEN": "Matiuk Dmytro"
-     },
- {
-         "nameUA": "Матюха Олександр",
-         "nameEN": "Matiukha Oleksandr"
-     },
- {
-         "nameUA": "Махно Фєодосій",
-         "nameEN": "Makhno Fieodosii"
-     },
- {
-         "nameUA": "Мацюрович Віталіна",
-         "nameEN": "Matsiurovych Vitalina"
-     },
- {
-         "nameUA": "Машталір Вероніка",
-         "nameEN": "Mashtalir Veronika"
-     },
- {
-         "nameUA": "Медведєва Інна",
-         "nameEN": "Medvedieva Inna"
-     },
- {
-         "nameUA": "Мельник Вероніка",
-         "nameEN": "Melnyk Veronika"
-     },
- {
-         "nameUA": "Мельник Дмитро",
-         "nameEN": "Melnyk Dmytro"
-     },
- {
-         "nameUA": "Мельник Євгеній",
-         "nameEN": "Melnyk Yevhenii"
-     },
- {
-         "nameUA": "Мельник Юлія",
-         "nameEN": "Melnyk Yuliia"
-     },
- {
-         "nameUA": "Мельников Іван",
-         "nameEN": "Melnykov Ivan"
-     },
- {
-         "nameUA": "Мельничуr Олег",
-         "nameEN": "Melnychur Oleh"
-     },
- {
-         "nameUA": "Мещерякова Анастасія",
-         "nameEN": "Meshcheriakova Anastasiia"
-     },
- {
-         "nameUA": "Мєзін Артем",
-         "nameEN": "Miezin Artem"
-     },
- {
-         "nameUA": "Мєшков Роман",
-         "nameEN": "Mieshkov Roman"
-     },
- {
-         "nameUA": "Микитин Наталія",
-         "nameEN": "Mykytyn Nataliia"
-     },
- {
-         "nameUA": "Микулич Тетяна",
-         "nameEN": "Mykulych Tetiana"
-     },
- {
-         "nameUA": "Миронюк Олександр",
-         "nameEN": "Myroniuk Oleksandr"
-     },
- {
-         "nameUA": "Мисливченко Данило",
-         "nameEN": "Myslyvchenko Danylo"
-     },
- {
-         "nameUA": "Мицик Олег",
-         "nameEN": "Mytsyk Oleh"
-     },
- {
-         "nameUA": "Мірошніченко Владислав",
-         "nameEN": "Miroshnichenko Vladyslav"
-     },
- {
-         "nameUA": "Мітрофанова Вікторія",
-         "nameEN": "Mitrofanova Viktoriia"
-     },
- {
-         "nameUA": "Міщенко Артур",
-         "nameEN": "Mishchenko Artur"
-     },
- {
-         "nameUA": "Мнухін Марк",
-         "nameEN": "Mnukhin Mark"
-     },
- {
-         "nameUA": "Мова Вероніка",
-         "nameEN": "Mova Veronika"
-     },
- {
-         "nameUA": "Моісеєнко Михайло",
-         "nameEN": "Moiseienko Mykhailo"
-     },
- {
-         "nameUA": "Мойсєєва Ірина",
-         "nameEN": "Moisieieva Iryna"
-     },
- {
-         "nameUA": "Молдовану Анна",
-         "nameEN": "Moldovanu Anna"
-     },
- {
-         "nameUA": "Молнар Софія",
-         "nameEN": "Molnar Sofiia"
-     },
- {
-         "nameUA": "Моргулець Маргарита",
-         "nameEN": "Morhulets Marharyta"
-     },
- {
-         "nameUA": "Мороховська Дар'я",
-         "nameEN": "Morokhovska Daria"
-     },
- {
-         "nameUA": "Москаленко Артем",
-         "nameEN": "Moskalenko Artem"
-     },
- {
-         "nameUA": "Мосненко Никита",
-         "nameEN": "Mosnenko Nykyta"
-     },
- {
-         "nameUA": "Мосягін Святослав",
-         "nameEN": "Mosiahin Sviatoslav"
-     },
- {
-         "nameUA": "Мохнюк Анна",
-         "nameEN": "Mokhniuk Anna"
-     },
- {
-         "nameUA": "Мохов Кирило",
-         "nameEN": "Mokhov Kyrylo"
-     },
- {
-         "nameUA": "Музика Ірина",
-         "nameEN": "Muzyka Iryna"
-     },
- {
-         "nameUA": "Музиченко Олександр",
-         "nameEN": "Muzychenko Oleksandr"
-     },
- {
-         "nameUA": "Мурований Роман",
-         "nameEN": "Murovanyi Roman"
-     },
- {
-         "nameUA": "Мушинський Віталій",
-         "nameEN": "Mushynskyi Vitalii"
-     },
- {
-         "nameUA": "Мякушина Владислава",
-         "nameEN": "Miakushyna Vladyslava"
-     },
- {
-         "nameUA": "Навертюк Валентин",
-         "nameEN": "Navertiuk Valentyn"
-     },
- {
-         "nameUA": "Нагорний Тарас",
-         "nameEN": "Nahornyi Taras"
-     },
- {
-         "nameUA": "Назар Оксана",
-         "nameEN": "Nazar Oksana"
-     },
- {
-         "nameUA": "Наконечний Святослав",
-         "nameEN": "Nakonechnyi Sviatoslav"
-     },
- {
-         "nameUA": "Наконечний Тарас",
-         "nameEN": "Nakonechnyi Taras"
-     },
- {
-         "nameUA": "Нападовська Дарʼя",
-         "nameEN": "Napadovska Darʼia"
-     },
- {
-         "nameUA": "Науменко Олександр",
-         "nameEN": "Naumenko Oleksandr"
-     },
- {
-         "nameUA": "Нелін Діана",
-         "nameEN": "Nelin Diana"
-     },
- {
-         "nameUA": "Ненька Максим",
-         "nameEN": "Nenka Maksym"
-     },
- {
-         "nameUA": "Нерощин Денис",
-         "nameEN": "Neroshchyn Denys"
-     },
- {
-         "nameUA": "Нікітіна Вікторія",
-         "nameEN": "Nikitina Viktoriia"
-     },
- {
-         "nameUA": "Ніколаєнко Вікторія",
-         "nameEN": "Nikolaienko Viktoriia"
-     },
- {
-         "nameUA": "Ніколайчук Артур",
-         "nameEN": "Nikolaichuk Artur"
-     },
- {
-         "nameUA": "Нікульча Ольга",
-         "nameEN": "Nikulcha Olha"
-     },
- {
-         "nameUA": "Німеровський Максим",
-         "nameEN": "Nimerovskyi Maksym"
-     },
- {
-         "nameUA": "Ніцкевич Дар'я",
-         "nameEN": "Nitskevych Daria"
-     },
- {
-         "nameUA": "Носіченко Ксенія",
-         "nameEN": "Nosichenko Kseniia"
-     },
- {
-         "nameUA": "Оганесян Евеліна",
-         "nameEN": "Ohanesian Evelina"
-     },
- {
-         "nameUA": "Озерова Катерина",
-         "nameEN": "Ozerova Kateryna"
-     },
- {
-         "nameUA": "Окрепкий Володимир",
-         "nameEN": "Okrepkyi Volodymyr"
-     },
- {
-         "nameUA": "Окутіна Альона",
-         "nameEN": "Okutina Alona"
-     },
- {
-         "nameUA": "Олійник Яна",
-         "nameEN": "Oliinyk Yana"
-     },
- {
-         "nameUA": "Оліферчук Валентин",
-         "nameEN": "Oliferchuk Valentyn"
-     },
- {
-         "nameUA": "Ольховська Владислава",
-         "nameEN": "Olkhovska Vladyslava"
-     },
- {
-         "nameUA": "Орлов Вячеслав",
-         "nameEN": "Orlov Viacheslav"
-     },
- {
-         "nameUA": "Осадча Марина",
-         "nameEN": "Osadcha Maryna"
-     },
- {
-         "nameUA": "Осіковський Павло",
-         "nameEN": "Osikovskyi Pavlo"
-     },
- {
-         "nameUA": "Осіпова Ольга",
-         "nameEN": "Osipova Olha"
-     },
- {
-         "nameUA": "Осіпчук Лілія",
-         "nameEN": "Osipchuk Liliia"
-     },
- {
-         "nameUA": "Остапенко Юрій",
-         "nameEN": "Ostapenko Yurii"
-     },
- {
-         "nameUA": "Остапов Данило",
-         "nameEN": "Ostapov Danylo"
-     },
- {
-         "nameUA": "Островський Антон",
-         "nameEN": "Ostrovskyi Anton"
-     },
- {
-         "nameUA": "П`ятишкіна Катерина",
-         "nameEN": "P`iatyshkina Kateryna"
-     },
- {
-         "nameUA": "П’ятикоп Владислава",
-         "nameEN": "Piatykop Vladyslava"
-     },
- {
-         "nameUA": "Палійчук Марія",
-         "nameEN": "Paliichuk Mariia"
-     },
- {
-         "nameUA": "Панікарова Соломія",
-         "nameEN": "Panikarova Solomiia"
-     },
- {
-         "nameUA": "Панчишина Софія",
-         "nameEN": "Panchyshyna Sofiia"
-     },
- {
-         "nameUA": "Паращук Любов",
-         "nameEN": "Parashchuk Liubov"
-     },
- {
-         "nameUA": "Парполіта Максім",
-         "nameEN": "Parpolita Maksim"
-     },
- {
-         "nameUA": "Пархоменко Богдан",
-         "nameEN": "Parkhomenko Bohdan"
-     },
- {
-         "nameUA": "Патуляк Олександр",
-         "nameEN": "Patuliak Oleksandr"
-     },
- {
-         "nameUA": "Пашківський Василь",
-         "nameEN": "Pashkivskyi Vasyl"
-     },
- {
-         "nameUA": "Педоренко Софія",
-         "nameEN": "Pedorenko Sofiia"
-     },
- {
-         "nameUA": "Педосенко Олександра",
-         "nameEN": "Pedosenko Oleksandra"
-     },
- {
-         "nameUA": "Пекарчук Артем",
-         "nameEN": "Pekarchuk Artem"
-     },
- {
-         "nameUA": "Пенских Даніїл",
-         "nameEN": "Penskykh Daniil"
-     },
- {
-         "nameUA": "Перепятенко Олексій",
-         "nameEN": "Perepiatenko Oleksii"
-     },
- {
-         "nameUA": "Перлуг Максим",
-         "nameEN": "Perluh Maksym"
-     },
- {
-         "nameUA": "Перун Христина",
-         "nameEN": "Perun Khrystyna"
-     },
- {
-         "nameUA": "Песчанська Карина",
-         "nameEN": "Peschanska Karyna"
-     },
- {
-         "nameUA": "Петренко Ілля",
-         "nameEN": "Petrenko Illia"
-     },
- {
-         "nameUA": "Петрик Катерина",
-         "nameEN": "Petryk Kateryna"
-     },
- {
-         "nameUA": "Петриківа Таїсія",
-         "nameEN": "Petrykiva Taisiia"
-     },
- {
-         "nameUA": "Петрич Василь",
-         "nameEN": "Petrych Vasyl"
-     },
- {
-         "nameUA": "Пилипенко Артур",
-         "nameEN": "Pylypenko Artur"
-     },
- {
-         "nameUA": "Пилипенко Вадим",
-         "nameEN": "Pylypenko Vadym"
-     },
- {
-         "nameUA": "Пипа Владислав",
-         "nameEN": "Pypa Vladyslav"
-     },
- {
-         "nameUA": "Пиріг Євген",
-         "nameEN": "Pyrih Yevhen"
-     },
- {
-         "nameUA": "Пироженко Павло",
-         "nameEN": "Pyrozhenko Pavlo"
-     },
- {
-         "nameUA": "Підопригора Дмитро",
-         "nameEN": "Pidopryhora Dmytro"
-     },
- {
-         "nameUA": "Пізняк Юлія",
-         "nameEN": "Pizniak Yuliia"
-     },
- {
-         "nameUA": "Пікун Владислав",
-         "nameEN": "Pikun Vladyslav"
-     },
- {
-         "nameUA": "Пінчук Денис",
-         "nameEN": "Pinchuk Denys"
-     },
- {
-         "nameUA": "Пірго Валерія",
-         "nameEN": "Pirho Valeriia"
-     },
- {
-         "nameUA": "Пісковець Дмитро",
-         "nameEN": "Piskovets Dmytro"
-     },
- {
-         "nameUA": "Плотнікова Єлизавета",
-         "nameEN": "Plotnikova Yelyzaveta"
-     },
- {
-         "nameUA": "Плужнік Альона",
-         "nameEN": "Pluzhnik Alona"
-     },
- {
-         "nameUA": "Подолянчук Марк",
-         "nameEN": "Podolianchuk Mark"
-     },
- {
-         "nameUA": "Половцев Іван",
-         "nameEN": "Polovtsev Ivan"
-     },
- {
-         "nameUA": "Пономаренко Олена",
-         "nameEN": "Ponomarenko Olena"
-     },
- {
-         "nameUA": "Пономарьов Андрій",
-         "nameEN": "Ponomarov Andrii"
-     },
- {
-         "nameUA": "Пономарьов Данило",
-         "nameEN": "Ponomarov Danylo"
-     },
- {
-         "nameUA": "Попов Денис",
-         "nameEN": "Popov Denys"
-     },
- {
-         "nameUA": "Попова Анастасія",
-         "nameEN": "Popova Anastasiia"
-     },
- {
-         "nameUA": "Попович Анастасія",
-         "nameEN": "Popovych Anastasiia"
-     },
- {
-         "nameUA": "Попович Дмитро",
-         "nameEN": "Popovych Dmytro"
-     },
- {
-         "nameUA": "Портер Барбара-Анна",
-         "nameEN": "Porter Barbara-Anna"
-     },
- {
-         "nameUA": "Посенко Таїсія",
-         "nameEN": "Posenko Taisiia"
-     },
- {
-         "nameUA": "Потапова Альона",
-         "nameEN": "Potapova Alona"
-     },
- {
-         "nameUA": "Потьомкіна Ганна",
-         "nameEN": "Potomkina Hanna"
-     },
- {
-         "nameUA": "Потьомкіна Марія",
-         "nameEN": "Potomkina Mariia"
-     },
- {
-         "nameUA": "Правий Даніїл",
-         "nameEN": "Pravyi Daniil"
-     },
- {
-         "nameUA": "Приймак Олена",
-         "nameEN": "Pryimak Olena"
-     },
- {
-         "nameUA": "Присташ Анастасія",
-         "nameEN": "Prystash Anastasiia"
-     },
- {
-         "nameUA": "Приткова Катерина",
-         "nameEN": "Prytkova Kateryna"
-     },
- {
-         "nameUA": "Притула Анна",
-         "nameEN": "Prytula Anna"
-     },
- {
-         "nameUA": "Прокопчук Міра",
-         "nameEN": "Prokopchuk Mira"
-     },
- {
-         "nameUA": "Пронікова Марина",
-         "nameEN": "Pronikova Maryna"
-     },
- {
-         "nameUA": "Пустовідко Олександр",
-         "nameEN": "Pustovidko Oleksandr"
-     },
- {
-         "nameUA": "Пустошинська Дар'я",
-         "nameEN": "Pustoshynska Daria"
-     },
- {
-         "nameUA": "Рам'янов Сергій",
-         "nameEN": "Ramianov Serhii"
-     },
- {
-         "nameUA": "Ревенко Вікторія",
-         "nameEN": "Revenko Viktoriia"
-     },
- {
-         "nameUA": "Редько Владислав",
-         "nameEN": "Redko Vladyslav"
-     },
- {
-         "nameUA": "Резнік Діана",
-         "nameEN": "Reznik Diana"
-     },
- {
-         "nameUA": "Рєпа Владислава",
-         "nameEN": "Riepa Vladyslava"
-     },
- {
-         "nameUA": "Рибалко Анна",
-         "nameEN": "Rybalko Anna"
-     },
- {
-         "nameUA": "Рильський Даніїл",
-         "nameEN": "Rylskyi Daniil"
-     },
- {
-         "nameUA": "Рипаленко Єгор",
-         "nameEN": "Rypalenko Yehor"
-     },
- {
-         "nameUA": "Різніченко Максим",
-         "nameEN": "Riznichenko Maksym"
-     },
- {
-         "nameUA": "Робич Вероніка",
-         "nameEN": "Robych Veronika"
-     },
- {
-         "nameUA": "Розора Дарина",
-         "nameEN": "Rozora Daryna"
-     },
- {
-         "nameUA": "Романів Софія",
-         "nameEN": "Romaniv Sofiia"
-     },
- {
-         "nameUA": "Романько Гліб",
-         "nameEN": "Romanko Hlib"
-     },
- {
-         "nameUA": "Рубець Артем",
-         "nameEN": "Rubets Artem"
-     },
- {
-         "nameUA": "Руденко Марія",
-         "nameEN": "Rudenko Mariia"
-     },
- {
-         "nameUA": "Рудич Анастасія",
-         "nameEN": "Rudych Anastasiia"
-     },
- {
-         "nameUA": "Рудніцька Богдана",
-         "nameEN": "Rudnitska Bohdana"
-     },
- {
-         "nameUA": "Рутковська Анастасія",
-         "nameEN": "Rutkovska Anastasiia"
-     },
- {
-         "nameUA": "Рушай Євген",
-         "nameEN": "Rushai Yevhen"
-     },
- {
-         "nameUA": "Рябік Аліса",
-         "nameEN": "Riabik Alisa"
-     },
- {
-         "nameUA": "Рябцева Софія",
-         "nameEN": "Riabtseva Sofiia"
-     },
- {
-         "nameUA": "Сабо Сільвія",
-         "nameEN": "Sabo Silviia"
-     },
- {
-         "nameUA": "Савенко Ганна",
-         "nameEN": "Savenko Hanna"
-     },
- {
-         "nameUA": "Савранчук Владислав",
-         "nameEN": "Savranchuk Vladyslav"
-     },
- {
-         "nameUA": "Савчук Олександр",
-         "nameEN": "Savchuk Oleksandr"
-     },
- {
-         "nameUA": "Саган Артем",
-         "nameEN": "Sahan Artem"
-     },
- {
-         "nameUA": "Сазанова Юлія",
-         "nameEN": "Sazanova Yuliia"
-     },
- {
-         "nameUA": "Сазонова Владислава",
-         "nameEN": "Sazonova Vladyslava"
-     },
- {
-         "nameUA": "Сака Олена",
-         "nameEN": "Saka Olena"
-     },
- {
-         "nameUA": "Самойленко Софія",
-         "nameEN": "Samoilenko Sofiia"
-     },
- {
-         "nameUA": "Самохіна Євгенія",
-         "nameEN": "Samokhina Yevheniia"
-     },
- {
-         "nameUA": "Сандул Наталія",
-         "nameEN": "Sandul Nataliia"
-     },
- {
-         "nameUA": "Сапило Оксана",
-         "nameEN": "Sapylo Oksana"
-     },
- {
-         "nameUA": "Саранчук Роман",
-         "nameEN": "Saranchuk Roman"
-     },
- {
-         "nameUA": "Свиридюк Анастасія",
-         "nameEN": "Svyrydiuk Anastasiia"
-     },
- {
-         "nameUA": "Севернюк Владислав",
-         "nameEN": "Severniuk Vladyslav"
-     },
- {
-         "nameUA": "Седоренко Марина",
-         "nameEN": "Sedorenko Maryna"
-     },
- {
-         "nameUA": "Семенова Оксана",
-         "nameEN": "Semenova Oksana"
-     },
- {
-         "nameUA": "Семенюк Данило",
-         "nameEN": "Semeniuk Danylo"
-     },
- {
-         "nameUA": "Семко Богдана",
-         "nameEN": "Semko Bohdana"
-     },
- {
-         "nameUA": "Семченко Вікторія",
-         "nameEN": "Semchenko Viktoriia"
-     },
- {
-         "nameUA": "Сендецька Юлія",
-         "nameEN": "Sendetska Yuliia"
-     },
- {
-         "nameUA": "Сеник Юлія",
-         "nameEN": "Senyk Yuliia"
-     },
- {
-         "nameUA": "Сергєєва Ксенія",
-         "nameEN": "Serhieieva Kseniia"
-     },
- {
-         "nameUA": "Сергієнко Руслан",
-         "nameEN": "Serhiienko Ruslan"
-     },
- {
-         "nameUA": "Сердюк Богдан",
-         "nameEN": "Serdiuk Bohdan"
-     },
- {
-         "nameUA": "Сєчко Алевтина",
-         "nameEN": "Siechko Alevtyna"
-     },
- {
-         "nameUA": "Сидоренко Катерина",
-         "nameEN": "Sydorenko Kateryna"
-     },
- {
-         "nameUA": "Сироткіна Мілана",
-         "nameEN": "Syrotkina Milana"
-     },
- {
-         "nameUA": "Сідько Софія",
-         "nameEN": "Sidko Sofiia"
-     },
- {
-         "nameUA": "Сікалюк Артем",
-         "nameEN": "Sikaliuk Artem"
-     },
- {
-         "nameUA": "Сіховський Владислав",
-         "nameEN": "Sikhovskyi Vladyslav"
-     },
- {
-         "nameUA": "Скакодуб Дмитро",
-         "nameEN": "Skakodub Dmytro"
-     },
- {
-         "nameUA": "Скворцова Оксана",
-         "nameEN": "Skvortsova Oksana"
-     },
- {
-         "nameUA": "Слабоуз Анна",
-         "nameEN": "Slabouz Anna"
-     },
- {
-         "nameUA": "Слівко Микола",
-         "nameEN": "Slivko Mykola"
-     },
- {
-         "nameUA": "Сліпченко Андрій",
-         "nameEN": "Slipchenko Andrii"
-     },
- {
-         "nameUA": "Слічний Михайло",
-         "nameEN": "Slichnyi Mykhailo"
-     },
- {
-         "nameUA": "Слоквін Павло",
-         "nameEN": "Slokvin Pavlo"
-     },
- {
-         "nameUA": "Смалюк Андрій",
-         "nameEN": "Smaliuk Andrii"
-     },
- {
-         "nameUA": "Смик Артем",
-         "nameEN": "Smyk Artem"
-     },
- {
-         "nameUA": "Смирнов Дмитро",
-         "nameEN": "Smyrnov Dmytro"
-     },
- {
-         "nameUA": "Смолянова Ніка",
-         "nameEN": "Smolianova Nika"
-     },
- {
-         "nameUA": "Снігур Максим",
-         "nameEN": "Snihur Maksym"
-     },
- {
-         "nameUA": "Соколенко Андрій",
-         "nameEN": "Sokolenko Andrii"
-     },
- {
-         "nameUA": "Соколовська Вікторія",
-         "nameEN": "Sokolovska Viktoriia"
-     },
- {
-         "nameUA": "Сокольніков Іван",
-         "nameEN": "Sokolnikov Ivan"
-     },
- {
-         "nameUA": "Солодова Зоя",
-         "nameEN": "Solodova Zoia"
-     },
- {
-         "nameUA": "Солом'яний Денис",
-         "nameEN": "Solomianyi Denys"
-     },
- {
-         "nameUA": "Солярова Дар'я",
-         "nameEN": "Soliarova Daria"
-     },
- {
-         "nameUA": "Сопітько Вікторія",
-         "nameEN": "Sopitko Viktoriia"
-     },
- {
-         "nameUA": "Сопітько Марія",
-         "nameEN": "Sopitko Mariia"
-     },
- {
-         "nameUA": "Соснов Максим",
-         "nameEN": "Sosnov Maksym"
-     },
- {
-         "nameUA": "Сохань Станіслав",
-         "nameEN": "Sokhan Stanislav"
-     },
- {
-         "nameUA": "Спас Таліна",
-         "nameEN": "Spas Talina"
-     },
- {
-         "nameUA": "Стаднік Катерина",
-         "nameEN": "Stadnik Kateryna"
-     },
- {
-         "nameUA": "Станіславенко Євгеній",
-         "nameEN": "Stanislavenko Yevhenii"
-     },
- {
-         "nameUA": "Станіславенко Олександр",
-         "nameEN": "Stanislavenko Oleksandr"
-     },
- {
-         "nameUA": "Старченко Анастасія",
-         "nameEN": "Starchenko Anastasiia"
-     },
- {
-         "nameUA": "Степанов Мирослав",
-         "nameEN": "Stepanov Myroslav"
-     },
- {
-         "nameUA": "Стець Микола",
-         "nameEN": "Stets Mykola"
-     },
- {
-         "nameUA": "Стовба Яромир",
-         "nameEN": "Stovba Yaromyr"
-     },
- {
-         "nameUA": "Стожок Назар",
-         "nameEN": "Stozhok Nazar"
-     },
- {
-         "nameUA": "Страннікова Марія",
-         "nameEN": "Strannikova Mariia"
-     },
- {
-         "nameUA": "Стрижакова Алевтина",
-         "nameEN": "Stryzhakova Alevtyna"
-     },
- {
-         "nameUA": "Стричак Назар",
-         "nameEN": "Strychak Nazar"
-     },
- {
-         "nameUA": "Стрілець Жанна",
-         "nameEN": "Strilets Zhanna"
-     },
- {
-         "nameUA": "Суліма Юрій",
-         "nameEN": "Sulima Yurii"
-     },
- {
-         "nameUA": "Сун Ліньлінь",
-         "nameEN": "Sun Linlin"
-     },
- {
-         "nameUA": "Сурманідзе Тєона",
-         "nameEN": "Surmanidze Tieona"
-     },
- {
-         "nameUA": "Тагієва Софія",
-         "nameEN": "Tahiieva Sofiia"
-     },
- {
-         "nameUA": "Таїцька Катерина",
-         "nameEN": "Taitska Kateryna"
-     },
- {
-         "nameUA": "Таран Владислав",
-         "nameEN": "Taran Vladyslav"
-     },
- {
-         "nameUA": "Тараніна Анастасія",
-         "nameEN": "Taranina Anastasiia"
-     },
- {
-         "nameUA": "Татарінов Олег",
-         "nameEN": "Tatarinov Oleh"
-     },
- {
-         "nameUA": "Тендюк Софія",
-         "nameEN": "Tendiuk Sofiia"
-     },
- {
-         "nameUA": "Теребій Ірина",
-         "nameEN": "Terebii Iryna"
-     },
- {
-         "nameUA": "Терещенко Станіслав",
-         "nameEN": "Tereshchenko Stanislav"
-     },
- {
-         "nameUA": "Терлецька Марія",
-         "nameEN": "Terletska Mariia"
-     },
- {
-         "nameUA": "Тернопільський Арсен",
-         "nameEN": "Ternopilskyi Arsen"
-     },
- {
-         "nameUA": "Тимань Руслан",
-         "nameEN": "Tyman Ruslan"
-     },
- {
-         "nameUA": "Тимко Сергій",
-         "nameEN": "Tymko Serhii"
-     },
- {
-         "nameUA": "Титинчук Валентин",
-         "nameEN": "Tytynchuk Valentyn"
-     },
- {
-         "nameUA": "Тишик Андрій",
-         "nameEN": "Tyshyk Andrii"
-     },
- {
-         "nameUA": "Тищенко Андрій",
-         "nameEN": "Tyshchenko Andrii"
-     },
- {
-         "nameUA": "Тімоніна Альона",
-         "nameEN": "Timonina Alona"
-     },
- {
-         "nameUA": "Ткаченко Вікторія",
-         "nameEN": "Tkachenko Viktoriia"
-     },
- {
-         "nameUA": "Ткаченко Марія",
-         "nameEN": "Tkachenko Mariia"
-     },
- {
-         "nameUA": "Ткачова Валентина",
-         "nameEN": "Tkachova Valentyna"
-     },
- {
-         "nameUA": "Ткачук Сергій",
-         "nameEN": "Tkachuk Serhii"
-     },
- {
-         "nameUA": "Томка Вікторія",
-         "nameEN": "Tomka Viktoriia"
-     },
- {
-         "nameUA": "Торопова Вероніка",
-         "nameEN": "Toropova Veronika"
-     },
- {
-         "nameUA": "Трач Олександр",
-         "nameEN": "Trach Oleksandr"
-     },
- {
-         "nameUA": "Троян Олександр",
-         "nameEN": "Troian Oleksandr"
-     },
- {
-         "nameUA": "Трубіцький Денис",
-         "nameEN": "Trubitskyi Denys"
-     },
- {
-         "nameUA": "Туманов Микита",
-         "nameEN": "Tumanov Mykyta"
-     },
- {
-         "nameUA": "Турбовець Анастасія",
-         "nameEN": "Turbovets Anastasiia"
-     },
- {
-         "nameUA": "Турчак Даніїл",
-         "nameEN": "Turchak Daniil"
-     },
- {
-         "nameUA": "Турчин Дмитро",
-         "nameEN": "Turchyn Dmytro"
-     },
- {
-         "nameUA": "Туча Вероніка",
-         "nameEN": "Tucha Veronika"
-     },
- {
-         "nameUA": "Умарова Марія",
-         "nameEN": "Umarova Mariia"
-     },
- {
-         "nameUA": "Усач Вікторія",
-         "nameEN": "Usach Viktoriia"
-     },
- {
-         "nameUA": "Устюгова Ганна",
-         "nameEN": "Ustiuhova Hanna"
-     },
- {
-         "nameUA": "Ушакова Марія",
-         "nameEN": "Ushakova Mariia"
-     },
- {
-         "nameUA": "Фатєєва Діана",
-         "nameEN": "Fatieieva Diana"
-     },
- {
-         "nameUA": "Федорова Олександра",
-         "nameEN": "Fedorova Oleksandra"
-     },
- {
-         "nameUA": "Федорченко Максим",
-         "nameEN": "Fedorchenko Maksym"
-     },
- {
-         "nameUA": "Фесенко Наталія",
-         "nameEN": "Fesenko Nataliia"
-     },
- {
-         "nameUA": "Філіпов Ігор",
-         "nameEN": "Filipov Ihor"
-     },
- {
-         "nameUA": "Філь Олег",
-         "nameEN": "Fil Oleh"
-     },
- {
-         "nameUA": "Фоменко Іван",
-         "nameEN": "Fomenko Ivan"
-     },
- {
-         "nameUA": "Фоменко Михайло",
-         "nameEN": "Fomenko Mykhailo"
-     },
- {
-         "nameUA": "Фоменко Павло",
-         "nameEN": "Fomenko Pavlo"
-     },
- {
-         "nameUA": "Франк Аврора",
-         "nameEN": "Frank Avrora"
-     },
- {
-         "nameUA": "Франчук Володимир",
-         "nameEN": "Franchuk Volodymyr"
-     },
- {
-         "nameUA": "Фурса Софія",
-         "nameEN": "Fursa Sofiia"
-     },
- {
-         "nameUA": "Хань Чжі",
-         "nameEN": "Khan Chzhi"
-     },
- {
-         "nameUA": "Харитонов Денис",
-         "nameEN": "Kharytonov Denys"
-     },
- {
-         "nameUA": "Хильчук Олександр",
-         "nameEN": "Khylchuk Oleksandr"
-     },
- {
-         "nameUA": "Химач Денис",
-         "nameEN": "Khymach Denys"
-     },
- {
-         "nameUA": "Химера Максим",
-         "nameEN": "Khymera Maksym"
-     },
- {
-         "nameUA": "Ховдій Вадим",
-         "nameEN": "Khovdii Vadym"
-     },
- {
-         "nameUA": "Ховяков Роман",
-         "nameEN": "Khoviakov Roman"
-     },
- {
-         "nameUA": "Ходачник Матвій",
-         "nameEN": "Khodachnyk Matvii"
-     },
- {
-         "nameUA": "Хоменко Богдана",
-         "nameEN": "Khomenko Bohdana"
-     },
- {
-         "nameUA": "Хоменко Вікторія",
-         "nameEN": "Khomenko Viktoriia"
-     },
- {
-         "nameUA": "Хоменко Владислав",
-         "nameEN": "Khomenko Vladyslav"
-     },
- {
-         "nameUA": "Хоменко Дмитро",
-         "nameEN": "Khomenko Dmytro"
-     },
- {
-         "nameUA": "Хорошева Марина",
-         "nameEN": "Khorosheva Maryna"
-     },
- {
-         "nameUA": "Храпач Андрій",
-         "nameEN": "Khrapach Andrii"
-     },
- {
-         "nameUA": "Ху Ліньлінь",
-         "nameEN": "Khu Linlin"
-     },
- {
-         "nameUA": "Цао Чживень",
-         "nameEN": "Tsao Chzhyven"
-     },
- {
-         "nameUA": "Цвєтков Владислав",
-         "nameEN": "Tsvietkov Vladyslav"
-     },
- {
-         "nameUA": "Цзі Янь",
-         "nameEN": "Tszi Yan"
-     },
- {
-         "nameUA": "Цибенко Олександр",
-         "nameEN": "Tsybenko Oleksandr"
-     },
- {
-         "nameUA": "Цибочкін Владислав",
-         "nameEN": "Tsybochkin Vladyslav"
-     },
- {
-         "nameUA": "Цимбал Віталіна",
-         "nameEN": "Tsymbal Vitalina"
-     },
- {
-         "nameUA": "Цуй Юйці",
-         "nameEN": "Tsui Yuitsi"
-     },
- {
-         "nameUA": "Чалий Володимир",
-         "nameEN": "Chalyi Volodymyr"
-     },
- {
-         "nameUA": "Чеботарьова Анастасія",
-         "nameEN": "Chebotarova Anastasiia"
-     },
- {
-         "nameUA": "Чеканова Стефанія",
-         "nameEN": "Chekanova Stefaniia"
-     },
- {
-         "nameUA": "Чен Хао",
-         "nameEN": "Chen Khao"
-     },
- {
-         "nameUA": "Черниш Валерія",
-         "nameEN": "Chernysh Valeriia"
-     },
- {
-         "nameUA": "Черниш Владислав",
-         "nameEN": "Chernysh Vladyslav"
-     },
- {
-         "nameUA": "Чеснова Марія",
-         "nameEN": "Chesnova Mariia"
-     },
- {
-         "nameUA": "Чечіль Тимофій",
-         "nameEN": "Chechil Tymofii"
-     },
- {
-         "nameUA": "Чжан Сухан",
-         "nameEN": "Chzhan Sukhan"
-     },
- {
-         "nameUA": "Чирюк Яна",
-         "nameEN": "Chyriuk Yana"
-     },
- {
-         "nameUA": "Чмих Вікторія",
-         "nameEN": "Chmykh Viktoriia"
-     },
- {
-         "nameUA": "Чміленко Станіслав",
-         "nameEN": "Chmilenko Stanislav"
-     },
- {
-         "nameUA": "Чорний Дмитро",
-         "nameEN": "Chornyi Dmytro"
-     },
- {
-         "nameUA": "Чубинський Вадим",
-         "nameEN": "Chubynskyi Vadym"
-     },
- {
-         "nameUA": "Чумак Олександра",
-         "nameEN": "Chumak Oleksandra"
-     },
- {
-         "nameUA": "Чушак Катерина",
-         "nameEN": "Chushak Kateryna"
-     },
- {
-         "nameUA": "Чхайло Богдан",
-         "nameEN": "Chkhailo Bohdan"
-     },
- {
-         "nameUA": "Шабанов Даніїл",
-         "nameEN": "Shabanov Daniil"
-     },
- {
-         "nameUA": "Шаповалова Діана",
-         "nameEN": "Shapovalova Diana"
-     },
- {
-         "nameUA": "Шаповалова Ольга",
-         "nameEN": "Shapovalova Olha"
-     },
- {
-         "nameUA": "Шапошник Анастасія",
-         "nameEN": "Shaposhnyk Anastasiia"
-     },
- {
-         "nameUA": "Шапошник Інна",
-         "nameEN": "Shaposhnyk Inna"
-     },
- {
-         "nameUA": "Шатохіна Тамара",
-         "nameEN": "Shatokhina Tamara"
-     },
- {
-         "nameUA": "Шафаренко Микола",
-         "nameEN": "Shafarenko Mykola"
-     },
- {
-         "nameUA": "Шах Владислав",
-         "nameEN": "Shakh Vladyslav"
-     },
- {
-         "nameUA": "Шахрай Артем",
-         "nameEN": "Shakhrai Artem"
-     },
- {
-         "nameUA": "Шевич Олександр",
-         "nameEN": "Shevych Oleksandr"
-     },
- {
-         "nameUA": "Шевкаленко Максим",
-         "nameEN": "Shevkalenko Maksym"
-     },
- {
-         "nameUA": "Шевченко Вікторія",
-         "nameEN": "Shevchenko Viktoriia"
-     },
- {
-         "nameUA": "Шевченко Вячеслав",
-         "nameEN": "Shevchenko Viacheslav"
-     },
- {
-         "nameUA": "Шевченко Дар`я",
-         "nameEN": "Shevchenko Dar`ia"
-     },
- {
-         "nameUA": "Шевченко Діана",
-         "nameEN": "Shevchenko Diana"
-     },
- {
-         "nameUA": "Шевченко Єгор",
-         "nameEN": "Shevchenko Yehor"
-     },
- {
-         "nameUA": "Шевченко Максим",
-         "nameEN": "Shevchenko Maksym"
-     },
- {
-         "nameUA": "Шевчик Станіславв",
-         "nameEN": "Shevchyk Stanislavv"
-     },
- {
-         "nameUA": "Шевчук Анастасія",
-         "nameEN": "Shevchuk Anastasiia"
-     },
- {
-         "nameUA": "Шевчук Ігор",
-         "nameEN": "Shevchuk Ihor"
-     },
- {
-         "nameUA": "Шевчук Ольга",
-         "nameEN": "Shevchuk Olha"
-     },
- {
-         "nameUA": "Шеффер Артур",
-         "nameEN": "Sheffer Artur"
-     },
- {
-         "nameUA": "Шиндирук Вікторія",
-         "nameEN": "Shyndyruk Viktoriia"
-     },
- {
-         "nameUA": "Шипіль Анастасія",
-         "nameEN": "Shypil Anastasiia"
-     },
- {
-         "nameUA": "Шипко Микита",
-         "nameEN": "Shypko Mykyta"
-     },
- {
-         "nameUA": "Шишко Тетяна",
-         "nameEN": "Shyshko Tetiana"
-     },
- {
-         "nameUA": "Шкаєва Софія",
-         "nameEN": "Shkaieva Sofiia"
-     },
- {
-         "nameUA": "Школа Юлія",
-         "nameEN": "Shkola Yuliia"
-     },
- {
-         "nameUA": "Шкурко Андрій",
-         "nameEN": "Shkurko Andrii"
-     },
- {
-         "nameUA": "Шматок Поліна",
-         "nameEN": "Shmatok Polina"
-     },
- {
-         "nameUA": "Шовкопляс Максим",
-         "nameEN": "Shovkoplias Maksym"
-     },
- {
-         "nameUA": "Шокало Уляна",
-         "nameEN": "Shokalo Uliana"
-     },
- {
-         "nameUA": "Шоркіна Лада",
-         "nameEN": "Shorkina Lada"
-     },
- {
-         "nameUA": "Шульга Ангеліна",
-         "nameEN": "Shulha Anhelina"
-     },
- {
-         "nameUA": "Шульгач Аліна",
-         "nameEN": "Shulhach Alina"
-     },
- {
-         "nameUA": "Шуляк Максим",
-         "nameEN": "Shuliak Maksym"
-     },
- {
-         "nameUA": "Шумейко Вячеслав",
-         "nameEN": "Shumeiko Viacheslav"
-     },
- {
-         "nameUA": "Шумицька Софія",
-         "nameEN": "Shumytska Sofiia"
-     },
- {
-         "nameUA": "Щербак Карина",
-         "nameEN": "Shcherbak Karyna"
-     },
- {
-         "nameUA": "Щербина Богдан",
-         "nameEN": "Shcherbyna Bohdan"
-     },
- {
-         "nameUA": "Юрків Роксолана",
-         "nameEN": "Yurkiv Roksolana"
-     },
- {
-         "nameUA": "Юрченко Роман",
-         "nameEN": "Yurchenko Roman"
-     },
- {
-         "nameUA": "Юсуфова Вероніка",
-         "nameEN": "Yusufova Veronika"
-     },
- {
-         "nameUA": "Юськов Віталій",
-         "nameEN": "Yuskov Vitalii"
-     },
- {
-         "nameUA": "Ющишин Назарій",
-         "nameEN": "Yushchyshyn Nazarii"
-     },
- {
-         "nameUA": "Якименко Євген",
-         "nameEN": "Yakymenko Yevhen"
-     },
- {
-         "nameUA": "Яловега Софія",
-         "nameEN": "Yaloveha Sofiia"
-     },
- {
-         "nameUA": "Ямковенко Владислав",
-         "nameEN": "Yamkovenko Vladyslav"
-     },
- {
-         "nameUA": "Янковський Максим",
-         "nameEN": "Yankovskyi Maksym"
-     },
- {
-         "nameUA": "Янчук Олександра",
-         "nameEN": "Yanchuk Oleksandra"
-     },
- {
-         "nameUA": "Яремко Олександра",
-         "nameEN": "Yaremko Oleksandra"
-     },
- {
-         "nameUA": "Ярещенко Олександра",
-         "nameEN": "Yareshchenko Oleksandra"
-     },
- {
-         "nameUA": "Ярмак Єлизавета",
-         "nameEN": "Yarmak Yelyzaveta"
-     },
- {
-         "nameUA": "Ярміш Анастасія",
-         "nameEN": "Yarmish Anastasiia"
-     },
- {
-         "nameUA": "Ярмолюк Уляна",
-         "nameEN": "Yarmoliuk Uliana"
-     },
- {
-         "nameUA": "Ярошенко Ярослав",
-         "nameEN": "Yaroshenko Yaroslav"
-     },
- {
-         "nameUA": "Ярошинська Світлана",
-         "nameEN": "Yaroshynska Svitlana"
-     },
- {
-         "nameUA": "Яценко Аліса",
-         "nameEN": "Yatsenko Alisa"
-     },
- {
-         "nameUA": "Яценко Олена",
-         "nameEN": "Yatsenko Olena"
-     },
- {
-         "nameUA": "Яцимірський Андрій",
-         "nameEN": "Yatsymirskyi Andrii"
-     },
-    {
-         "nameUA": "Пашко Євгеній",
-         "nameEN": "Pashko Yevhenii"
-     }
-    
- ]
+  {
+    "nameUA": "Arliukov Kostiantyn",
+    "nameEN": "Arliukov Kostiantyn"
+  },
+  {
+    "nameUA": "Holubieva Anastasiia",
+    "nameEN": "Holubieva Anastasiia"
+  },
+  {
+    "nameUA": "Абрамов Данііл",
+    "nameEN": "Abramov Daniil"
+  },
+  {
+    "nameUA": "Абрамович Богдан",
+    "nameEN": "Abramovych Bohdan"
+  },
+  {
+    "nameUA": "Адашевський Нікіта",
+    "nameEN": "Adashevskyi Nikita"
+  },
+  {
+    "nameUA": "Аліна Петренко",
+    "nameEN": "Alina Petrenko"
+  },
+  {
+    "nameUA": "Алконова Діана",
+    "nameEN": "Alkonova Diana"
+  },
+  {
+    "nameUA": "Алтухова Катерина",
+    "nameEN": "Altukhova Kateryna"
+  },
+  {
+    "nameUA": "Андрейко Христина",
+    "nameEN": "Andreiko Khrystyna"
+  },
+  {
+    "nameUA": "Андрєєва Кіра",
+    "nameEN": "Andrieieva Kira"
+  },
+  {
+    "nameUA": "Антоненко Оксана",
+    "nameEN": "Antonenko Oksana"
+  },
+  {
+    "nameUA": "Антонкова Олександра",
+    "nameEN": "Antonkova Oleksandra"
+  },
+  {
+    "nameUA": "Анхим Андрій",
+    "nameEN": "Ankhym Andrii"
+  },
+  {
+    "nameUA": "Артинюк Денис",
+    "nameEN": "Artyniuk Denys"
+  },
+  {
+    "nameUA": "Архипова Дар'я",
+    "nameEN": "Arkhypova Daria"
+  },
+  {
+    "nameUA": "Бабій Владислав",
+    "nameEN": "Babii Vladyslav"
+  },
+  {
+    "nameUA": "Бабічев Олександр",
+    "nameEN": "Babichev Oleksandr"
+  },
+  {
+    "nameUA": "Баб'юк Ярослав",
+    "nameEN": "Babiuk Yaroslav"
+  },
+  {
+    "nameUA": "Бага Анна",
+    "nameEN": "Baha Anna"
+  },
+  {
+    "nameUA": "Баглик Марія",
+    "nameEN": "Bahlyk Mariia"
+  },
+  {
+    "nameUA": "Байдак Анжела",
+    "nameEN": "Baidak Anzhela"
+  },
+  {
+    "nameUA": "Байрачний Артем",
+    "nameEN": "Bairachnyi Artem"
+  },
+  {
+    "nameUA": "Байша Марія",
+    "nameEN": "Baisha Mariia"
+  },
+  {
+    "nameUA": "Банак Катерина",
+    "nameEN": "Banak Kateryna"
+  },
+  {
+    "nameUA": "Баранчук Максим",
+    "nameEN": "Baranchuk Maksym"
+  },
+  {
+    "nameUA": "Барна Марія",
+    "nameEN": "Barna Mariia"
+  },
+  {
+    "nameUA": "Батирєв Роман",
+    "nameEN": "Batyriev Roman"
+  },
+  {
+    "nameUA": "Батюк Софія",
+    "nameEN": "Batiuk Sofiia"
+  },
+  {
+    "nameUA": "Башмаченкова Анастасія",
+    "nameEN": "Bashmachenkova Anastasiia"
+  },
+  {
+    "nameUA": "Безкоровайна Вікторія",
+    "nameEN": "Bezkorovaina Viktoriia"
+  },
+  {
+    "nameUA": "Бейдик Тетяна",
+    "nameEN": "Beidyk Tetiana"
+  },
+  {
+    "nameUA": "Бендер Карина",
+    "nameEN": "Bender Karyna"
+  },
+  {
+    "nameUA": "Бережний Максим",
+    "nameEN": "Berezhnyi Maksym"
+  },
+  {
+    "nameUA": "Березюк Олена",
+    "nameEN": "Bereziuk Olena"
+  },
+  {
+    "nameUA": "Бєльська Анна",
+    "nameEN": "Bielska Anna"
+  },
+  {
+    "nameUA": "Білаш Софія",
+    "nameEN": "Bilash Sofiia"
+  },
+  {
+    "nameUA": "Білуха Анна",
+    "nameEN": "Bilukha Anna"
+  },
+  {
+    "nameUA": "Більченко Віталій",
+    "nameEN": "Bilchenko Vitalii"
+  },
+  {
+    "nameUA": "Бірюк Михайло",
+    "nameEN": "Biriuk Mykhailo"
+  },
+  {
+    "nameUA": "Бобирєв Максим",
+    "nameEN": "Bobyriev Maksym"
+  },
+  {
+    "nameUA": "Бовтвиненко Денис",
+    "nameEN": "Bovtvynenko Denys"
+  },
+  {
+    "nameUA": "Богданець Артем",
+    "nameEN": "Bohdanets Artem"
+  },
+  {
+    "nameUA": "Богданов Антон",
+    "nameEN": "Bohdanov Anton"
+  },
+  {
+    "nameUA": "Богданова Анна",
+    "nameEN": "Bohdanova Anna"
+  },
+  {
+    "nameUA": "Богуш Олександра",
+    "nameEN": "Bohush Oleksandra"
+  },
+  {
+    "nameUA": "Богуш Юрій",
+    "nameEN": "Bohush Yurii"
+  },
+  {
+    "nameUA": "Божко Наталія",
+    "nameEN": "Bozhko Nataliia"
+  },
+  {
+    "nameUA": "Бойко Віолетта",
+    "nameEN": "Boiko Violetta"
+  },
+  {
+    "nameUA": "Бойко Даша",
+    "nameEN": "Boiko Dasha"
+  },
+  {
+    "nameUA": "Бойнік Дар'я",
+    "nameEN": "Boinik Daria"
+  },
+  {
+    "nameUA": "Болтушенко Олена",
+    "nameEN": "Boltushenko Olena"
+  },
+  {
+    "nameUA": "Бондаренко Дарина",
+    "nameEN": "Bondarenko Daryna"
+  },
+  {
+    "nameUA": "Бондаренко Катерина",
+    "nameEN": "Bondarenko Kateryna"
+  },
+  {
+    "nameUA": "Брацило Дмитро",
+    "nameEN": "Bratsylo Dmytro"
+  },
+  {
+    "nameUA": "Брільова Валерія",
+    "nameEN": "Brilova Valeriia"
+  },
+  {
+    "nameUA": "Бура Богдана",
+    "nameEN": "Bura Bohdana"
+  },
+  {
+    "nameUA": "Бурдейна Анна",
+    "nameEN": "Burdeina Anna"
+  },
+  {
+    "nameUA": "Бурлака Анна",
+    "nameEN": "Burlaka Anna"
+  },
+  {
+    "nameUA": "Бурлаков Дмитро",
+    "nameEN": "Burlakov Dmytro"
+  },
+  {
+    "nameUA": "Бухало Ірина",
+    "nameEN": "Bukhalo Iryna"
+  },
+  {
+    "nameUA": "Валігурський Євгеній",
+    "nameEN": "Valihurskyi Yevhenii"
+  },
+  {
+    "nameUA": "Вальчук Дар'я",
+    "nameEN": "Valchuk Daria"
+  },
+  {
+    "nameUA": "Вапсюк Максим",
+    "nameEN": "Vapsiuk Maksym"
+  },
+  {
+    "nameUA": "Варзарь Юлія",
+    "nameEN": "Varzar Yuliia"
+  },
+  {
+    "nameUA": "Варобйов Іван",
+    "nameEN": "Varobiov Ivan"
+  },
+  {
+    "nameUA": "Василевич Олеся",
+    "nameEN": "Vasylevych Olesia"
+  },
+  {
+    "nameUA": "Васильєв Богдан",
+    "nameEN": "Vasyliev Bohdan"
+  },
+  {
+    "nameUA": "Васильєва Каміла",
+    "nameEN": "Vasylieva Kamila"
+  },
+  {
+    "nameUA": "Васильчук Олег",
+    "nameEN": "Vasylchuk Oleh"
+  },
+  {
+    "nameUA": "Ващенко Анастасія",
+    "nameEN": "Vashchenko Anastasiia"
+  },
+  {
+    "nameUA": "Велика Анастасія",
+    "nameEN": "Velyka Anastasiia"
+  },
+  {
+    "nameUA": "Вернигора Дарина",
+    "nameEN": "Vernyhora Daryna"
+  },
+  {
+    "nameUA": "Виниченко Євгенія",
+    "nameEN": "Vynychenko Yevheniia"
+  },
+  {
+    "nameUA": "Вишемирський Дамір",
+    "nameEN": "Vyshemyrskyi Damir"
+  },
+  {
+    "nameUA": "Вінніченко Богдан",
+    "nameEN": "Vinnichenko Bohdan"
+  },
+  {
+    "nameUA": "Владика Назар",
+    "nameEN": "Vladyka Nazar"
+  },
+  {
+    "nameUA": "Власюк Марія",
+    "nameEN": "Vlasiuk Mariia"
+  },
+  {
+    "nameUA": "Вовнянко Дар'я",
+    "nameEN": "Vovnianko Daria"
+  },
+  {
+    "nameUA": "Вознюк Анастасія",
+    "nameEN": "Vozniuk Anastasiia"
+  },
+  {
+    "nameUA": "Вознюк Артем",
+    "nameEN": "Vozniuk Artem"
+  },
+  {
+    "nameUA": "Войцешук Ярослав",
+    "nameEN": "Voitseshuk Yaroslav"
+  },
+  {
+    "nameUA": "Войціхов Владислав",
+    "nameEN": "Voitsikhov Vladyslav"
+  },
+  {
+    "nameUA": "Волинець Владислав",
+    "nameEN": "Volynets Vladyslav"
+  },
+  {
+    "nameUA": "Волошин Вероніка",
+    "nameEN": "Voloshyn Veronika"
+  },
+  {
+    "nameUA": "Ворошилов Ярослав",
+    "nameEN": "Voroshylov Yaroslav"
+  },
+  {
+    "nameUA": "Гавриленко Владислав",
+    "nameEN": "Havrylenko Vladyslav"
+  },
+  {
+    "nameUA": "Гаврилюк Тетяна",
+    "nameEN": "Havryliuk Tetiana"
+  },
+  {
+    "nameUA": "Галіцька Аліна",
+    "nameEN": "Halitska Alina"
+  },
+  {
+    "nameUA": "Галіцька Юлія",
+    "nameEN": "Halitska Yuliia"
+  },
+  {
+    "nameUA": "Гапанович Лада",
+    "nameEN": "Hapanovych Lada"
+  },
+  {
+    "nameUA": "Гарбузова Марія",
+    "nameEN": "Harbuzova Mariia"
+  },
+  {
+    "nameUA": "Гаркуша Софія",
+    "nameEN": "Harkusha Sofiia"
+  },
+  {
+    "nameUA": "Гартовін Ілля",
+    "nameEN": "Hartovin Illia"
+  },
+  {
+    "nameUA": "Гаряча Вікторія",
+    "nameEN": "Hariacha Viktoriia"
+  },
+  {
+    "nameUA": "Гаряча Юлія",
+    "nameEN": "Hariacha Yuliia"
+  },
+  {
+    "nameUA": "Герман Ілля",
+    "nameEN": "Herman Illia"
+  },
+  {
+    "nameUA": "Герц Ксенія",
+    "nameEN": "Herts Kseniia"
+  },
+  {
+    "nameUA": "Гіляка Ганна",
+    "nameEN": "Hiliaka Hanna"
+  },
+  {
+    "nameUA": "Глазько Віталій",
+    "nameEN": "Hlazko Vitalii"
+  },
+  {
+    "nameUA": "Глущенко Ірина",
+    "nameEN": "Hlushchenko Iryna"
+  },
+  {
+    "nameUA": "Гнатенко Михайло",
+    "nameEN": "Hnatenko Mykhailo"
+  },
+  {
+    "nameUA": "Головань Соломія",
+    "nameEN": "Holovan Solomiia"
+  },
+  {
+    "nameUA": "Голодович Христина",
+    "nameEN": "Holodovych Khrystyna"
+  },
+  {
+    "nameUA": "Голомша Володимир",
+    "nameEN": "Holomsha Volodymyr"
+  },
+  {
+    "nameUA": "Голубченко Марія",
+    "nameEN": "Holubchenko Mariia"
+  },
+  {
+    "nameUA": "Гонгало Христина",
+    "nameEN": "Honhalo Khrystyna"
+  },
+  {
+    "nameUA": "Гордєєва Надія",
+    "nameEN": "Hordieieva Nadiia"
+  },
+  {
+    "nameUA": "Гордіюк Маргарита",
+    "nameEN": "Hordiiuk Marharyta"
+  },
+  {
+    "nameUA": "Гориченко Дар'я",
+    "nameEN": "Horychenko Daria"
+  },
+  {
+    "nameUA": "Горінова Дарина",
+    "nameEN": "Horinova Daryna"
+  },
+  {
+    "nameUA": "Гоцман Артем",
+    "nameEN": "Hotsman Artem"
+  },
+  {
+    "nameUA": "Грамінська Тетяна",
+    "nameEN": "Hraminska Tetiana"
+  },
+  {
+    "nameUA": "Грачов Ілля",
+    "nameEN": "Hrachov Illia"
+  },
+  {
+    "nameUA": "Гризоглазов Арсеній",
+    "nameEN": "Hryzohlazov Arsenii"
+  },
+  {
+    "nameUA": "Гринаш Діана",
+    "nameEN": "Hrynash Diana"
+  },
+  {
+    "nameUA": "Грицай Дарія",
+    "nameEN": "Hrytsai Dariia"
+  },
+  {
+    "nameUA": "Грицанюк Марта",
+    "nameEN": "Hrytsaniuk Marta"
+  },
+  {
+    "nameUA": "Гриценко Роман",
+    "nameEN": "Hrytsenko Roman"
+  },
+  {
+    "nameUA": "Громова Анна",
+    "nameEN": "Hromova Anna"
+  },
+  {
+    "nameUA": "Губіна Вікторія",
+    "nameEN": "Hubina Viktoriia"
+  },
+  {
+    "nameUA": "Гуржий Анастасія",
+    "nameEN": "Hurzhyi Anastasiia"
+  },
+  {
+    "nameUA": "Гуріна Анастасія",
+    "nameEN": "Hurina Anastasiia"
+  },
+  {
+    "nameUA": "Гусак Станіслав",
+    "nameEN": "Husak Stanislav"
+  },
+  {
+    "nameUA": "Д`ячихін Едуард",
+    "nameEN": "D`iachykhin Eduard"
+  },
+  {
+    "nameUA": "Давиденко Дар'я",
+    "nameEN": "Davydenko Daria"
+  },
+  {
+    "nameUA": "Данілова Аліна",
+    "nameEN": "Danilova Alina"
+  },
+  {
+    "nameUA": "Данчевський Тарас",
+    "nameEN": "Danchevskyi Taras"
+  },
+  {
+    "nameUA": "Данченко Софія",
+    "nameEN": "Danchenko Sofiia"
+  },
+  {
+    "nameUA": "Дев'ятков Максим",
+    "nameEN": "Deviatkov Maksym"
+  },
+  {
+    "nameUA": "Дегтяренко Юлія",
+    "nameEN": "Dehtiarenko Yuliia"
+  },
+  {
+    "nameUA": "Демчишин Неля",
+    "nameEN": "Demchyshyn Nelia"
+  },
+  {
+    "nameUA": "Дєдух Ілля",
+    "nameEN": "Diedukh Illia"
+  },
+  {
+    "nameUA": "Дзеніс Єлизавета",
+    "nameEN": "Dzenis Yelyzaveta"
+  },
+  {
+    "nameUA": "Дідківський Олександр",
+    "nameEN": "Didkivskyi Oleksandr"
+  },
+  {
+    "nameUA": "Дмитренко Іван",
+    "nameEN": "Dmytrenko Ivan"
+  },
+  {
+    "nameUA": "Добрової Поліни",
+    "nameEN": "Dobrovoi Poliny"
+  },
+  {
+    "nameUA": "Добродум Владислав",
+    "nameEN": "Dobrodum Vladyslav"
+  },
+  {
+    "nameUA": "Дубенська Наталія",
+    "nameEN": "Dubenska Nataliia"
+  },
+  {
+    "nameUA": "Дубина Андрій",
+    "nameEN": "Dubyna Andrii"
+  },
+  {
+    "nameUA": "Дубінська Світлана",
+    "nameEN": "Dubinska Svitlana"
+  },
+  {
+    "nameUA": "Дубінський Максим",
+    "nameEN": "Dubinskyi Maksym"
+  },
+  {
+    "nameUA": "Дудіна Ірина",
+    "nameEN": "Dudina Iryna"
+  },
+  {
+    "nameUA": "Дужанов Роман",
+    "nameEN": "Duzhanov Roman"
+  },
+  {
+    "nameUA": "Дунай Богдан",
+    "nameEN": "Dunai Bohdan"
+  },
+  {
+    "nameUA": "Дунін Володимир",
+    "nameEN": "Dunin Volodymyr"
+  },
+  {
+    "nameUA": "Дурибаба Марко",
+    "nameEN": "Durybaba Marko"
+  },
+  {
+    "nameUA": "Дядюшко Богдана",
+    "nameEN": "Diadiushko Bohdana"
+  },
+  {
+    "nameUA": "Дяченко Анастасія",
+    "nameEN": "Diachenko Anastasiia"
+  },
+  {
+    "nameUA": "Дяченко Данило",
+    "nameEN": "Diachenko Danylo"
+  },
+  {
+    "nameUA": "Дячун Надія",
+    "nameEN": "Diachun Nadiia"
+  },
+  {
+    "nameUA": "Едер Еріка",
+    "nameEN": "Eder Erika"
+  },
+  {
+    "nameUA": "Ейнарссон Фрея",
+    "nameEN": "Einarsson Freia"
+  },
+  {
+    "nameUA": "Євланов Данііл",
+    "nameEN": "Yevlanov Daniil"
+  },
+  {
+    "nameUA": "Євтушенко Аліна",
+    "nameEN": "Yevtushenko Alina"
+  },
+  {
+    "nameUA": "Єпанчин Роман",
+    "nameEN": "Yepanchyn Roman"
+  },
+  {
+    "nameUA": "Єременко Ольга",
+    "nameEN": "Yeremenko Olha"
+  },
+  {
+    "nameUA": "Жильцова Юлія",
+    "nameEN": "Zhyltsova Yuliia"
+  },
+  {
+    "nameUA": "Жмаченко Анастасія",
+    "nameEN": "Zhmachenko Anastasiia"
+  },
+  {
+    "nameUA": "Жуйкова Ірина",
+    "nameEN": "Zhuikova Iryna"
+  },
+  {
+    "nameUA": "Жуков Богдан",
+    "nameEN": "Zhukov Bohdan"
+  },
+  {
+    "nameUA": "Журавльов Володимир",
+    "nameEN": "Zhuravlov Volodymyr"
+  },
+  {
+    "nameUA": "Жученко Анастасія",
+    "nameEN": "Zhuchenko Anastasiia"
+  },
+  {
+    "nameUA": "Заботіна Юлія",
+    "nameEN": "Zabotina Yuliia"
+  },
+  {
+    "nameUA": "Завійська Софія",
+    "nameEN": "Zaviiska Sofiia"
+  },
+  {
+    "nameUA": "Заводіна Марина",
+    "nameEN": "Zavodina Maryna"
+  },
+  {
+    "nameUA": "Заєць Владислав",
+    "nameEN": "Zaiets Vladyslav"
+  },
+  {
+    "nameUA": "Заянчковський Владислав",
+    "nameEN": "Zaianchkovskyi Vladyslav"
+  },
+  {
+    "nameUA": "Здан Ілля",
+    "nameEN": "Zdan Illia"
+  },
+  {
+    "nameUA": "Земляна Анастасія",
+    "nameEN": "Zemliana Anastasiia"
+  },
+  {
+    "nameUA": "Зозуля Павло",
+    "nameEN": "Zozulia Pavlo"
+  },
+  {
+    "nameUA": "Зуйченко Марія",
+    "nameEN": "Zuichenko Mariia"
+  },
+  {
+    "nameUA": "Іванов Тимофій",
+    "nameEN": "Ivanov Tymofii"
+  },
+  {
+    "nameUA": "Івах Віталій",
+    "nameEN": "Ivakh Vitalii"
+  },
+  {
+    "nameUA": "Іващенко Варвара",
+    "nameEN": "Ivashchenko Varvara"
+  },
+  {
+    "nameUA": "Іжик Лілія",
+    "nameEN": "Izhyk Liliia"
+  },
+  {
+    "nameUA": "Іліуц Анна",
+    "nameEN": "Iliuts Anna"
+  },
+  {
+    "nameUA": "Ільїна Валерія",
+    "nameEN": "Ilina Valeriia"
+  },
+  {
+    "nameUA": "Кадебський Сергій",
+    "nameEN": "Kadebskyi Serhii"
+  },
+  {
+    "nameUA": "Каєта Вячеслав",
+    "nameEN": "Kaieta Viacheslav"
+  },
+  {
+    "nameUA": "Казачкіна Дар'я",
+    "nameEN": "Kazachkina Daria"
+  },
+  {
+    "nameUA": "Каленик Аріадна",
+    "nameEN": "Kalenyk Ariadna"
+  },
+  {
+    "nameUA": "Каліберда Дар'я",
+    "nameEN": "Kaliberda Daria"
+  },
+  {
+    "nameUA": "Калінчук Олексій",
+    "nameEN": "Kalinchuk Oleksii"
+  },
+  {
+    "nameUA": "Камишан Марина",
+    "nameEN": "Kamyshan Maryna"
+  },
+  {
+    "nameUA": "Камінський Єгор",
+    "nameEN": "Kaminskyi Yehor"
+  },
+  {
+    "nameUA": "Капіцький Андрій",
+    "nameEN": "Kapitskyi Andrii"
+  },
+  {
+    "nameUA": "Капуста Алла",
+    "nameEN": "Kapusta Alla"
+  },
+  {
+    "nameUA": "Капустіна Марія",
+    "nameEN": "Kapustina Mariia"
+  },
+  {
+    "nameUA": "Карастельова Віолетта",
+    "nameEN": "Karastelova Violetta"
+  },
+  {
+    "nameUA": "Касаткин Павло",
+    "nameEN": "Kasatkyn Pavlo"
+  },
+  {
+    "nameUA": "Касаткін Павло",
+    "nameEN": "Kasatkin Pavlo"
+  },
+  {
+    "nameUA": "Касьянова Анна",
+    "nameEN": "Kasianova Anna"
+  },
+  {
+    "nameUA": "Касюра Валерія",
+    "nameEN": "Kasiura Valeriia"
+  },
+  {
+    "nameUA": "Кашич Михайло",
+    "nameEN": "Kashych Mykhailo"
+  },
+  {
+    "nameUA": "Каюков Олексій",
+    "nameEN": "Kaiukov Oleksii"
+  },
+  {
+    "nameUA": "Киричок Олександр",
+    "nameEN": "Kyrychok Oleksandr"
+  },
+  {
+    "nameUA": "Кирноз Богдан",
+    "nameEN": "Kyrnoz Bohdan"
+  },
+  {
+    "nameUA": "Кисельова Анна",
+    "nameEN": "Kyselova Anna"
+  },
+  {
+    "nameUA": "Кисельова Олександра",
+    "nameEN": "Kyselova Oleksandra"
+  },
+  {
+    "nameUA": "Кізілова Дарина",
+    "nameEN": "Kizilova Daryna"
+  },
+  {
+    "nameUA": "Кірічек Карина",
+    "nameEN": "Kirichek Karyna"
+  },
+  {
+    "nameUA": "Кіслова Софія",
+    "nameEN": "Kislova Sofiia"
+  },
+  {
+    "nameUA": "Климович Анастасія",
+    "nameEN": "Klymovych Anastasiia"
+  },
+  {
+    "nameUA": "Климчук Сергій",
+    "nameEN": "Klymchuk Serhii"
+  },
+  {
+    "nameUA": "Клопов Станіслав",
+    "nameEN": "Klopov Stanislav"
+  },
+  {
+    "nameUA": "Книш-Петренко Захарій",
+    "nameEN": "Knysh-Petrenko Zakharii"
+  },
+  {
+    "nameUA": "Кобильник Олександр",
+    "nameEN": "Kobylnyk Oleksandr"
+  },
+  {
+    "nameUA": "Кобрик Олександр",
+    "nameEN": "Kobryk Oleksandr"
+  },
+  {
+    "nameUA": "Коваленко Вероніка",
+    "nameEN": "Kovalenko Veronika"
+  },
+  {
+    "nameUA": "Ковальов Андрій",
+    "nameEN": "Kovalov Andrii"
+  },
+  {
+    "nameUA": "Кодолов Ярослав",
+    "nameEN": "Kodolov Yaroslav"
+  },
+  {
+    "nameUA": "Кожокар Костянтин",
+    "nameEN": "Kozhokar Kostiantyn"
+  },
+  {
+    "nameUA": "Кожушко Руслан",
+    "nameEN": "Kozhushko Ruslan"
+  },
+  {
+    "nameUA": "Козаков Євстафій-Станіслав",
+    "nameEN": "Kozakov Yevstafii-Stanislav"
+  },
+  {
+    "nameUA": "Козачук Вікторія",
+    "nameEN": "Kozachuk Viktoriia"
+  },
+  {
+    "nameUA": "Колектив вихованців гуртка",
+    "nameEN": "Kolektyv vykhovantsiv hurtka"
+  },
+  {
+    "nameUA": "Колесник Анна",
+    "nameEN": "Kolesnyk Anna"
+  },
+  {
+    "nameUA": "Колесніков Богдан",
+    "nameEN": "Kolesnikov Bohdan"
+  },
+  {
+    "nameUA": "Колеснікова Ольга",
+    "nameEN": "Kolesnikova Olha"
+  },
+  {
+    "nameUA": "Коляда Анастасія",
+    "nameEN": "Koliada Anastasiia"
+  },
+  {
+    "nameUA": "Кононенко Наталія",
+    "nameEN": "Kononenko Nataliia"
+  },
+  {
+    "nameUA": "Контіпайло Олександр",
+    "nameEN": "Kontipailo Oleksandr"
+  },
+  {
+    "nameUA": "Коняхіна Кіра",
+    "nameEN": "Koniakhina Kira"
+  },
+  {
+    "nameUA": "Корнійчук Юрій",
+    "nameEN": "Korniichuk Yurii"
+  },
+  {
+    "nameUA": "Коробцова Олена",
+    "nameEN": "Korobtsova Olena"
+  },
+  {
+    "nameUA": "Коротаєва Софія",
+    "nameEN": "Korotaieva Sofiia"
+  },
+  {
+    "nameUA": "Костенко Микита",
+    "nameEN": "Kostenko Mykyta"
+  },
+  {
+    "nameUA": "Коцюба Ірина",
+    "nameEN": "Kotsiuba Iryna"
+  },
+  {
+    "nameUA": "Кошеленко Олег",
+    "nameEN": "Koshelenko Oleh"
+  },
+  {
+    "nameUA": "Кравченко Арсеній",
+    "nameEN": "Kravchenko Arsenii"
+  },
+  {
+    "nameUA": "Красник Єлизавета",
+    "nameEN": "Krasnyk Yelyzaveta"
+  },
+  {
+    "nameUA": "Кривенко Маргарита",
+    "nameEN": "Kryvenko Marharyta"
+  },
+  {
+    "nameUA": "Кривонос Володимир",
+    "nameEN": "Kryvonos Volodymyr"
+  },
+  {
+    "nameUA": "Кружиліна Юлія",
+    "nameEN": "Kruzhylina Yuliia"
+  },
+  {
+    "nameUA": "Крупніченко Марина",
+    "nameEN": "Krupnichenko Maryna"
+  },
+  {
+    "nameUA": "Крячко Марина",
+    "nameEN": "Kriachko Maryna"
+  },
+  {
+    "nameUA": "Кубай Марія",
+    "nameEN": "Kubai Mariia"
+  },
+  {
+    "nameUA": "Кудрик Артем",
+    "nameEN": "Kudryk Artem"
+  },
+  {
+    "nameUA": "Кузнєцов Олексій",
+    "nameEN": "Kuznietsov Oleksii"
+  },
+  {
+    "nameUA": "Кузьмич Наталія",
+    "nameEN": "Kuzmych Nataliia"
+  },
+  {
+    "nameUA": "Кулапова Вікторія",
+    "nameEN": "Kulapova Viktoriia"
+  },
+  {
+    "nameUA": "Кулебякін Тарас",
+    "nameEN": "Kulebiakin Taras"
+  },
+  {
+    "nameUA": "Кулєша Дмитро",
+    "nameEN": "Kuliesha Dmytro"
+  },
+  {
+    "nameUA": "Кулик Олександр",
+    "nameEN": "Kulyk Oleksandr"
+  },
+  {
+    "nameUA": "Купець Владислав",
+    "nameEN": "Kupets Vladyslav"
+  },
+  {
+    "nameUA": "Курадовець Ростислав",
+    "nameEN": "Kuradovets Rostyslav"
+  },
+  {
+    "nameUA": "Курінна Юлія",
+    "nameEN": "Kurinna Yuliia"
+  },
+  {
+    "nameUA": "Курочка Олександра",
+    "nameEN": "Kurochka Oleksandra"
+  },
+  {
+    "nameUA": "Кухарчук Назарій",
+    "nameEN": "Kukharchuk Nazarii"
+  },
+  {
+    "nameUA": "Куцай Анна",
+    "nameEN": "Kutsai Anna"
+  },
+  {
+    "nameUA": "Кучерак Юлія",
+    "nameEN": "Kucherak Yuliia"
+  },
+  {
+    "nameUA": "Кушнір Лідія",
+    "nameEN": "Kushnir Lidiia"
+  },
+  {
+    "nameUA": "Кушніренко Дмитро",
+    "nameEN": "Kushnirenko Dmytro"
+  },
+  {
+    "nameUA": "Лаврик Денис",
+    "nameEN": "Lavryk Denys"
+  },
+  {
+    "nameUA": "Лаврик Олександр",
+    "nameEN": "Lavryk Oleksandr"
+  },
+  {
+    "nameUA": "Лаврик Сніжана",
+    "nameEN": "Lavryk Snizhana"
+  },
+  {
+    "nameUA": "Лагуш Анастасія",
+    "nameEN": "Lahush Anastasiia"
+  },
+  {
+    "nameUA": "Лаетін Дмитро",
+    "nameEN": "Laetin Dmytro"
+  },
+  {
+    "nameUA": "Лазебна Інна",
+    "nameEN": "Lazebna Inna"
+  },
+  {
+    "nameUA": "Ланцута Оксана",
+    "nameEN": "Lantsuta Oksana"
+  },
+  {
+    "nameUA": "Лебенштейн Дар'я",
+    "nameEN": "Lebenshtein Daria"
+  },
+  {
+    "nameUA": "Левченко Ангеліна",
+    "nameEN": "Levchenko Anhelina"
+  },
+  {
+    "nameUA": "Левчук Марія",
+    "nameEN": "Levchuk Mariia"
+  },
+  {
+    "nameUA": "Легостаєва Єкатерина",
+    "nameEN": "Lehostaieva Yekateryna"
+  },
+  {
+    "nameUA": "Лелека Максим",
+    "nameEN": "Leleka Maksym"
+  },
+  {
+    "nameUA": "Леміч Антон",
+    "nameEN": "Lemich Anton"
+  },
+  {
+    "nameUA": "Леонова Аліна",
+    "nameEN": "Leonova Alina"
+  },
+  {
+    "nameUA": "Лепенко Маргарита",
+    "nameEN": "Lepenko Marharyta"
+  },
+  {
+    "nameUA": "Лепьошкіна Анна Олександрівна",
+    "nameEN": "Leposhkina Anna"
+  },
+  {
+    "nameUA": "Лещенко Артем",
+    "nameEN": "Leshchenko Artem"
+  },
+  {
+    "nameUA": "ЛИСАК Аліна",
+    "nameEN": "LYSAK Alina"
+  },
+  {
+    "nameUA": "Лисенко Анастасія",
+    "nameEN": "Lysenko Anastasiia"
+  },
+  {
+    "nameUA": "Литвин Марія",
+    "nameEN": "Lytvyn Mariia"
+  },
+  {
+    "nameUA": "Литовченко Денис",
+    "nameEN": "Lytovchenko Denys"
+  },
+  {
+    "nameUA": "Лихасенко Владислав",
+    "nameEN": "Lykhasenko Vladyslav"
+  },
+  {
+    "nameUA": "Лісовенко Дмитро",
+    "nameEN": "Lisovenko Dmytro"
+  },
+  {
+    "nameUA": "Ліщук Поліна",
+    "nameEN": "Lishchuk Polina"
+  },
+  {
+    "nameUA": "Лобода Софія",
+    "nameEN": "Loboda Sofiia"
+  },
+  {
+    "nameUA": "Ляшенко Владислав",
+    "nameEN": "Liashenko Vladyslav"
+  },
+  {
+    "nameUA": "Мазуркевич Катерина",
+    "nameEN": "Mazurkevych Kateryna"
+  },
+  {
+    "nameUA": "Мазурчак Вікторія",
+    "nameEN": "Mazurchak Viktoriia"
+  },
+  {
+    "nameUA": "Майдан Тарас",
+    "nameEN": "Maidan Taras"
+  },
+  {
+    "nameUA": "Макаренко Анна",
+    "nameEN": "Makarenko Anna"
+  },
+  {
+    "nameUA": "Макаренко Аріна",
+    "nameEN": "Makarenko Arina"
+  },
+  {
+    "nameUA": "Макодзеба Артем",
+    "nameEN": "Makodzeba Artem"
+  },
+  {
+    "nameUA": "Максименко Дмитро",
+    "nameEN": "Maksymenko Dmytro"
+  },
+  {
+    "nameUA": "Малиновська Єлизавета",
+    "nameEN": "Malynovska Yelyzaveta"
+  },
+  {
+    "nameUA": "Маліцький Максим",
+    "nameEN": "Malitskyi Maksym"
+  },
+  {
+    "nameUA": "Маліш Анастасія",
+    "nameEN": "Malish Anastasiia"
+  },
+  {
+    "nameUA": "Мамчур Віталій",
+    "nameEN": "Mamchur Vitalii"
+  },
+  {
+    "nameUA": "Манскова Юлія",
+    "nameEN": "Manskova Yuliia"
+  },
+  {
+    "nameUA": "Маринін Ілля",
+    "nameEN": "Marynin Illia"
+  },
+  {
+    "nameUA": "Марков Ростислав",
+    "nameEN": "Markov Rostyslav"
+  },
+  {
+    "nameUA": "Март'янов Ілля",
+    "nameEN": "Martianov Illia"
+  },
+  {
+    "nameUA": "Марущак Клим",
+    "nameEN": "Marushchak Klym"
+  },
+  {
+    "nameUA": "Марфіна Ксенія",
+    "nameEN": "Marfina Kseniia"
+  },
+  {
+    "nameUA": "Марченко Анна",
+    "nameEN": "Marchenko Anna"
+  },
+  {
+    "nameUA": "Маршал Дмитро",
+    "nameEN": "Marshal Dmytro"
+  },
+  {
+    "nameUA": "Матвійчук Ірина",
+    "nameEN": "Matviichuk Iryna"
+  },
+  {
+    "nameUA": "Матуляк Вікторія",
+    "nameEN": "Matuliak Viktoriia"
+  },
+  {
+    "nameUA": "Матюк Дмитро",
+    "nameEN": "Matiuk Dmytro"
+  },
+  {
+    "nameUA": "Мацапура Максим",
+    "nameEN": "Matsapura Maksym"
+  },
+  {
+    "nameUA": "Мачоган Лев",
+    "nameEN": "Machohan Lev"
+  },
+  {
+    "nameUA": "Медведєва Інна",
+    "nameEN": "Medvedieva Inna"
+  },
+  {
+    "nameUA": "Мединський Роман",
+    "nameEN": "Medynskyi Roman"
+  },
+  {
+    "nameUA": "Мельник Владислав",
+    "nameEN": "Melnyk Vladyslav"
+  },
+  {
+    "nameUA": "Мельник Тимофій",
+    "nameEN": "Melnyk Tymofii"
+  },
+  {
+    "nameUA": "Мельников Іван",
+    "nameEN": "Melnykov Ivan"
+  },
+  {
+    "nameUA": "Меняйло Анна",
+    "nameEN": "Meniailo Anna"
+  },
+  {
+    "nameUA": "Мєзін Артем",
+    "nameEN": "Miezin Artem"
+  },
+  {
+    "nameUA": "Микитів Єлизавета",
+    "nameEN": "Mykytiv Yelyzaveta"
+  },
+  {
+    "nameUA": "Михайленко Антон",
+    "nameEN": "Mykhailenko Anton"
+  },
+  {
+    "nameUA": "Михайленко Владислав",
+    "nameEN": "Mykhailenko Vladyslav"
+  },
+  {
+    "nameUA": "Мицик Олег",
+    "nameEN": "Mytsyk Oleh"
+  },
+  {
+    "nameUA": "Могила Надія",
+    "nameEN": "Mohyla Nadiia"
+  },
+  {
+    "nameUA": "Мозговий Марк",
+    "nameEN": "Mozghovyi Mark"
+  },
+  {
+    "nameUA": "Мойсєєва Ірина",
+    "nameEN": "Moisieieva Iryna"
+  },
+  {
+    "nameUA": "Мокренська Елеонора",
+    "nameEN": "Mokrenska Eleonora"
+  },
+  {
+    "nameUA": "Мокринчук Ігор",
+    "nameEN": "Mokrynchuk Ihor"
+  },
+  {
+    "nameUA": "Моргулець Маргарита",
+    "nameEN": "Morhulets Marharyta"
+  },
+  {
+    "nameUA": "Моргун Андрій",
+    "nameEN": "Morhun Andrii"
+  },
+  {
+    "nameUA": "Мостика Варвара",
+    "nameEN": "Mostyka Varvara"
+  },
+  {
+    "nameUA": "Мохнюк Анна",
+    "nameEN": "Mokhniuk Anna"
+  },
+  {
+    "nameUA": "Музика Ірина",
+    "nameEN": "Muzyka Iryna"
+  },
+  {
+    "nameUA": "Музиря Софія",
+    "nameEN": "Muzyria Sofiia"
+  },
+  {
+    "nameUA": "Наконечний Тарас",
+    "nameEN": "Nakonechnyi Taras"
+  },
+  {
+    "nameUA": "Недашковська Катерина",
+    "nameEN": "Nedashkovska Kateryna"
+  },
+  {
+    "nameUA": "Нерощин Денис",
+    "nameEN": "Neroshchyn Denys"
+  },
+  {
+    "nameUA": "Нєустроєв Богдан",
+    "nameEN": "Nieustroiev Bohdan"
+  },
+  {
+    "nameUA": "Низовий Іван",
+    "nameEN": "Nyzovyi Ivan"
+  },
+  {
+    "nameUA": "Нінічук Ірина",
+    "nameEN": "Ninichuk Iryna"
+  },
+  {
+    "nameUA": "Ніцкевич Дар’я",
+    "nameEN": "Nitskevych Daria"
+  },
+  {
+    "nameUA": "Носенко Святослав",
+    "nameEN": "Nosenko Sviatoslav"
+  },
+  {
+    "nameUA": "Овчарова Марія",
+    "nameEN": "Ovcharova Mariia"
+  },
+  {
+    "nameUA": "Огранович Ніна",
+    "nameEN": "Ohranovych Nina"
+  },
+  {
+    "nameUA": "Окрепкий Володимир",
+    "nameEN": "Okrepkyi Volodymyr"
+  },
+  {
+    "nameUA": "Олейнiченко Максим",
+    "nameEN": "Oleinichenko Maksym"
+  },
+  {
+    "nameUA": "Олєйнік Юрій",
+    "nameEN": "Olieinik Yurii"
+  },
+  {
+    "nameUA": "Оліферчук Валентин",
+    "nameEN": "Oliferchuk Valentyn"
+  },
+  {
+    "nameUA": "Ольховська Владислава",
+    "nameEN": "Olkhovska Vladyslava"
+  },
+  {
+    "nameUA": "Опаріна Олександра",
+    "nameEN": "Oparina Oleksandra"
+  },
+  {
+    "nameUA": "Оржеховська Вікторія",
+    "nameEN": "Orzhekhovska Viktoriia"
+  },
+  {
+    "nameUA": "Орлов Глєб",
+    "nameEN": "Orlov Hlieb"
+  },
+  {
+    "nameUA": "Орлов Олександр",
+    "nameEN": "Orlov Oleksandr"
+  },
+  {
+    "nameUA": "Осадчий Максим",
+    "nameEN": "Osadchyi Maksym"
+  },
+  {
+    "nameUA": "Осіпчук Лілія",
+    "nameEN": "Osipchuk Liliia"
+  },
+  {
+    "nameUA": "Остапчук Максим",
+    "nameEN": "Ostapchuk Maksym"
+  },
+  {
+    "nameUA": "Осьмуха Владислава",
+    "nameEN": "Osmukha Vladyslava"
+  },
+  {
+    "nameUA": "П`ятишкіна Катерина",
+    "nameEN": "P`iatyshkina Kateryna"
+  },
+  {
+    "nameUA": "П`яткіна Дар`я",
+    "nameEN": "P`iatkina Dar`ia"
+  },
+  {
+    "nameUA": "Павлова Дарина",
+    "nameEN": "Pavlova Daryna"
+  },
+  {
+    "nameUA": "Панаріна Вероніка",
+    "nameEN": "Panarina Veronika"
+  },
+  {
+    "nameUA": "Панова Ольга",
+    "nameEN": "Panova Olha"
+  },
+  {
+    "nameUA": "Пантелеймонова Дарʼя",
+    "nameEN": "Panteleimonova Darʼia"
+  },
+  {
+    "nameUA": "Папков Ілля",
+    "nameEN": "Papkov Illia"
+  },
+  {
+    "nameUA": "Парполіта Максім",
+    "nameEN": "Parpolita Maksim"
+  },
+  {
+    "nameUA": "Парфило Костянтин",
+    "nameEN": "Parfylo Kostiantyn"
+  },
+  {
+    "nameUA": "Пархоменко Богдан",
+    "nameEN": "Parkhomenko Bohdan"
+  },
+  {
+    "nameUA": "Пастернак Назар",
+    "nameEN": "Pasternak Nazar"
+  },
+  {
+    "nameUA": "Паталаха Владислав",
+    "nameEN": "Patalakha Vladyslav"
+  },
+  {
+    "nameUA": "Пашко Євгеній",
+    "nameEN": "Pashko Yevhenii"
+  },
+  {
+    "nameUA": "Педан Вероніка",
+    "nameEN": "Pedan Veronika"
+  },
+  {
+    "nameUA": "Педосенко Олександра",
+    "nameEN": "Pedosenko Oleksandra"
+  },
+  {
+    "nameUA": "Педченко Олесь",
+    "nameEN": "Pedchenko Oles"
+  },
+  {
+    "nameUA": "Пенчук Дарія",
+    "nameEN": "Penchuk Dariia"
+  },
+  {
+    "nameUA": "Петрашвілі Альона",
+    "nameEN": "Petrashvili Alona"
+  },
+  {
+    "nameUA": "Петров Артем",
+    "nameEN": "Petrov Artem"
+  },
+  {
+    "nameUA": "Пилипак Олексій",
+    "nameEN": "Pylypak Oleksii"
+  },
+  {
+    "nameUA": "Пилипенко Артур",
+    "nameEN": "Pylypenko Artur"
+  },
+  {
+    "nameUA": "Пилипчук Давид",
+    "nameEN": "Pylypchuk Davyd"
+  },
+  {
+    "nameUA": "Пипа Владислав",
+    "nameEN": "Pypa Vladyslav"
+  },
+  {
+    "nameUA": "Пиріг Євген",
+    "nameEN": "Pyrih Yevhen"
+  },
+  {
+    "nameUA": "Писаний Олександр",
+    "nameEN": "Pysanyi Oleksandr"
+  },
+  {
+    "nameUA": "Писанко Єлизавета",
+    "nameEN": "Pysanko Yelyzaveta"
+  },
+  {
+    "nameUA": "Півовар Сергій",
+    "nameEN": "Pivovar Serhii"
+  },
+  {
+    "nameUA": "Пігуль Марія",
+    "nameEN": "Pihul Mariia"
+  },
+  {
+    "nameUA": "Пікун Владислав",
+    "nameEN": "Pikun Vladyslav"
+  },
+  {
+    "nameUA": "Пікус Андрій",
+    "nameEN": "Pikus Andrii"
+  },
+  {
+    "nameUA": "Піменов Артем",
+    "nameEN": "Pimenov Artem"
+  },
+  {
+    "nameUA": "Пінскер Софія",
+    "nameEN": "Pinsker Sofiia"
+  },
+  {
+    "nameUA": "Плотніков Даніїл",
+    "nameEN": "Plotnikov Daniil"
+  },
+  {
+    "nameUA": "Плотнікова Єлизавета",
+    "nameEN": "Plotnikova Yelyzaveta"
+  },
+  {
+    "nameUA": "Погорілий Едуард",
+    "nameEN": "Pohorilyi Eduard"
+  },
+  {
+    "nameUA": "Пожарська Мирослава",
+    "nameEN": "Pozharska Myroslava"
+  },
+  {
+    "nameUA": "Поліщук Каріна",
+    "nameEN": "Polishchuk Karina"
+  },
+  {
+    "nameUA": "Поліщук Олександр",
+    "nameEN": "Polishchuk Oleksandr"
+  },
+  {
+    "nameUA": "Половенко Софія",
+    "nameEN": "Polovenko Sofiia"
+  },
+  {
+    "nameUA": "Полоз Вікторія",
+    "nameEN": "Poloz Viktoriia"
+  },
+  {
+    "nameUA": "Поляк Руслан",
+    "nameEN": "Poliak Ruslan"
+  },
+  {
+    "nameUA": "Помелова Діана",
+    "nameEN": "Pomelova Diana"
+  },
+  {
+    "nameUA": "Пономарьова Влада",
+    "nameEN": "Ponomarova Vlada"
+  },
+  {
+    "nameUA": "Пономарьова Катерина",
+    "nameEN": "Ponomarova Kateryna"
+  },
+  {
+    "nameUA": "Попєлишева Софія",
+    "nameEN": "Popielysheva Sofiia"
+  },
+  {
+    "nameUA": "Попова Анна",
+    "nameEN": "Popova Anna"
+  },
+  {
+    "nameUA": "Попова Єлизавета",
+    "nameEN": "Popova Yelyzaveta"
+  },
+  {
+    "nameUA": "Портер Барбара",
+    "nameEN": "Porter Barbara"
+  },
+  {
+    "nameUA": "Потоцкій Максим",
+    "nameEN": "Pototskii Maksym"
+  },
+  {
+    "nameUA": "Пошивай Ярослав",
+    "nameEN": "Poshyvai Yaroslav"
+  },
+  {
+    "nameUA": "Присяжнюк Богдана",
+    "nameEN": "Prysiazhniuk Bohdana"
+  },
+  {
+    "nameUA": "Притюпа Артем",
+    "nameEN": "Prytiupa Artem"
+  },
+  {
+    "nameUA": "Продоус Олександр",
+    "nameEN": "Prodous Oleksandr"
+  },
+  {
+    "nameUA": "Прокопчук Міра",
+    "nameEN": "Prokopchuk Mira"
+  },
+  {
+    "nameUA": "Прокопчук Ольга",
+    "nameEN": "Prokopchuk Olha"
+  },
+  {
+    "nameUA": "Пронікова Марина",
+    "nameEN": "Pronikova Maryna"
+  },
+  {
+    "nameUA": "Проценко Олександра",
+    "nameEN": "Protsenko Oleksandra"
+  },
+  {
+    "nameUA": "Проців Юлія",
+    "nameEN": "Protsiv Yuliia"
+  },
+  {
+    "nameUA": "Прудчинський Максим",
+    "nameEN": "Prudchynskyi Maksym"
+  },
+  {
+    "nameUA": "Прянічнікова Анна",
+    "nameEN": "Prianichnikova Anna"
+  },
+  {
+    "nameUA": "Пузіков Олександр",
+    "nameEN": "Puzikov Oleksandr"
+  },
+  {
+    "nameUA": "Пустовойтов Ярослав",
+    "nameEN": "Pustovoitov Yaroslav"
+  },
+  {
+    "nameUA": "Радченко Софія",
+    "nameEN": "Radchenko Sofiia"
+  },
+  {
+    "nameUA": "Ратушняк Анна",
+    "nameEN": "Ratushniak Anna"
+  },
+  {
+    "nameUA": "Резниченко Орина",
+    "nameEN": "Reznychenko Oryna"
+  },
+  {
+    "nameUA": "Резонтова Юлія",
+    "nameEN": "Rezontova Yuliia"
+  },
+  {
+    "nameUA": "Рибалко Анна",
+    "nameEN": "Rybalko Anna"
+  },
+  {
+    "nameUA": "Рибець Ігор",
+    "nameEN": "Rybets Ihor"
+  },
+  {
+    "nameUA": "Рицький Дмитро",
+    "nameEN": "Rytskyi Dmytro"
+  },
+  {
+    "nameUA": "Робич Вероніка",
+    "nameEN": "Robych Veronika"
+  },
+  {
+    "nameUA": "Рошка Дмитро",
+    "nameEN": "Roshka Dmytro"
+  },
+  {
+    "nameUA": "Рощук Богдан",
+    "nameEN": "Roshchuk Bohdan"
+  },
+  {
+    "nameUA": "Рубець Артем",
+    "nameEN": "Rubets Artem"
+  },
+  {
+    "nameUA": "Рудень Анна",
+    "nameEN": "Ruden Anna"
+  },
+  {
+    "nameUA": "Рупняк Андріана",
+    "nameEN": "Rupniak Andriana"
+  },
+  {
+    "nameUA": "Русецька Інна",
+    "nameEN": "Rusetska Inna"
+  },
+  {
+    "nameUA": "Рябець Євгеній",
+    "nameEN": "Riabets Yevhenii"
+  },
+  {
+    "nameUA": "Садченко Валентина",
+    "nameEN": "Sadchenko Valentyna"
+  },
+  {
+    "nameUA": "Сазонова Владислава",
+    "nameEN": "Sazonova Vladyslava"
+  },
+  {
+    "nameUA": "Саркісян Кароліна",
+    "nameEN": "Sarkisian Karolina"
+  },
+  {
+    "nameUA": "Сафонова Антоніна",
+    "nameEN": "Safonova Antonina"
+  },
+  {
+    "nameUA": "Свиридюк Анастасія",
+    "nameEN": "Svyrydiuk Anastasiia"
+  },
+  {
+    "nameUA": "Седоренко Марина",
+    "nameEN": "Sedorenko Maryna"
+  },
+  {
+    "nameUA": "Селезньова Аріна",
+    "nameEN": "Seleznova Arina"
+  },
+  {
+    "nameUA": "Семененко Дар'я",
+    "nameEN": "Semenenko Daria"
+  },
+  {
+    "nameUA": "Семків Анастасія",
+    "nameEN": "Semkiv Anastasiia"
+  },
+  {
+    "nameUA": "Семчишина Вікторія",
+    "nameEN": "Semchyshyna Viktoriia"
+  },
+  {
+    "nameUA": "Сергєєва Діана",
+    "nameEN": "Serhieieva Diana"
+  },
+  {
+    "nameUA": "Сергєєва Юліанна",
+    "nameEN": "Serhieieva Yulianna"
+  },
+  {
+    "nameUA": "Сергійчук Владислава",
+    "nameEN": "Serhiichuk Vladyslava"
+  },
+  {
+    "nameUA": "Середа Ганна",
+    "nameEN": "Sereda Hanna"
+  },
+  {
+    "nameUA": "Сиромятникова Дарʼя",
+    "nameEN": "Syromiatnykova Darʼia"
+  },
+  {
+    "nameUA": "Ситник Таїсія",
+    "nameEN": "Sytnyk Taisiia"
+  },
+  {
+    "nameUA": "Сібєлєва Анна",
+    "nameEN": "Sibielieva Anna"
+  },
+  {
+    "nameUA": "Сікалюк Артем",
+    "nameEN": "Sikaliuk Artem"
+  },
+  {
+    "nameUA": "Сіренко Дарʼя",
+    "nameEN": "Sirenko Darʼia"
+  },
+  {
+    "nameUA": "Сіренко Софія",
+    "nameEN": "Sirenko Sofiia"
+  },
+  {
+    "nameUA": "Скакодуб Дмитро",
+    "nameEN": "Skakodub Dmytro"
+  },
+  {
+    "nameUA": "Скалозуб Єлизавета",
+    "nameEN": "Skalozub Yelyzaveta"
+  },
+  {
+    "nameUA": "Скафа Богдан",
+    "nameEN": "Skafa Bohdan"
+  },
+  {
+    "nameUA": "Скляревська Дар'я",
+    "nameEN": "Skliarevska Daria"
+  },
+  {
+    "nameUA": "Скуратович Роман",
+    "nameEN": "Skuratovych Roman"
+  },
+  {
+    "nameUA": "Слєпньов Даниїл",
+    "nameEN": "Sliepnov Danyil"
+  },
+  {
+    "nameUA": "Смалюх Артем",
+    "nameEN": "Smaliukh Artem"
+  },
+  {
+    "nameUA": "Смолянова Ніка",
+    "nameEN": "Smolianova Nika"
+  },
+  {
+    "nameUA": "Собор Валерія",
+    "nameEN": "Sobor Valeriia"
+  },
+  {
+    "nameUA": "Соколов Роман",
+    "nameEN": "Sokolov Roman"
+  },
+  {
+    "nameUA": "Сокольчук Богдан",
+    "nameEN": "Sokolchuk Bohdan"
+  },
+  {
+    "nameUA": "Соловей Аліса",
+    "nameEN": "Solovei Alisa"
+  },
+  {
+    "nameUA": "Соловей Поліна",
+    "nameEN": "Solovei Polina"
+  },
+  {
+    "nameUA": "Соловйова Вікторія",
+    "nameEN": "Soloviova Viktoriia"
+  },
+  {
+    "nameUA": "Соловйова ВІталіна",
+    "nameEN": "Soloviova VItalina"
+  },
+  {
+    "nameUA": "Соломенник Вікторія",
+    "nameEN": "Solomennyk Viktoriia"
+  },
+  {
+    "nameUA": "Солярова Дар'я",
+    "nameEN": "Soliarova Daria"
+  },
+  {
+    "nameUA": "Сопітько Марія",
+    "nameEN": "Sopitko Mariia"
+  },
+  {
+    "nameUA": "Сопова Вікторія",
+    "nameEN": "Sopova Viktoriia"
+  },
+  {
+    "nameUA": "Соснов Максим",
+    "nameEN": "Sosnov Maksym"
+  },
+  {
+    "nameUA": "Сохацький Михайло",
+    "nameEN": "Sokhatskyi Mykhailo"
+  },
+  {
+    "nameUA": "Старостіна Катерина",
+    "nameEN": "Starostina Kateryna"
+  },
+  {
+    "nameUA": "Стасенко Мілана",
+    "nameEN": "Stasenko Milana"
+  },
+  {
+    "nameUA": "Стаценко Олександр",
+    "nameEN": "Statsenko Oleksandr"
+  },
+  {
+    "nameUA": "Степанюк Анна",
+    "nameEN": "Stepaniuk Anna"
+  },
+  {
+    "nameUA": "Степова Вероніка",
+    "nameEN": "Stepova Veronika"
+  },
+  {
+    "nameUA": "Стеценко Тимофій",
+    "nameEN": "Stetsenko Tymofii"
+  },
+  {
+    "nameUA": "Стожок Назар",
+    "nameEN": "Stozhok Nazar"
+  },
+  {
+    "nameUA": "Столяров Руслан",
+    "nameEN": "Stoliarov Ruslan"
+  },
+  {
+    "nameUA": "Столярчук Дмитро",
+    "nameEN": "Stoliarchuk Dmytro"
+  },
+  {
+    "nameUA": "Стрельченко Іван",
+    "nameEN": "Strelchenko Ivan"
+  },
+  {
+    "nameUA": "Стрижакова Алевтина",
+    "nameEN": "Stryzhakova Alevtyna"
+  },
+  {
+    "nameUA": "Струналь Віталіна",
+    "nameEN": "Strunal Vitalina"
+  },
+  {
+    "nameUA": "Талько Ілля",
+    "nameEN": "Talko Illia"
+  },
+  {
+    "nameUA": "Таран Владислав",
+    "nameEN": "Taran Vladyslav"
+  },
+  {
+    "nameUA": "Тараніна Анастасія",
+    "nameEN": "Taranina Anastasiia"
+  },
+  {
+    "nameUA": "Татуревич Олександра",
+    "nameEN": "Taturevych Oleksandra"
+  },
+  {
+    "nameUA": "Татюк Софія",
+    "nameEN": "Tatiuk Sofiia"
+  },
+  {
+    "nameUA": "Телевна Поліна",
+    "nameEN": "Televna Polina"
+  },
+  {
+    "nameUA": "Терещенко Станіслав",
+    "nameEN": "Tereshchenko Stanislav"
+  },
+  {
+    "nameUA": "Тимань Руслна",
+    "nameEN": "Tyman Ruslna"
+  },
+  {
+    "nameUA": "Тимошина Юлія",
+    "nameEN": "Tymoshyna Yuliia"
+  },
+  {
+    "nameUA": "Ткач Поліна",
+    "nameEN": "Tkach Polina"
+  },
+  {
+    "nameUA": "Ткаченко Вероніка",
+    "nameEN": "Tkachenko Veronika"
+  },
+  {
+    "nameUA": "Ткаченко Іван",
+    "nameEN": "Tkachenko Ivan"
+  },
+  {
+    "nameUA": "Ткаченко Микита",
+    "nameEN": "Tkachenko Mykyta"
+  },
+  {
+    "nameUA": "Токарчук Микола",
+    "nameEN": "Tokarchuk Mykola"
+  },
+  {
+    "nameUA": "Томка Вікторія",
+    "nameEN": "Tomka Viktoriia"
+  },
+  {
+    "nameUA": "Топичканова Тетяна",
+    "nameEN": "Topychkanova Tetiana"
+  },
+  {
+    "nameUA": "Торба Єлизавета",
+    "nameEN": "Torba Yelyzaveta"
+  },
+  {
+    "nameUA": "Третяк Іван",
+    "nameEN": "Tretiak Ivan"
+  },
+  {
+    "nameUA": "Троцюк Ірма",
+    "nameEN": "Trotsiuk Irma"
+  },
+  {
+    "nameUA": "Троян Олександр",
+    "nameEN": "Troian Oleksandr"
+  },
+  {
+    "nameUA": "Трубчанінова Софія",
+    "nameEN": "Trubchaninova Sofiia"
+  },
+  {
+    "nameUA": "Турчин Дмитро",
+    "nameEN": "Turchyn Dmytro"
+  },
+  {
+    "nameUA": "Удачіна Єва",
+    "nameEN": "Udachina Yeva"
+  },
+  {
+    "nameUA": "Удовенко Анастасія",
+    "nameEN": "Udovenko Anastasiia"
+  },
+  {
+    "nameUA": "Усачова Олександра",
+    "nameEN": "Usachova Oleksandra"
+  },
+  {
+    "nameUA": "Усов Артем",
+    "nameEN": "Usov Artem"
+  },
+  {
+    "nameUA": "Ушкало Анна",
+    "nameEN": "Ushkalo Anna"
+  },
+  {
+    "nameUA": "Фазан Микола",
+    "nameEN": "Fazan Mykola"
+  },
+  {
+    "nameUA": "Файбиш Анастасія",
+    "nameEN": "Faibysh Anastasiia"
+  },
+  {
+    "nameUA": "Федоров Євген",
+    "nameEN": "Fedorov Yevhen"
+  },
+  {
+    "nameUA": "Федорова Олександра",
+    "nameEN": "Fedorova Oleksandra"
+  },
+  {
+    "nameUA": "Федорович Христина",
+    "nameEN": "Fedorovych Khrystyna"
+  },
+  {
+    "nameUA": "Федусова Ілона",
+    "nameEN": "Fedusova Ilona"
+  },
+  {
+    "nameUA": "Фененко Карина",
+    "nameEN": "Fenenko Karyna"
+  },
+  {
+    "nameUA": "Феник Маргарита",
+    "nameEN": "Fenyk Marharyta"
+  },
+  {
+    "nameUA": "Фербей Крістіна",
+    "nameEN": "Ferbei Kristina"
+  },
+  {
+    "nameUA": "Фещук Аріна",
+    "nameEN": "Feshchuk Arina"
+  },
+  {
+    "nameUA": "Філімончук Владислав",
+    "nameEN": "Filimonchuk Vladyslav"
+  },
+  {
+    "nameUA": "Філімончук Євгеній",
+    "nameEN": "Filimonchuk Yevhenii"
+  },
+  {
+    "nameUA": "Філончук Олександра",
+    "nameEN": "Filonchuk Oleksandra"
+  },
+  {
+    "nameUA": "Фоменко Іван",
+    "nameEN": "Fomenko Ivan"
+  },
+  {
+    "nameUA": "Фоміна Єва",
+    "nameEN": "Fomina Yeva"
+  },
+  {
+    "nameUA": "Харченко Олександр",
+    "nameEN": "Kharchenko Oleksandr"
+  },
+  {
+    "nameUA": "Хлистун Поліна",
+    "nameEN": "Khlystun Polina"
+  },
+  {
+    "nameUA": "Ховяков Роман",
+    "nameEN": "Khoviakov Roman"
+  },
+  {
+    "nameUA": "Ходачник Матвій",
+    "nameEN": "Khodachnyk Matvii"
+  },
+  {
+    "nameUA": "Хоружко Анна",
+    "nameEN": "Khoruzhko Anna"
+  },
+  {
+    "nameUA": "Хохлов Андрій",
+    "nameEN": "Khokhlov Andrii"
+  },
+  {
+    "nameUA": "Хохлов Захар",
+    "nameEN": "Khokhlov Zakhar"
+  },
+  {
+    "nameUA": "Храпко Анастасія",
+    "nameEN": "Khrapko Anastasiia"
+  },
+  {
+    "nameUA": "Хуторний Максим",
+    "nameEN": "Khutornyi Maksym"
+  },
+  {
+    "nameUA": "Царик Маргарита",
+    "nameEN": "Tsaryk Marharyta"
+  },
+  {
+    "nameUA": "Чеботарьова Марина",
+    "nameEN": "Chebotarova Maryna"
+  },
+  {
+    "nameUA": "Чемерис Григорій",
+    "nameEN": "Chemerys Hryhorii"
+  },
+  {
+    "nameUA": "Чемерис Софія",
+    "nameEN": "Chemerys Sofiia"
+  },
+  {
+    "nameUA": "Чепинога Давид",
+    "nameEN": "Chepynoha Davyd"
+  },
+  {
+    "nameUA": "Череватенко Вікторія",
+    "nameEN": "Cherevatenko Viktoriia"
+  },
+  {
+    "nameUA": "Черниш Владислав",
+    "nameEN": "Chernysh Vladyslav"
+  },
+  {
+    "nameUA": "Чех Дар'я",
+    "nameEN": "Chekh Daria"
+  },
+  {
+    "nameUA": "Чиборовський Владислав",
+    "nameEN": "Chyborovskyi Vladyslav"
+  },
+  {
+    "nameUA": "Чижевський Володимир",
+    "nameEN": "Chyzhevskyi Volodymyr"
+  },
+  {
+    "nameUA": "Чижик Альбіна",
+    "nameEN": "Chyzhyk Albina"
+  },
+  {
+    "nameUA": "Чмелик Матвій",
+    "nameEN": "Chmelyk Matvii"
+  },
+  {
+    "nameUA": "Чорний Дмитро",
+    "nameEN": "Chornyi Dmytro"
+  },
+  {
+    "nameUA": "Чорнобай Анастасія",
+    "nameEN": "Chornobai Anastasiia"
+  },
+  {
+    "nameUA": "Чорнобіль Віталій",
+    "nameEN": "Chornobil Vitalii"
+  },
+  {
+    "nameUA": "Чхайло Богдан",
+    "nameEN": "Chkhailo Bohdan"
+  },
+  {
+    "nameUA": "Шабалдас Олексій",
+    "nameEN": "Shabaldas Oleksii"
+  },
+  {
+    "nameUA": "Шакула Максим",
+    "nameEN": "Shakula Maksym"
+  },
+  {
+    "nameUA": "Шапіренко Максим",
+    "nameEN": "Shapirenko Maksym"
+  },
+  {
+    "nameUA": "Шаповал Кароліна",
+    "nameEN": "Shapoval Karolina"
+  },
+  {
+    "nameUA": "Шароварська Анна",
+    "nameEN": "Sharovarska Anna"
+  },
+  {
+    "nameUA": "Шаройко Ростислав",
+    "nameEN": "Sharoiko Rostyslav"
+  },
+  {
+    "nameUA": "Швайчук Анастасія",
+    "nameEN": "Shvaichuk Anastasiia"
+  },
+  {
+    "nameUA": "Швець Вікторія",
+    "nameEN": "Shvets Viktoriia"
+  },
+  {
+    "nameUA": "Шевченко Максим",
+    "nameEN": "Shevchenko Maksym"
+  },
+  {
+    "nameUA": "Шевченко Яна",
+    "nameEN": "Shevchenko Yana"
+  },
+  {
+    "nameUA": "Шевчук Анастасія",
+    "nameEN": "Shevchuk Anastasiia"
+  },
+  {
+    "nameUA": "Шевчук Ангеліна",
+    "nameEN": "Shevchuk Anhelina"
+  },
+  {
+    "nameUA": "Шевчук Наталія",
+    "nameEN": "Shevchuk Nataliia"
+  },
+  {
+    "nameUA": "Шевчук Христина",
+    "nameEN": "Shevchuk Khrystyna"
+  },
+  {
+    "nameUA": "Шелковий Олексій",
+    "nameEN": "Shelkovyi Oleksii"
+  },
+  {
+    "nameUA": "Шилкіна Софія",
+    "nameEN": "Shylkina Sofiia"
+  },
+  {
+    "nameUA": "Шиман Кирило",
+    "nameEN": "Shyman Kyrylo"
+  },
+  {
+    "nameUA": "Шинкарьова Ксенія",
+    "nameEN": "Shynkarova Kseniia"
+  },
+  {
+    "nameUA": "Шкаєва Софія",
+    "nameEN": "Shkaieva Sofiia"
+  },
+  {
+    "nameUA": "Шматков Богдан",
+    "nameEN": "Shmatkov Bohdan"
+  },
+  {
+    "nameUA": "Шнайдер Анна",
+    "nameEN": "Shnaider Anna"
+  },
+  {
+    "nameUA": "Штучка Дмитро",
+    "nameEN": "Shtuchka Dmytro"
+  },
+  {
+    "nameUA": "Шупенко Павло",
+    "nameEN": "Shupenko Pavlo"
+  },
+  {
+    "nameUA": "Щерба Єлизавета",
+    "nameEN": "Shcherba Yelyzaveta"
+  },
+  {
+    "nameUA": "Щербина Аріна",
+    "nameEN": "Shcherbyna Arina"
+  },
+  {
+    "nameUA": "Щербініна Діана",
+    "nameEN": "Shcherbinina Diana"
+  },
+  {
+    "nameUA": "Юр'єв Роман",
+    "nameEN": "Yuriev Roman"
+  },
+  {
+    "nameUA": "Юр'єва Каміла",
+    "nameEN": "Yurieva Kamila"
+  },
+  {
+    "nameUA": "Юрків Павло",
+    "nameEN": "Yurkiv Pavlo"
+  },
+  {
+    "nameUA": "Яблочкін Олег",
+    "nameEN": "Yablochkin Oleh"
+  },
+  {
+    "nameUA": "Явтушенко Мілана",
+    "nameEN": "Yavtushenko Milana"
+  },
+  {
+    "nameUA": "Ягольніцький Ярослав",
+    "nameEN": "Yaholnitskyi Yaroslav"
+  },
+  {
+    "nameUA": "Якимчук Анастасія",
+    "nameEN": "Yakymchuk Anastasiia"
+  },
+  {
+    "nameUA": "Якубець Денис",
+    "nameEN": "Yakubets Denys"
+  },
+  {
+    "nameUA": "Янков Максим",
+    "nameEN": "Yankov Maksym"
+  },
+  {
+    "nameUA": "Янчев Дмитро",
+    "nameEN": "Yanchev Dmytro"
+  },
+  {
+    "nameUA": "Ярмиш Денис",
+    "nameEN": "Yarmysh Denys"
+  },
+  {
+    "nameUA": "Ярміш Анастасія",
+    "nameEN": "Yarmish Anastasiia"
+  },
+  {
+    "nameUA": "Яхнів Олексій",
+    "nameEN": "Yakhniv Oleksii"
+  },
+  {
+    "nameUA": "Яценко Аліса",
+    "nameEN": "Yatsenko Alisa"
+  },
+  {
+    "nameUA": "Яцюк Дарина",
+    "nameEN": "Yatsiuk Daryna"
+  }
+]

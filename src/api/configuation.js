@@ -1,4 +1,4 @@
-export const title = `Credico ${new Date().getFullYear()}`
+export const title = `CreDiCo ${new Date().getFullYear()}`
 export const configuration = {
   participant: {
     title: 'Учасникам',
