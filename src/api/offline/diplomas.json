@@ -1,527 +1,1855 @@
 [
-  {
-        "nameUA": "Касюра Валерія",
-        "nameEN": "Kasiura Valeriia",
+{
+        "nameUA": "Базилінський Денис",
+        "nameEN": "Bazylinskyi Denys",
         "placeUA": 1,
         "placeEN": "1st",
-        "nominationUA": "Вебдизайн",
-        "nominationEN": "Web design"
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
     },
 {
-        "nameUA": "Півовар Сергій",
-        "nameEN": "Pivovar Serhii",
+        "nameUA": "Нестеренко Аліса",
+        "nameEN": "Nesterenko Alisa",
         "placeUA": 1,
         "placeEN": "1st",
-        "nominationUA": "Вебдизайн",
-        "nominationEN": "Web design"
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
     },
 {
-        "nameUA": "Пономарьова Влада",
-        "nameEN": "Ponomarova Vlada",
+        "nameUA": "Степанов Ілля",
+        "nameEN": "Stepanov Illia",
         "placeUA": 1,
         "placeEN": "1st",
-        "nominationUA": "Вебдизайн",
-        "nominationEN": "Web design"
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
     },
 {
-        "nameUA": "Окрепкий Володимир",
-        "nameEN": "Okrepkyi Volodymyr",
+        "nameUA": "Фамілярська Ірина",
+        "nameEN": "Familiarska Iryna",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Швайчук Анастасія",
+        "nameEN": "Shvaichuk Anastasiia",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Якимишин Ілона",
+        "nameEN": "Yakymyshyn Ilona",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Непійко Олександр",
+        "nameEN": "Nepiiko Oleksandr",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Олійник Яна",
+        "nameEN": "Oliinyk Yana",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Сікільчук Каріна",
+        "nameEN": "Sikilchuk Karina",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Фільчаков Олексій",
+        "nameEN": "Filchakov Oleksii",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Чернятов Артем",
+        "nameEN": "Cherniatov Artem",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Шестерікова Владислава",
+        "nameEN": "Shesterikova Vladyslava",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Білаш Софія",
+        "nameEN": "Bilash Sofiia",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Вебдизайн",
-        "nominationEN": "Web design"
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
     },
 {
-        "nameUA": "Олейнiченко Максим",
-        "nameEN": "Oleinichenko Maksym",
+        "nameUA": "Бадалян Артур",
+        "nameEN": "Badalian Artur",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Вебдизайн",
-        "nominationEN": "Web design"
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
     },
 {
-        "nameUA": "Васильчук Олег",
-        "nameEN": "Vasylchuk Oleh",
+        "nameUA": "Каленик Аріадна",
+        "nameEN": "Kalenyk Ariadna",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Вебдизайн",
-        "nominationEN": "Web design"
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
     },
 {
-        "nameUA": "Мельник Владислав",
-        "nameEN": "Melnyk Vladyslav",
+        "nameUA": "Лимаренко Валерія",
+        "nameEN": "Lymarenko Valeriia",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Вебдизайн",
-        "nominationEN": "Web design"
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
     },
 {
-        "nameUA": "Бондаренко Катерина",
-        "nameEN": "Bondarenko Kateryna",
+        "nameUA": "Волкова Христина",
+        "nameEN": "Volkova Khrystyna",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Вебдизайн",
-        "nominationEN": "Web design"
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
     },
 {
-        "nameUA": "Кирноз Богдан",
-        "nameEN": "Kyrnoz Bohdan",
+        "nameUA": "Мачоган Лев",
+        "nameEN": "Machohan Lev",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Вебдизайн",
-        "nominationEN": "Web design"
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
     },
 {
-        "nameUA": "Моргун Андрій",
-        "nameEN": "Morhun Andrii",
+        "nameUA": "Орлова Ольга",
+        "nameEN": "Orlova Olha",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Павлюк Микита",
+        "nameEN": "Pavliuk Mykyta",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Серветник Поліна",
+        "nameEN": "Servetnyk Polina",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Горбачевська Поліна",
+        "nameEN": "Horbachevska Polina",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Скумін Ольга",
+        "nameEN": "Skumin Olha",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Соколовський Тадей",
+        "nameEN": "Sokolovskyi Tadei",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Давиденко Дарія",
+        "nameEN": "Davydenko Dariia",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Дубінська Світлана",
+        "nameEN": "Dubinska Svitlana",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Миронюк Олександр",
+        "nameEN": "Myroniuk Oleksandr",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Пілявіз Вадим",
+        "nameEN": "Piliaviz Vadym",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Ревенко Вікторія",
+        "nameEN": "Revenko Viktoriia",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Сердюк Богдан",
+        "nameEN": "Serdiuk Bohdan",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Стожок Назар",
+        "nameEN": "Stozhok Nazar",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Шатохін Олексій",
+        "nameEN": "Shatokhin Oleksii",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Алієв Ігор",
+        "nameEN": "Aliiev Ihor",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Вебдизайн",
-        "nominationEN": "Web design"
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
     },
 {
-        "nameUA": "Яцюк Дарина",
-        "nameEN": "Yatsiuk Daryna",
+        "nameUA": "Бовкунний Андрій",
+        "nameEN": "Bovkunnyi Andrii",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Вебдизайн",
-        "nominationEN": "Web design"
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
     },
 {
-        "nameUA": "Курадовець Ростислав",
-        "nameEN": "Kuradovets Rostyslav",
+        "nameUA": "Головатчук Андрій",
+        "nameEN": "Holovatchuk Andrii",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Вебдизайн",
-        "nominationEN": "Web design"
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Вдовенко Ксенія",
+        "nameEN": "Vdovenko Kseniia",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Дудкін Дмитро",
+        "nameEN": "Dudkin Dmytro",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Іваник Дарина",
+        "nameEN": "Ivanyk Daryna",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Желтякова Єлизавета",
+        "nameEN": "Zheltiakova Yelyzaveta",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Карпенко Єва",
+        "nameEN": "Karpenko Yeva",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Кушнірук Злата",
+        "nameEN": "Kushniruk Zlata",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Макаренко Аріна",
+        "nameEN": "Makarenko Arina",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Орєхов Руслан",
+        "nameEN": "Oriekhov Ruslan",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Камишан Марина",
+        "nameEN": "Kamyshan Maryna",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Ковальчук Максим",
+        "nameEN": "Kovalchuk Maksym",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Кузнецова Ксенія",
+        "nameEN": "Kuznetsova Kseniia",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Крижанівська Єва",
+        "nameEN": "Kryzhanivska Yeva",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Курінна Юлія",
+        "nameEN": "Kurinna Yuliia",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Кушнірук Дмитро",
+        "nameEN": "Kushniruk Dmytro",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Левенець Владислава",
+        "nameEN": "Levenets Vladyslava",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Миронець Ігор",
+        "nameEN": "Myronets Ihor",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
     },
 {
         "nameUA": "Овчарова Марія",
         "nameEN": "Ovcharova Mariia",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Вебдизайн",
-        "nominationEN": "Web design"
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
     },
 {
-        "nameUA": "Контіпайло Олександр",
-        "nameEN": "Kontipailo Oleksandr",
+        "nameUA": "Потапенко Карина",
+        "nameEN": "Potapenko Karyna",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Вебдизайн",
-        "nominationEN": "Web design"
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
     },
 {
-        "nameUA": "Матюк Дмитро",
-        "nameEN": "Matiuk Dmytro",
+        "nameUA": "Прушинський Денис",
+        "nameEN": "Prushynskyi Denys",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Вебдизайн",
-        "nominationEN": "Web design"
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
     },
 {
-        "nameUA": "Жмаченко Анастасія",
-        "nameEN": "Zhmachenko Anastasiia",
+        "nameUA": "Ребрій Олександр",
+        "nameEN": "Rebrii Oleksandr",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Вебдизайн",
-        "nominationEN": "Web design"
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
     },
 {
-        "nameUA": "Бабій Владислав",
-        "nameEN": "Babii Vladyslav",
+        "nameUA": "Скакодуб Дмитро",
+        "nameEN": "Skakodub Dmytro",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Сливка Маквсим",
+        "nameEN": "Slyvka Makvsym",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Спориш Марина",
+        "nameEN": "Sporysh Maryna",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Тимко Сергій",
+        "nameEN": "Tymko Serhii",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Ткаченко Олександр",
+        "nameEN": "Tkachenko Oleksandr",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Хованец Анна",
+        "nameEN": "Khovanets Anna",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Худолій Вікторія",
+        "nameEN": "Khudolii Viktoriia",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Яковлєва Юлія",
+        "nameEN": "Yakovlieva Yuliia",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Фотоколаж",
+        "nominationEN": "Computer graphics: Photo collage"
+    },
+{
+        "nameUA": "Антошко Ольга",
+        "nameEN": "Antoshko Olha",
         "placeUA": 1,
         "placeEN": "1st",
-        "nominationUA": "Вебдизайн: Графічне оформлення",
-        "nominationEN": "Web design: Graphic design"
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
     },
 {
-        "nameUA": "Бойко Віолетта",
-        "nameEN": "Boiko Violetta",
+        "nameUA": "Анпілова Аріна",
+        "nameEN": "Anpilova Arina",
         "placeUA": 1,
         "placeEN": "1st",
-        "nominationUA": "Вебдизайн: Графічне оформлення",
-        "nominationEN": "Web design: Graphic design"
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
     },
 {
-        "nameUA": "Євланов Данііл",
-        "nameEN": "Yevlanov Daniil",
+        "nameUA": "Плотнікова Єлизавета",
+        "nameEN": "Plotnikova Yelyzaveta",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Скрипка Олександр",
+        "nameEN": "Skrypka Oleksandr",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Будніцька Віталія",
+        "nameEN": "Budnitska Vitaliia",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Гонгало Христина",
+        "nameEN": "Honhalo Khrystyna",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Дяченко Анастасія",
+        "nameEN": "Diachenko Anastasiia",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Лумі Дарія",
+        "nameEN": "Lumi Dariia",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Солом'яна Анастасія",
+        "nameEN": "Solomiana Anastasiia",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Рудень Анна",
+        "nameEN": "Ruden Anna",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Байдак Анжела",
+        "nameEN": "Baidak Anzhela",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Вебдизайн: Графічне оформлення",
-        "nominationEN": "Web design: Graphic design"
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
     },
 {
-        "nameUA": "Шевченко Яна",
-        "nameEN": "Shevchenko Yana",
+        "nameUA": "Басов Артем",
+        "nameEN": "Basov Artem",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Вебдизайн: Графічне оформлення",
-        "nominationEN": "Web design: Graphic design"
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
     },
 {
-        "nameUA": "Шевчук Анастасія",
-        "nameEN": "Shevchuk Anastasiia",
+        "nameUA": "Боєчко Едуард",
+        "nameEN": "Boiechko Eduard",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Гавренко Ігор",
+        "nameEN": "Havrenko Ihor",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Заводіна Марина",
+        "nameEN": "Zavodina Maryna",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Михайленко Поліна",
+        "nameEN": "Mykhailenko Polina",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Мохнюк Анна",
+        "nameEN": "Mokhniuk Anna",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Гаркуша Софія",
+        "nameEN": "Harkusha Sofiia",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Рабоча Анастасія",
+        "nameEN": "Rabocha Anastasiia",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Сазонова Владислава",
+        "nameEN": "Sazonova Vladyslava",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Федорова Олександра",
+        "nameEN": "Fedorova Oleksandra",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Шнайдер Анна",
+        "nameEN": "Shnaider Anna",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Журавльова Олександра",
+        "nameEN": "Zhuravlova Oleksandra",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Климович Анастасія",
+        "nameEN": "Klymovych Anastasiia",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Кравчук Ростислав",
+        "nameEN": "Kravchuk Rostyslav",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Ольховська Владислава",
+        "nameEN": "Olkhovska Vladyslava",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Подбєрьозко Павло",
+        "nameEN": "Podbierozko Pavlo",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Прокопчук Ольга",
+        "nameEN": "Prokopchuk Olha",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Швець Єлизавета",
+        "nameEN": "Shvets Yelyzaveta",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Шевченко Дар`я",
+        "nameEN": "Shevchenko Dar`ia",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Школа Юлія",
+        "nameEN": "Shkola Yuliia",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Алконова Діана",
+        "nameEN": "Alkonova Diana",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Вебдизайн: Графічне оформлення",
-        "nominationEN": "Web design: Graphic design"
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
     },
 {
-        "nameUA": "Удачіна Єва",
-        "nameEN": "Udachina Yeva",
+        "nameUA": "Баглик Марія",
+        "nameEN": "Bahlyk Mariia",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Вебдизайн: Графічне оформлення",
-        "nominationEN": "Web design: Graphic design"
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
     },
 {
-        "nameUA": "Касаткин Павло",
-        "nameEN": "Kasatkyn Pavlo",
+        "nameUA": "Бойнік Дар'я",
+        "nameEN": "Boinik Daria",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Вебдизайн: Графічне оформлення",
-        "nominationEN": "Web design: Graphic design"
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
     },
 {
-        "nameUA": "Алтухова Катерина",
-        "nameEN": "Altukhova Kateryna",
+        "nameUA": "Герман Ілля",
+        "nameEN": "Herman Illia",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Вебдизайн: Графічне оформлення",
-        "nominationEN": "Web design: Graphic design"
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
     },
 {
-        "nameUA": "Павлова Дарина",
-        "nameEN": "Pavlova Daryna",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Вебдизайн: Інформаційне наповнення",
-        "nominationEN": "Web design: Information content"
-    },
-{
-        "nameUA": "Столярчук Дмитро",
-        "nameEN": "Stoliarchuk Dmytro",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Вебдизайн: Інформаційне наповнення",
-        "nominationEN": "Web design: Information content"
-    },
-{
-        "nameUA": "Шилкіна Софія",
-        "nameEN": "Shylkina Sofiia",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Вебдизайн: Інформаційне наповнення",
-        "nominationEN": "Web design: Information content"
-    },
-{
-        "nameUA": "Лаврик Денис",
-        "nameEN": "Lavryk Denys",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Вебдизайн: Інформаційне наповнення",
-        "nominationEN": "Web design: Information content"
-    },
-{
-        "nameUA": "Лагуш Анастасія",
-        "nameEN": "Lahush Anastasiia",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Вебдизайн: Інформаційне наповнення",
-        "nominationEN": "Web design: Information content"
-    },
-{
-        "nameUA": "Робич Вероніка",
-        "nameEN": "Robych Veronika",
+        "nameUA": "Грибовський Дмитро",
+        "nameEN": "Hrybovskyi Dmytro",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Вебдизайн: Інформаційне наповнення",
-        "nominationEN": "Web design: Information content"
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
     },
 {
-        "nameUA": "Смолянова Ніка",
-        "nameEN": "Smolianova Nika",
+        "nameUA": "Бабій Вероніка",
+        "nameEN": "Babii Veronika",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Вебдизайн: Інформаційне наповнення",
-        "nominationEN": "Web design: Information content"
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
     },
 {
-        "nameUA": "Соколов Роман",
-        "nameEN": "Sokolov Roman",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Вебдизайн: Програмна реалізація",
-        "nominationEN": "Web design: Software implementation"
-    },
-{
-        "nameUA": "Март'янов Ілля",
-        "nameEN": "Martianov Illia",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Вебдизайн: Програмна реалізація",
-        "nominationEN": "Web design: Software implementation"
-    },
-{
-        "nameUA": "Сокольчук Богдан",
-        "nameEN": "Sokolchuk Bohdan",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Вебдизайн: Програмна реалізація",
-        "nominationEN": "Web design: Software implementation"
-    },
-{
-        "nameUA": "Степанюк Анна",
-        "nameEN": "Stepaniuk Anna",
+        "nameUA": "Бондаренко Вікторія",
+        "nameEN": "Bondarenko Viktoriia",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Вебдизайн: Програмна реалізація",
-        "nominationEN": "Web design: Software implementation"
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
     },
 {
-        "nameUA": "Чижевський Володимир",
-        "nameEN": "Chyzhevskyi Volodymyr",
+        "nameUA": "Бурдейна Анна",
+        "nameEN": "Burdeina Anna",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Вебдизайн: Програмна реалізація",
-        "nominationEN": "Web design: Software implementation"
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
     },
 {
-        "nameUA": "Коляда Анастасія",
-        "nameEN": "Koliada Anastasiia",
+        "nameUA": "Вайновська Валерія",
+        "nameEN": "Vainovska Valeriia",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Дземчик Роман",
+        "nameEN": "Dzemchyk Roman",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Воробей Анна",
+        "nameEN": "Vorobei Anna",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Жеплінський Іван",
+        "nameEN": "Zheplinskyi Ivan",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Капуста Алла",
+        "nameEN": "Kapusta Alla",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Кучерак Юлія",
+        "nameEN": "Kucherak Yuliia",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Мазур Софія",
+        "nameEN": "Mazur Sofiia",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Мягченко Світлана",
+        "nameEN": "Miahchenko Svitlana",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Павленко Таїсія",
+        "nameEN": "Pavlenko Taisiia",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Пукальчук Соломія",
+        "nameEN": "Pukalchuk Solomiia",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Руденко Катерина",
+        "nameEN": "Rudenko Kateryna",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Руденко Марія",
+        "nameEN": "Rudenko Mariia",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Карабуля Аріадна",
+        "nameEN": "Karabulia Ariadna",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Фролова Діана",
+        "nameEN": "Frolova Diana",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Ковальчук Олександр",
+        "nameEN": "Kovalchuk Oleksandr",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Кодолов Ярослав",
+        "nameEN": "Kodolov Yaroslav",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Колодєєва Ольга",
+        "nameEN": "Kolodieieva Olha",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Кулібаніч Дарія",
+        "nameEN": "Kulibanich Dariia",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Лагутенко Вероніка",
+        "nameEN": "Lahutenko Veronika",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Манько Олег",
+        "nameEN": "Manko Oleh",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Маслюченко Петро",
+        "nameEN": "Masliuchenko Petro",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Мироненко Костянтин",
+        "nameEN": "Myronenko Kostiantyn",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Михайленко Владислав",
+        "nameEN": "Mykhailenko Vladyslav",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Мірошниченко Станіслав",
+        "nameEN": "Miroshnychenko Stanislav",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Осадчий Максим",
+        "nameEN": "Osadchyi Maksym",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Павленко Карина",
+        "nameEN": "Pavlenko Karyna",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Печерських Вадим",
+        "nameEN": "Pecherskykh Vadym",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Поволяшко Кирило",
+        "nameEN": "Povoliashko Kyrylo",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Поліщук Каріна",
+        "nameEN": "Polishchuk Karina",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Полоз Вікторія",
+        "nameEN": "Poloz Viktoriia",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Ситник Таїсія",
+        "nameEN": "Sytnyk Taisiia",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Фоміна Єва",
+        "nameEN": "Fomina Yeva",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Храпко Ярослав",
+        "nameEN": "Khrapko Yaroslav",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Щербініна Діана",
+        "nameEN": "Shcherbinina Diana",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
+    },
+{
+        "nameUA": "Мерзлікіна Анастасія",
+        "nameEN": "Merzlikina Anastasiia",
         "placeUA": 1,
         "placeEN": "1st",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Рибалко Анна",
-        "nameEN": "Rybalko Anna",
+        "nameUA": "Попова Анна",
+        "nameEN": "Popova Anna",
         "placeUA": 1,
         "placeEN": "1st",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Лобода Софія",
-        "nameEN": "Loboda Sofiia",
+        "nameUA": "Бабічев Олександр",
+        "nameEN": "Babichev Oleksandr",
         "placeUA": 1,
         "placeEN": "1st",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Кобильник Олександр",
-        "nameEN": "Kobylnyk Oleksandr",
+        "nameUA": "Пригара Єлизавета",
+        "nameEN": "Pryhara Yelyzaveta",
         "placeUA": 1,
         "placeEN": "1st",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Кулик Олександр",
-        "nameEN": "Kulyk Oleksandr",
+        "nameUA": "Таран Роман",
+        "nameEN": "Taran Roman",
         "placeUA": 1,
         "placeEN": "1st",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Степова Вероніка",
-        "nameEN": "Stepova Veronika",
+        "nameUA": "Ващук Тетяна",
+        "nameEN": "Vashchuk Tetiana",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
+    },
+{
+        "nameUA": "Петренко Андрій",
+        "nameEN": "Petrenko Andrii",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
+    },
+{
+        "nameUA": "Строчай Ярослав",
+        "nameEN": "Strochai Yaroslav",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
+    },
+{
+        "nameUA": "Троцька Анастасія",
+        "nameEN": "Trotska Anastasiia",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
+    },
+{
+        "nameUA": "Боковець Катерина",
+        "nameEN": "Bokovets Kateryna",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Анхим Андрій",
-        "nameEN": "Ankhym Andrii",
+        "nameUA": "Івлєва Ксенія",
+        "nameEN": "Ivlieva Kseniia",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Хуторний Максим",
-        "nameEN": "Khutornyi Maksym",
+        "nameUA": "Кіраш Давид",
+        "nameEN": "Kirash Davyd",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
+    },
+{
+        "nameUA": "Кравцова Віра",
+        "nameEN": "Kravtsova Vira",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
+    },
+{
+        "nameUA": "Владичук Вікторія",
+        "nameEN": "Vladychuk Viktoriia",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
+    },
+{
+        "nameUA": "Матвієнко Софія",
+        "nameEN": "Matviienko Sofiia",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
+    },
+{
+        "nameUA": "Вуткі Марія",
+        "nameEN": "Vutki Mariia",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
+    },
+{
+        "nameUA": "Галайчук Андрій",
+        "nameEN": "Halaichuk Andrii",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
+    },
+{
+        "nameUA": "Пешко Анна",
+        "nameEN": "Peshko Anna",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
+    },
+{
+        "nameUA": "Гонтаренко Данііл",
+        "nameEN": "Hontarenko Daniil",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
+    },
+{
+        "nameUA": "Слабоуз Владислав",
+        "nameEN": "Slabouz Vladyslav",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
+    },
+{
+        "nameUA": "Татарченко Єгор",
+        "nameEN": "Tatarchenko Yehor",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
+    },
+{
+        "nameUA": "Циганенко Анастасія",
+        "nameEN": "Tsyhanenko Anastasiia",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
         "nameUA": "Дідківський Олександр",
         "nameEN": "Didkivskyi Oleksandr",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Парфило Костянтин",
-        "nameEN": "Parfylo Kostiantyn",
+        "nameUA": "Козаченко Марія",
+        "nameEN": "Kozachenko Mariia",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Адашевський Нікіта",
-        "nameEN": "Adashevskyi Nikita",
+        "nameUA": "Колесник Юрій",
+        "nameEN": "Kolesnyk Yurii",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Смалюх Артем",
-        "nameEN": "Smaliukh Artem",
+        "nameUA": "Крижанівська Анна",
+        "nameEN": "Kryzhanivska Anna",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Пилипенко Артур",
-        "nameEN": "Pylypenko Artur",
+        "nameUA": "Матвійчук Ірина",
+        "nameEN": "Matviichuk Iryna",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
+    },
+{
+        "nameUA": "Погорілий Едуард",
+        "nameEN": "Pohorilyi Eduard",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
+    },
+{
+        "nameUA": "Шиндирук Вікторія",
+        "nameEN": "Shyndyruk Viktoriia",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
+    },
+{
+        "nameUA": "Баранова Дар'я",
+        "nameEN": "Baranova Daria",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Турчин Дмитро",
-        "nameEN": "Turchyn Dmytro",
+        "nameUA": "Бережна Даріна",
+        "nameEN": "Berezhna Darina",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Янков Максим",
-        "nameEN": "Yankov Maksym",
+        "nameUA": "Бондарєва Яна",
+        "nameEN": "Bondarieva Yana",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Лаврик Олександр",
-        "nameEN": "Lavryk Oleksandr",
+        "nameUA": "Бульбак Богдана",
+        "nameEN": "Bulbak Bohdana",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Парполіта Максім",
-        "nameEN": "Parpolita Maksim",
+        "nameUA": "Галіщук Олександр",
+        "nameEN": "Halishchuk Oleksandr",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "П`ятишкіна Катерина",
-        "nameEN": "P`iatyshkina Kateryna",
+        "nameUA": "Герус Роман",
+        "nameEN": "Herus Roman",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Рубець Артем",
-        "nameEN": "Rubets Artem",
+        "nameUA": "Гірний Богдан",
+        "nameEN": "Hirnyi Bohdan",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Пінскер Софія",
-        "nameEN": "Pinsker Sofiia",
+        "nameUA": "Гранкіна Олександра",
+        "nameEN": "Hrankina Oleksandra",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Журавльов Володимир",
-        "nameEN": "Zhuravlov Volodymyr",
+        "nameUA": "Демченко Вікторія",
+        "nameEN": "Demchenko Viktoriia",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Ткаченко Іван",
-        "nameEN": "Tkachenko Ivan",
+        "nameUA": "Дзеніс Єлизавета",
+        "nameEN": "Dzenis Yelyzaveta",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Лаетін Дмитро",
-        "nameEN": "Laetin Dmytro",
+        "nameUA": "Гордіюк Маргарита",
+        "nameEN": "Hordiiuk Marharyta",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Д`ячихін Едуард",
-        "nameEN": "D`iachykhin Eduard",
+        "nameUA": "Данчук Олексій",
+        "nameEN": "Danchuk Oleksii",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Мазуркевич Катерина",
-        "nameEN": "Mazurkevych Kateryna",
+        "nameUA": "Лар'яновська Євгенія",
+        "nameEN": "Larianovska Yevheniia",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Мединський Роман",
-        "nameEN": "Medynskyi Roman",
+        "nameUA": "Михалюк Володимир",
+        "nameEN": "Mykhaliuk Volodymyr",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Сікалюк Артем",
-        "nameEN": "Sikaliuk Artem",
+        "nameUA": "Нишпал Владислав",
+        "nameEN": "Nyshpal Vladyslav",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Хлистун Поліна",
-        "nameEN": "Khlystun Polina",
+        "nameUA": "Ковалець Марія",
+        "nameEN": "Kovalets Mariia",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Візуальне програмування",
-        "nominationEN": "Visual programming"
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
     },
 {
-        "nameUA": "Брацило Дмитро",
-        "nameEN": "Bratsylo Dmytro",
+        "nameUA": "Мозглякова Вероніка",
+        "nameEN": "Mozghliakova Veronika",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
+    },
+{
+        "nameUA": "Ніколаєва Анастасія",
+        "nameEN": "Nikolaieva Anastasiia",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
+    },
+{
+        "nameUA": "Остапчук Максим",
+        "nameEN": "Ostapchuk Maksym",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
+    },
+{
+        "nameUA": "Пономаренко Олена",
+        "nameEN": "Ponomarenko Olena",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
+    },
+{
+        "nameUA": "Потоцкій Максим",
+        "nameEN": "Pototskii Maksym",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: Векторна графіка",
+        "nominationEN": "Computer graphics: Vector graphics"
+    },
+{
+        "nameUA": "Єпанчин Роман",
+        "nameEN": "Yepanchyn Roman",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Палько Андрій",
+        "nameEN": "Palko Andrii",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Сербак Василь",
+        "nameEN": "Serbak Vasyl",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Коротаєва Софія",
+        "nameEN": "Korotaieva Sofiia",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Майковський Іван",
+        "nameEN": "Maikovskyi Ivan",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Пашко Євгеній",
+        "nameEN": "Pashko Yevhenii",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Вансович Анна",
+        "nameEN": "Vansovych Anna",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Данчук Кирило",
+        "nameEN": "Danchuk Kyrylo",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Демінтієнко Анастасія",
+        "nameEN": "Demintiienko Anastasiia",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Драновський Артемій",
+        "nameEN": "Dranovskyi Artemii",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Замковий Давід",
+        "nameEN": "Zamkovyi David",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Іванців Маркіян",
+        "nameEN": "Ivantsiv Markiian",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Лозян Олександр",
+        "nameEN": "Lozian Oleksandr",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Пастернак Назар",
+        "nameEN": "Pasternak Nazar",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Ступак Микита",
+        "nameEN": "Stupak Mykyta",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Толстяков Мирослав",
+        "nameEN": "Tolstiakov Myroslav",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Шаповал Роман",
+        "nameEN": "Shapoval Roman",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Климчук Сергій",
+        "nameEN": "Klymchuk Serhii",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Коваленко Наталія",
+        "nameEN": "Kovalenko Nataliia",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Пошивай Ярослав",
+        "nameEN": "Poshyvai Yaroslav",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Савчук Ольга",
+        "nameEN": "Savchuk Olha",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Сарафінчан Софія",
+        "nameEN": "Sarafinchan Sofiia",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Щербатюк Артем",
+        "nameEN": "Shcherbatiuk Artem",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Гате Мілена",
+        "nameEN": "Hate Milena",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Гриценко Вікторія",
+        "nameEN": "Hrytsenko Viktoriia",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Жупецький Михайло",
+        "nameEN": "Zhupetskyi Mykhailo",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Іжик Лілія",
+        "nameEN": "Izhyk Liliia",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Коцко Олександр",
+        "nameEN": "Kotsko Oleksandr",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Осикіна Кира",
+        "nameEN": "Osykina Kyra",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Попик Анна-Анастасія",
+        "nameEN": "Popyk Anna-Anastasiia",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Срочинська Анна Марія",
+        "nameEN": "Srochynska Anna",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Тимофєєв Іван",
+        "nameEN": "Tymofieiev Ivan",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Федорова Вікторія",
+        "nameEN": "Fedorova Viktoriia",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Цицера Марія",
+        "nameEN": "Tsytsera Mariia",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Шкурдода Дарина",
+        "nameEN": "Shkurdoda Daryna",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Маліцький Максим",
+        "nameEN": "Malitskyi Maksym",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Муха Олена",
+        "nameEN": "Mukha Olena",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Синельников Андрій",
+        "nameEN": "Synelnykov Andrii",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Тєлєшова Олександра",
+        "nameEN": "Tielieshova Oleksandra",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Яремчук Володимир",
+        "nameEN": "Yaremchuk Volodymyr",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна графіка: 3D-графіка",
+        "nominationEN": "Computer graphics: 3D graphics"
+    },
+{
+        "nameUA": "Пузіков Олександр",
+        "nameEN": "Puzikov Oleksandr",
         "placeUA": 1,
         "placeEN": "1st",
         "nominationUA": "Комп'ютерна анімація",
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Бурлака Анна",
-        "nameEN": "Burlaka Anna",
+        "nameUA": "Талько Ілля",
+        "nameEN": "Talko Illia",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна анімація",
+        "nominationEN": "Computer animation"
+    },
+{
+        "nameUA": "Грек Сніжана",
+        "nameEN": "Hrek Snizhana",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна анімація",
+        "nominationEN": "Computer animation"
+    },
+{
+        "nameUA": "Іванова Вікторія",
+        "nameEN": "Ivanova Viktoriia",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна анімація",
+        "nominationEN": "Computer animation"
+    },
+{
+        "nameUA": "Мартинов Іван",
+        "nameEN": "Martynov Ivan",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна анімація",
+        "nominationEN": "Computer animation"
+    },
+{
+        "nameUA": "Перепелка Кіра",
+        "nameEN": "Perepelka Kira",
         "placeUA": 1,
         "placeEN": "1st",
         "nominationUA": "Комп'ютерна анімація",
@@ -536,96 +1864,72 @@
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Вознюк Анастасія",
-        "nameEN": "Vozniuk Anastasiia",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Комп'ютерна анімація",
-        "nominationEN": "Computer animation"
-    },
-{
-        "nameUA": "Чеботарьова Марина",
-        "nameEN": "Chebotarova Maryna",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Комп'ютерна анімація",
-        "nominationEN": "Computer animation"
-    },
-{
-        "nameUA": "Чеботарьова Марина",
-        "nameEN": "Chebotarova Maryna",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Комп'ютерна анімація",
-        "nominationEN": "Computer animation"
-    },
-{
-        "nameUA": "Байдак Анжела",
-        "nameEN": "Baidak Anzhela",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Комп'ютерна анімація",
-        "nominationEN": "Computer animation"
-    },
-{
-        "nameUA": "Литовченко Денис",
-        "nameEN": "Lytovchenko Denys",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Комп'ютерна анімація",
-        "nominationEN": "Computer animation"
-    },
-{
-        "nameUA": "Дубінська Світлана",
-        "nameEN": "Dubinska Svitlana",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Комп'ютерна анімація",
-        "nominationEN": "Computer animation"
-    },
-{
-        "nameUA": "Arliukov Kostiantyn",
-        "nameEN": "Arliukov Kostiantyn",
+        "nameUA": "Барахтей Матвій",
+        "nameEN": "Barakhtei Matvii",
         "placeUA": 2,
         "placeEN": "2nd",
         "nominationUA": "Комп'ютерна анімація",
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Панаріна Вероніка",
-        "nameEN": "Panarina Veronika",
+        "nameUA": "Жмуд Віктор",
+        "nameEN": "Zhmud Viktor",
         "placeUA": 2,
         "placeEN": "2nd",
         "nominationUA": "Комп'ютерна анімація",
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Пузіков Олександр",
-        "nameEN": "Puzikov Oleksandr",
+        "nameUA": "Мамиріна Анастасія",
+        "nameEN": "Mamyrina Anastasiia",
         "placeUA": 2,
         "placeEN": "2nd",
         "nominationUA": "Комп'ютерна анімація",
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Зуйченко Марія",
-        "nameEN": "Zuichenko Mariia",
+        "nameUA": "Волощук Дарина",
+        "nameEN": "Voloshchuk Daryna",
         "placeUA": 2,
         "placeEN": "2nd",
         "nominationUA": "Комп'ютерна анімація",
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Гринаш Діана",
-        "nameEN": "Hrynash Diana",
+        "nameUA": "Давиденко Дар’я",
+        "nameEN": "Davydenko Dar’ia",
         "placeUA": 2,
         "placeEN": "2nd",
         "nominationUA": "Комп'ютерна анімація",
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Шелковий Олексій",
-        "nameEN": "Shelkovyi Oleksii",
+        "nameUA": "Дребеннікова Катерина",
+        "nameEN": "Drebennikova Kateryna",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна анімація",
+        "nominationEN": "Computer animation"
+    },
+{
+        "nameUA": "Козяр Дмитро",
+        "nameEN": "Koziar Dmytro",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна анімація",
+        "nominationEN": "Computer animation"
+    },
+{
+        "nameUA": "Сердюк Віктор",
+        "nameEN": "Serdiuk Viktor",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Комп'ютерна анімація",
+        "nominationEN": "Computer animation"
+    },
+{
+        "nameUA": "Сюсюрченко Олег",
+        "nameEN": "Siusiurchenko Oleh",
         "placeUA": 2,
         "placeEN": "2nd",
         "nominationUA": "Комп'ютерна анімація",
@@ -640,2011 +1944,835 @@
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Вінніченко Богдан",
-        "nameEN": "Vinnichenko Bohdan",
+        "nameUA": "Хоміна Яна",
+        "nameEN": "Khomina Yana",
         "placeUA": 2,
         "placeEN": "2nd",
         "nominationUA": "Комп'ютерна анімація",
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Музиря Софія",
-        "nameEN": "Muzyria Sofiia",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Комп'ютерна анімація",
-        "nominationEN": "Computer animation"
-    },
-{
-        "nameUA": "Бобирєв Максим",
-        "nameEN": "Bobyriev Maksym",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Комп'ютерна анімація",
-        "nominationEN": "Computer animation"
-    },
-{
-        "nameUA": "Резонтова Юлія",
-        "nameEN": "Rezontova Yuliia",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Комп'ютерна анімація",
-        "nominationEN": "Computer animation"
-    },
-{
-        "nameUA": "Манскова Юлія",
-        "nameEN": "Manskova Yuliia",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Комп'ютерна анімація",
-        "nominationEN": "Computer animation"
-    },
-{
-        "nameUA": "Хохлов Андрій",
-        "nameEN": "Khokhlov Andrii",
+        "nameUA": "Бліндовський Владислав",
+        "nameEN": "Blindovskyi Vladyslav",
         "placeUA": 3,
         "placeEN": "3rd",
         "nominationUA": "Комп'ютерна анімація",
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Піменов Артем",
-        "nameEN": "Pimenov Artem",
+        "nameUA": "Бліндовський Святослав",
+        "nameEN": "Blindovskyi Sviatoslav",
         "placeUA": 3,
         "placeEN": "3rd",
         "nominationUA": "Комп'ютерна анімація",
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Пантелеймонова Дарʼя",
-        "nameEN": "Panteleimonova Darʼia",
+        "nameUA": "Брацило Дмитро",
+        "nameEN": "Bratsylo Dmytro",
         "placeUA": 3,
         "placeEN": "3rd",
         "nominationUA": "Комп'ютерна анімація",
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Вовнянко Дар'я",
-        "nameEN": "Vovnianko Daria",
+        "nameUA": "Дмитренко Іван",
+        "nameEN": "Dmytrenko Ivan",
         "placeUA": 3,
         "placeEN": "3rd",
         "nominationUA": "Комп'ютерна анімація",
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Ягольніцький Ярослав",
-        "nameEN": "Yaholnitskyi Yaroslav",
+        "nameUA": "Герасименко Меліса",
+        "nameEN": "Herasymenko Melisa",
         "placeUA": 3,
         "placeEN": "3rd",
         "nominationUA": "Комп'ютерна анімація",
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Маліш Анастасія",
-        "nameEN": "Malish Anastasiia",
+        "nameUA": "Дрозд Ірина",
+        "nameEN": "Drozd Iryna",
         "placeUA": 3,
         "placeEN": "3rd",
         "nominationUA": "Комп'ютерна анімація",
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Старостіна Катерина",
-        "nameEN": "Starostina Kateryna",
+        "nameUA": "Дементієнко Анна",
+        "nameEN": "Dementiienko Anna",
         "placeUA": 3,
         "placeEN": "3rd",
         "nominationUA": "Комп'ютерна анімація",
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Чхайло Богдан",
-        "nameEN": "Chkhailo Bohdan",
+        "nameUA": "Єгоров Валентин",
+        "nameEN": "Yehorov Valentyn",
         "placeUA": 3,
         "placeEN": "3rd",
         "nominationUA": "Комп'ютерна анімація",
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Ващенко Анастасія",
-        "nameEN": "Vashchenko Anastasiia",
+        "nameUA": "Куротчин Ілона",
+        "nameEN": "Kurotchyn Ilona",
         "placeUA": 3,
         "placeEN": "3rd",
         "nominationUA": "Комп'ютерна анімація",
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Глазько Віталій",
-        "nameEN": "Hlazko Vitalii",
+        "nameUA": "Кушнірук Катерина",
+        "nameEN": "Kushniruk Kateryna",
         "placeUA": 3,
         "placeEN": "3rd",
         "nominationUA": "Комп'ютерна анімація",
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "ЛИСАК Аліна",
-        "nameEN": "LYSAK Alina",
+        "nameUA": "Лєсовицький Ігор",
+        "nameEN": "Liesovytskyi Ihor",
         "placeUA": 3,
         "placeEN": "3rd",
         "nominationUA": "Комп'ютерна анімація",
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Каюков Олексій",
-        "nameEN": "Kaiukov Oleksii",
+        "nameUA": "Заблодська Ольга",
+        "nameEN": "Zablodska Olha",
         "placeUA": 3,
         "placeEN": "3rd",
         "nominationUA": "Комп'ютерна анімація",
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Сергєєва Діана",
-        "nameEN": "Serhieieva Diana",
+        "nameUA": "Марченко Діана",
+        "nameEN": "Marchenko Diana",
         "placeUA": 3,
         "placeEN": "3rd",
         "nominationUA": "Комп'ютерна анімація",
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Овчарова Марія",
-        "nameEN": "Ovcharova Mariia",
+        "nameUA": "Мороз Вікторія",
+        "nameEN": "Moroz Viktoriia",
         "placeUA": 3,
         "placeEN": "3rd",
         "nominationUA": "Комп'ютерна анімація",
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Бейдик Тетяна",
-        "nameEN": "Beidyk Tetiana",
+        "nameUA": "Козонак Ілля",
+        "nameEN": "Kozonak Illia",
         "placeUA": 3,
         "placeEN": "3rd",
         "nominationUA": "Комп'ютерна анімація",
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Казачкіна Дар'я",
-        "nameEN": "Kazachkina Daria",
+        "nameUA": "Щепак Поліна",
+        "nameEN": "Shchepak Polina",
         "placeUA": 3,
         "placeEN": "3rd",
         "nominationUA": "Комп'ютерна анімація",
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Івах Віталій",
-        "nameEN": "Ivakh Vitalii",
+        "nameUA": "Кулібаба Марина",
+        "nameEN": "Kulibaba Maryna",
         "placeUA": 3,
         "placeEN": "3rd",
         "nominationUA": "Комп'ютерна анімація",
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Майдан Тарас",
-        "nameEN": "Maidan Taras",
+        "nameUA": "Ложніков Лев",
+        "nameEN": "Lozhnikov Lev",
         "placeUA": 3,
         "placeEN": "3rd",
         "nominationUA": "Комп'ютерна анімація",
         "nominationEN": "Computer animation"
     },
 {
-        "nameUA": "Капіцький Андрій",
-        "nameEN": "Kapitskyi Andrii",
+        "nameUA": "Максимович Данило",
+        "nameEN": "Maksymovych Danylo",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна анімація",
+        "nominationEN": "Computer animation"
+    },
+{
+        "nameUA": "Моторний Максим",
+        "nameEN": "Motornyi Maksym",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна анімація",
+        "nominationEN": "Computer animation"
+    },
+{
+        "nameUA": "Музика Максим",
+        "nameEN": "Muzyka Maksym",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна анімація",
+        "nominationEN": "Computer animation"
+    },
+{
+        "nameUA": "Мурчик Дмитро",
+        "nameEN": "Murchyk Dmytro",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна анімація",
+        "nominationEN": "Computer animation"
+    },
+{
+        "nameUA": "Мусієнко Олександр",
+        "nameEN": "Musiienko Oleksandr",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна анімація",
+        "nominationEN": "Computer animation"
+    },
+{
+        "nameUA": "Пшеничний Олексій",
+        "nameEN": "Pshenychnyi Oleksii",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна анімація",
+        "nominationEN": "Computer animation"
+    },
+{
+        "nameUA": "Третяк Іван",
+        "nameEN": "Tretiak Ivan",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Комп'ютерна анімація",
+        "nominationEN": "Computer animation"
+    },
+{
+        "nameUA": "Кобилянський Олексій",
+        "nameEN": "Kobylianskyi Oleksii",
         "placeUA": 1,
         "placeEN": "1st",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Папков Ілля",
-        "nameEN": "Papkov Illia",
+        "nameUA": "Доля Анастасія",
+        "nameEN": "Dolia Anastasiia",
         "placeUA": 1,
         "placeEN": "1st",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Скуратович Роман",
-        "nameEN": "Skuratovych Roman",
+        "nameUA": "Мельник Богдан",
+        "nameEN": "Melnyk Bohdan",
         "placeUA": 1,
         "placeEN": "1st",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Дудіна Ірина",
-        "nameEN": "Dudina Iryna",
+        "nameUA": "Підгайко Сергій",
+        "nameEN": "Pidhaiko Serhii",
         "placeUA": 1,
         "placeEN": "1st",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Ситник Таїсія",
-        "nameEN": "Sytnyk Taisiia",
+        "nameUA": "Різник Олександр",
+        "nameEN": "Riznyk Oleksandr",
         "placeUA": 1,
         "placeEN": "1st",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Пікус Андрій",
-        "nameEN": "Pikus Andrii",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Олєйнік Юрій",
-        "nameEN": "Olieinik Yurii",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Єпанчин Роман",
-        "nameEN": "Yepanchyn Roman",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Коротаєва Софія",
-        "nameEN": "Korotaieva Sofiia",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Гаврилюк Тетяна",
-        "nameEN": "Havryliuk Tetiana",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Тимошина Юлія",
-        "nameEN": "Tymoshyna Yuliia",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Максименко Дмитро",
-        "nameEN": "Maksymenko Dmytro",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Удовенко Анастасія",
-        "nameEN": "Udovenko Anastasiia",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Гриценко Роман",
-        "nameEN": "Hrytsenko Roman",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Ткаченко Микита",
-        "nameEN": "Tkachenko Mykyta",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Носенко Святослав",
-        "nameEN": "Nosenko Sviatoslav",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Мокринчук Ігор",
-        "nameEN": "Mokrynchuk Ihor",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Татуревич Олександра",
-        "nameEN": "Taturevych Oleksandra",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Пашко Євгеній",
-        "nameEN": "Pashko Yevhenii",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Дмитернко Іван",
-        "nameEN": "Dmyternko Ivan",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Пікун Владислав",
-        "nameEN": "Pikun Vladyslav",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Панаріна Вероніка",
-        "nameEN": "Panarina Veronika",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Кравченко Арсеній",
-        "nameEN": "Kravchenko Arsenii",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Голомша Володимир",
-        "nameEN": "Holomsha Volodymyr",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Пилипак Олексій",
-        "nameEN": "Pylypak Oleksii",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Шелковий Олексій",
-        "nameEN": "Shelkovyi Oleksii",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Богуш Олександра",
-        "nameEN": "Bohush Oleksandra",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Дяченко Анастасія",
-        "nameEN": "Diachenko Anastasiia",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Ткаченко Микита",
-        "nameEN": "Tkachenko Mykyta",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Пастернак Назар",
-        "nameEN": "Pasternak Nazar",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Юрків Павло",
-        "nameEN": "Yurkiv Pavlo",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Матвійчук Ірина",
-        "nameEN": "Matviichuk Iryna",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Євтушенко Аліна",
-        "nameEN": "Yevtushenko Alina",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Семененко Дар'я",
-        "nameEN": "Semenenko Daria",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Соснов Максим",
-        "nameEN": "Sosnov Maksym",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Талько Ілля",
-        "nameEN": "Talko Illia",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Паталаха Владислав",
-        "nameEN": "Patalakha Vladyslav",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Батирєв Роман",
-        "nameEN": "Batyriev Roman",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Юр'єв Роман",
-        "nameEN": "Yuriev Roman",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Касьянова Анна",
-        "nameEN": "Kasianova Anna",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Мостика Варвара",
-        "nameEN": "Mostyka Varvara",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Якимчук Анастасія",
-        "nameEN": "Yakymchuk Anastasiia",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "3D-графіка",
-        "nominationEN": "3D graphics"
-    },
-{
-        "nameUA": "Коробцова Олена",
-        "nameEN": "Korobtsova Olena",
+        "nameUA": "Чорна Єлизавета",
+        "nameEN": "Chorna Yelyzaveta",
         "placeUA": 1,
         "placeEN": "1st",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Дзеніс Єлизавета",
-        "nameEN": "Dzenis Yelyzaveta",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Татюк Софія",
-        "nameEN": "Tatiuk Sofiia",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Шароварська Анна",
-        "nameEN": "Sharovarska Anna",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Кухарчук Назарій",
-        "nameEN": "Kukharchuk Nazarii",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Гордіюк Маргарита",
-        "nameEN": "Hordiiuk Marharyta",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Бондаренко Дарина",
-        "nameEN": "Bondarenko Daryna",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Лелека Максим",
-        "nameEN": "Leleka Maksym",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Бабічев Олександр",
-        "nameEN": "Babichev Oleksandr",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Русецька Інна",
-        "nameEN": "Rusetska Inna",
+        "nameUA": "Адашевський Нікіта",
+        "nameEN": "Adashevskyi Nikita",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Байрачний Артем",
-        "nameEN": "Bairachnyi Artem",
+        "nameUA": "Анхим Андрій",
+        "nameEN": "Ankhym Andrii",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Іліуц Анна",
-        "nameEN": "Iliuts Anna",
+        "nameUA": "Гадюченко Артем",
+        "nameEN": "Hadiuchenko Artem",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Усов Артем",
-        "nameEN": "Usov Artem",
+        "nameUA": "Щербань Арсеній",
+        "nameEN": "Shcherban Arsenii",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Торба Єлизавета",
-        "nameEN": "Torba Yelyzaveta",
+        "nameUA": "Кирноз Богдан",
+        "nameEN": "Kyrnoz Bohdan",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Фоміна Єва",
-        "nameEN": "Fomina Yeva",
+        "nameUA": "Книш-Петренко Захарій",
+        "nameEN": "Knysh-Petrenko Zakharii",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Божко Наталія",
-        "nameEN": "Bozhko Nataliia",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Артинюк Денис",
-        "nameEN": "Artyniuk Denys",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Баранчук Максим",
-        "nameEN": "Baranchuk Maksym",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Горінова Дарина",
-        "nameEN": "Horinova Daryna",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Калінчук Олексій",
-        "nameEN": "Kalinchuk Oleksii",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Бура Богдана",
-        "nameEN": "Bura Bohdana",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Потоцкій Максим",
-        "nameEN": "Pototskii Maksym",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Остапчук Максим",
-        "nameEN": "Ostapchuk Maksym",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Михайленко Владислав",
-        "nameEN": "Mykhailenko Vladyslav",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Коняхіна Кіра",
-        "nameEN": "Koniakhina Kira",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Крячко Марина",
-        "nameEN": "Kriachko Maryna",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Алконова Діана",
-        "nameEN": "Alkonova Diana",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Губіна Вікторія",
-        "nameEN": "Hubina Viktoriia",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Вальчук Дар'я",
-        "nameEN": "Valchuk Daria",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Солярова Дар'я",
-        "nameEN": "Soliarova Daria",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Феник Маргарита",
-        "nameEN": "Fenyk Marharyta",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Попова Анна",
-        "nameEN": "Popova Anna",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Велика Анастасія",
-        "nameEN": "Velyka Anastasiia",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Телевна Поліна",
-        "nameEN": "Televna Polina",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Гусак Станіслав",
-        "nameEN": "Husak Stanislav",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Дубина Андрій",
-        "nameEN": "Dubyna Andrii",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Кузьмич Наталія",
-        "nameEN": "Kuzmych Nataliia",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Кононенко Наталія",
-        "nameEN": "Kononenko Nataliia",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Ланцута Оксана",
-        "nameEN": "Lantsuta Oksana",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Виниченко Євгенія",
-        "nameEN": "Vynychenko Yevheniia",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
         "nameUA": "Кобрик Олександр",
         "nameEN": "Kobryk Oleksandr",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Погорілий Едуард",
-        "nameEN": "Pohorilyi Eduard",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Попова Єлизавета",
-        "nameEN": "Popova Yelyzaveta",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Векторна графіка",
-        "nominationEN": "Vector graphics"
-    },
-{
-        "nameUA": "Брільова Валерія",
-        "nameEN": "Brilova Valeriia",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Мойсєєва Ірина",
-        "nameEN": "Moisieieva Iryna",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Бурдейна Анна",
-        "nameEN": "Burdeina Anna",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Петрашвілі Альона",
-        "nameEN": "Petrashvili Alona",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Байша Марія",
-        "nameEN": "Baisha Mariia",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Бурлаков Дмитро",
-        "nameEN": "Burlakov Dmytro",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Гонгало Христина",
-        "nameEN": "Honhalo Khrystyna",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Каліберда Дар'я",
-        "nameEN": "Kaliberda Daria",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Кучерак Юлія",
-        "nameEN": "Kucherak Yuliia",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Ольховська Владислава",
-        "nameEN": "Olkhovska Vladyslava",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Бага Анна",
-        "nameEN": "Baha Anna",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Красник Єлизавета",
-        "nameEN": "Krasnyk Yelyzaveta",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Фоменко Іван",
-        "nameEN": "Fomenko Ivan",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Рудень Анна",
-        "nameEN": "Ruden Anna",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Фещук Аріна",
-        "nameEN": "Feshchuk Arina",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Тараніна Анастасія",
-        "nameEN": "Taranina Anastasiia",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Гаркуша Софія",
-        "nameEN": "Harkusha Sofiia",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Бойнік Дар'я",
-        "nameEN": "Boinik Daria",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Давиденко Дар'я",
-        "nameEN": "Davydenko Daria",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Климович Анастасія",
-        "nameEN": "Klymovych Anastasiia",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Макаренко Анна",
-        "nameEN": "Makarenko Anna",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Мельников Іван",
-        "nameEN": "Melnykov Ivan",
-        "placeUA": 1,
-        "placeEN": "1st",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Лисенко Анастасія",
-        "nameEN": "Lysenko Anastasiia",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Плотнікова Єлизавета",
-        "nameEN": "Plotnikova Yelyzaveta",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Чех Дар'я",
-        "nameEN": "Chekh Daria",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Абрамов Данііл",
-        "nameEN": "Abramov Daniil",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Єременко Ольга",
-        "nameEN": "Yeremenko Olha",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Грачов Ілля",
-        "nameEN": "Hrachov Illia",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Алконова Діана",
-        "nameEN": "Alkonova Diana",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Ільїна Валерія",
-        "nameEN": "Ilina Valeriia",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Кривенко Маргарита",
-        "nameEN": "Kryvenko Marharyta",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Заводіна Марина",
-        "nameEN": "Zavodina Maryna",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Ушкало Анна",
-        "nameEN": "Ushkalo Anna",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Антоненко Оксана",
-        "nameEN": "Antonenko Oksana",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Наконечний Тарас",
-        "nameEN": "Nakonechnyi Taras",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Пенчук Дарія",
-        "nameEN": "Penchuk Dariia",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "П`яткіна Дар`я",
-        "nameEN": "P`iatkina Dar`ia",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Гарбузова Марія",
-        "nameEN": "Harbuzova Mariia",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Малиновська Єлизавета",
-        "nameEN": "Malynovska Yelyzaveta",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Заботіна Юлія",
-        "nameEN": "Zabotina Yuliia",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Андрєєва Кіра",
-        "nameEN": "Andrieieva Kira",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
         "nameUA": "Кожушко Руслан",
         "nameEN": "Kozhushko Ruslan",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Власюк Марія",
-        "nameEN": "Vlasiuk Mariia",
+        "nameUA": "Лисенко Дмитро",
+        "nameEN": "Lysenko Dmytro",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
+    },
+{
+        "nameUA": "Ненька Максим",
+        "nameEN": "Nenka Maksym",
+        "placeUA": 2,
+        "placeEN": "2nd",
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
+    },
+{
+        "nameUA": "Власюк Дмитро",
+        "nameEN": "Vlasiuk Dmytro",
+        "placeUA": 3,
+        "placeEN": "3rd",
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
         "nameUA": "Гаряча Вікторія",
         "nameEN": "Hariacha Viktoriia",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Скакодуб Дмитро",
-        "nameEN": "Skakodub Dmytro",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Фененко Карина",
-        "nameEN": "Fenenko Karyna",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Кривонос Володимир",
-        "nameEN": "Kryvonos Volodymyr",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Кірічек Карина",
-        "nameEN": "Kirichek Karyna",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Панаріна Вероніка",
-        "nameEN": "Panarina Veronika",
+        "nameUA": "Д`ячихін Едуард",
+        "nameEN": "D`iachykhin Eduard",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Щербініна Діана",
-        "nameEN": "Shcherbinina Diana",
+        "nameUA": "Бакальчук Вадим",
+        "nameEN": "Bakalchuk Vadym",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Полоз Вікторія",
-        "nameEN": "Poloz Viktoriia",
+        "nameUA": "Дідківський Артем",
+        "nameEN": "Didkivskyi Artem",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Токарчук Микола",
-        "nameEN": "Tokarchuk Mykola",
+        "nameUA": "Єфимов Артем",
+        "nameEN": "Yefymov Artem",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Музика Ірина",
-        "nameEN": "Muzyka Iryna",
+        "nameUA": "Здержко Євангеліна",
+        "nameEN": "Zderzhko Yevanhelina",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Костенко Микита",
-        "nameEN": "Kostenko Mykyta",
+        "nameUA": "Кізченко Нікіта",
+        "nameEN": "Kizchenko Nikita",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Пипа Владислав",
-        "nameEN": "Pypa Vladyslav",
+        "nameUA": "Клюшник Владислав",
+        "nameEN": "Kliushnyk Vladyslav",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Рибець Ігор",
-        "nameEN": "Rybets Ihor",
+        "nameUA": "Тарасова Поліна",
+        "nameEN": "Tarasova Polina",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Бойко Даша",
-        "nameEN": "Boiko Dasha",
+        "nameUA": "Юрчук Назар",
+        "nameEN": "Yurchuk Nazar",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Василевич Олеся",
-        "nameEN": "Vasylevych Olesia",
+        "nameUA": "Кравченко Ольга",
+        "nameEN": "Kravchenko Olha",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Моргун Андрій",
-        "nameEN": "Morhun Andrii",
+        "nameUA": "Кулапова Вікторія",
+        "nameEN": "Kulapova Viktoriia",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Бендер Карина",
-        "nameEN": "Bender Karyna",
+        "nameUA": "Лантух Дарія",
+        "nameEN": "Lantukh Dariia",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Ситник Таїсія",
-        "nameEN": "Sytnyk Taisiia",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Моргулець Маргарита",
-        "nameEN": "Morhulets Marharyta",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Слєпньов Даниїл",
-        "nameEN": "Sliepnov Danyil",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Березюк Олена",
-        "nameEN": "Bereziuk Olena",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Оржеховська Вікторія",
-        "nameEN": "Orzhekhovska Viktoriia",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Нерощин Денис",
-        "nameEN": "Neroshchyn Denys",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Черниш Владислав",
-        "nameEN": "Chernysh Vladyslav",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Гавриленко Владислав",
-        "nameEN": "Havrylenko Vladyslav",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Шабалдас Олексій",
-        "nameEN": "Shabaldas Oleksii",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Радченко Софія",
-        "nameEN": "Radchenko Sofiia",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Панова Ольга",
-        "nameEN": "Panova Olha",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Лісовенко Дмитро",
-        "nameEN": "Lisovenko Dmytro",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Стожок Назар",
-        "nameEN": "Stozhok Nazar",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Грамінська Тетяна",
-        "nameEN": "Hraminska Tetiana",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Ховяков Роман",
-        "nameEN": "Khoviakov Roman",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Філончук Олександра",
-        "nameEN": "Filonchuk Oleksandra",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Федусова Ілона",
-        "nameEN": "Fedusova Ilona",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Педосенко Олександра",
-        "nameEN": "Pedosenko Oleksandra",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Грицай Дарія",
-        "nameEN": "Hrytsai Dariia",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Громова Анна",
-        "nameEN": "Hromova Anna",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Шаповал Кароліна",
-        "nameEN": "Shapoval Karolina",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Собор Валерія",
-        "nameEN": "Sobor Valeriia",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Середа Ганна",
-        "nameEN": "Sereda Hanna",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Крупніченко Марина",
-        "nameEN": "Krupnichenko Maryna",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Маліцький Максим",
-        "nameEN": "Malitskyi Maksym",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Бухало Ірина",
-        "nameEN": "Bukhalo Iryna",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Гаряча Юлія",
-        "nameEN": "Hariacha Yuliia",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
         "nameUA": "Лепенко Маргарита",
         "nameEN": "Lepenko Marharyta",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Данченко Софія",
-        "nameEN": "Danchenko Sofiia",
+        "nameUA": "Репетенко Ілля",
+        "nameEN": "Repetenko Illia",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Земляна Анастасія",
-        "nameEN": "Zemliana Anastasiia",
+        "nameUA": "Тараніна Анастасія",
+        "nameEN": "Taranina Anastasiia",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
+        "nominationUA": "Візуальне програмування",
+        "nominationEN": "Visual programming"
     },
 {
-        "nameUA": "Кубай Марія",
-        "nameEN": "Kubai Mariia",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Білаш Софія",
-        "nameEN": "Bilash Sofiia",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Дунін Володимир",
-        "nameEN": "Dunin Volodymyr",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Мазурчак Вікторія",
-        "nameEN": "Mazurchak Viktoriia",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Пожарська Мирослава",
-        "nameEN": "Pozharska Myroslava",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Растрова графіка",
-        "nominationEN": "Raster graphics"
-    },
-{
-        "nameUA": "Заянчковський Владислав",
-        "nameEN": "Zaianchkovskyi Vladyslav",
+        "nameUA": "Карасьов Володимир",
+        "nameEN": "Karasov Volodymyr",
         "placeUA": 1,
         "placeEN": "1st",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Демчишин Неля",
-        "nameEN": "Demchyshyn Nelia",
+        "nameUA": "Касаткін Павло",
+        "nameEN": "Kasatkin Pavlo",
         "placeUA": 1,
         "placeEN": "1st",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Яценко Аліса",
-        "nameEN": "Yatsenko Alisa",
+        "nameUA": "Кіселичник Марко",
+        "nameEN": "Kiselychnyk Marko",
         "placeUA": 1,
         "placeEN": "1st",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Кадебський Сергій",
-        "nameEN": "Kadebskyi Serhii",
+        "nameUA": "Прянічнікова Анна",
+        "nameEN": "Prianichnikova Anna",
         "placeUA": 1,
         "placeEN": "1st",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Козаков Євстафій-Станіслав",
-        "nameEN": "Kozakov Yevstafii-Stanislav",
+        "nameUA": "Літвінов Кіріл",
+        "nameEN": "Litvinov Kiril",
         "placeUA": 1,
         "placeEN": "1st",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Мєзін Артем",
-        "nameEN": "Miezin Artem",
+        "nameUA": "Пасічник Максим",
+        "nameEN": "Pasichnyk Maksym",
         "placeUA": 1,
         "placeEN": "1st",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Дубінська Світлана",
-        "nameEN": "Dubinska Svitlana",
+        "nameUA": "Півовар Сергій",
+        "nameEN": "Pivovar Serhii",
         "placeUA": 1,
         "placeEN": "1st",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Баглик Марія",
-        "nameEN": "Bahlyk Mariia",
+        "nameUA": "Полянський Олександр",
+        "nameEN": "Polianskyi Oleksandr",
         "placeUA": 1,
         "placeEN": "1st",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Шевчук Ангеліна",
-        "nameEN": "Shevchuk Anhelina",
+        "nameUA": "Лісовський Кірілл",
+        "nameEN": "Lisovskyi Kirill",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Марков Ростислав",
-        "nameEN": "Markov Rostyslav",
+        "nameUA": "Винарчук Володимир",
+        "nameEN": "Vynarchuk Volodymyr",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Яблочкін Олег",
-        "nameEN": "Yablochkin Oleh",
+        "nameUA": "Персик Ярослав",
+        "nameEN": "Persyk Yaroslav",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Добродум Владислав",
-        "nameEN": "Dobrodum Vladyslav",
+        "nameUA": "Петренко Євгеній",
+        "nameEN": "Petrenko Yevhenii",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Банак Катерина",
-        "nameEN": "Banak Kateryna",
+        "nameUA": "Товстік Віталій",
+        "nameEN": "Tovstik Vitalii",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Дячун Надія",
-        "nameEN": "Diachun Nadiia",
+        "nameUA": "Лівандовська Анастасія",
+        "nameEN": "Livandovska Anastasiia",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Пилипчук Давид",
-        "nameEN": "Pylypchuk Davyd",
+        "nameUA": "Майдан Тарас",
+        "nameEN": "Maidan Taras",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Пронікова Марина",
-        "nameEN": "Pronikova Maryna",
+        "nameUA": "Перець Яна",
+        "nameEN": "Perets Yana",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Жильцова Юлія",
-        "nameEN": "Zhyltsova Yuliia",
+        "nameUA": "Петленко Дар'я",
+        "nameEN": "Petlenko Daria",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Кудрик Артем",
-        "nameEN": "Kudryk Artem",
+        "nameUA": "Сватко Валерій",
+        "nameEN": "Svatko Valerii",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Здан Ілля",
-        "nameEN": "Zdan Illia",
+        "nameUA": "Сендецька Юлія",
+        "nameEN": "Sendetska Yuliia",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Киричок Олександр",
-        "nameEN": "Kyrychok Oleksandr",
+        "nameUA": "Тарасенко Євген",
+        "nameEN": "Tarasenko Yevhen",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Кулапова Вікторія",
-        "nameEN": "Kulapova Viktoriia",
+        "nameUA": "Ходак Дмитро",
+        "nameEN": "Khodak Dmytro",
         "placeUA": 2,
         "placeEN": "2nd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Пігуль Марія",
-        "nameEN": "Pihul Mariia",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
-    },
-{
-        "nameUA": "Курінна Юлія",
-        "nameEN": "Kurinna Yuliia",
-        "placeUA": 2,
-        "placeEN": "2nd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
-    },
-{
-        "nameUA": "Лисенко Анастасія",
-        "nameEN": "Lysenko Anastasiia",
+        "nameUA": "Білінський Артем",
+        "nameEN": "Bilinskyi Artem",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Жуйкова Ірина",
-        "nameEN": "Zhuikova Iryna",
+        "nameUA": "Богдан Світлана",
+        "nameEN": "Bohdan Svitlana",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Кожокар Костянтин",
-        "nameEN": "Kozhokar Kostiantyn",
+        "nameUA": "Бричак Ольга",
+        "nameEN": "Brychak Olha",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Колесніков Богдан",
-        "nameEN": "Kolesnikov Bohdan",
+        "nameUA": "Гребенюк Марія",
+        "nameEN": "Hrebeniuk Mariia",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Шупенко Павло",
-        "nameEN": "Shupenko Pavlo",
+        "nameUA": "Дейдей Тимофій",
+        "nameEN": "Deidei Tymofii",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Могила Надія",
-        "nameEN": "Mohyla Nadiia",
+        "nameUA": "Жеребко Петро",
+        "nameEN": "Zherebko Petro",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Архипова Дар'я",
-        "nameEN": "Arkhypova Daria",
+        "nameUA": "Жук Єлизавета",
+        "nameEN": "Zhuk Yelyzaveta",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Каленик Аріадна",
-        "nameEN": "Kalenyk Ariadna",
+        "nameUA": "Робич Вероніка",
+        "nameEN": "Robych Veronika",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Книш-Петренко Захарій",
-        "nameEN": "Knysh-Petrenko Zakharii",
+        "nameUA": "Чиборовський Владислав",
+        "nameEN": "Chyborovskyi Vladyslav",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Томка Вікторія",
-        "nameEN": "Tomka Viktoriia",
+        "nameUA": "Чижевський Володимир",
+        "nameEN": "Chyzhevskyi Volodymyr",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Каєта Вячеслав",
-        "nameEN": "Kaieta Viacheslav",
+        "nameUA": "Шилкіна Софія",
+        "nameEN": "Shylkina Sofiia",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Сопова Вікторія",
-        "nameEN": "Sopova Viktoriia",
+        "nameUA": "Краснюкова Ганна",
+        "nameEN": "Krasniukova Hanna",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Аліна Петренко",
-        "nameEN": "Alina Petrenko",
+        "nameUA": "Ксенишина Марія",
+        "nameEN": "Ksenyshyna Mariia",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Жученко Анастасія",
-        "nameEN": "Zhuchenko Anastasiia",
+        "nameUA": "Куліш Сергій",
+        "nameEN": "Kulish Serhii",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Таран Владислав",
-        "nameEN": "Taran Vladyslav",
+        "nameUA": "Мисько Євген",
+        "nameEN": "Mysko Yevhen",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Ходачник Матвій",
-        "nameEN": "Khodachnyk Matvii",
+        "nameUA": "Моргун Андрій",
+        "nameEN": "Morhun Andrii",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Абрамович Богдан",
-        "nameEN": "Abramovych Bohdan",
+        "nameUA": "Нікора Анатолій",
+        "nameEN": "Nikora Anatolii",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Орлов Олександр",
-        "nameEN": "Orlov Oleksandr",
+        "nameUA": "Польовий Дмитро",
+        "nameEN": "Polovyi Dmytro",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Швайчук Анастасія",
-        "nameEN": "Shvaichuk Anastasiia",
+        "nameUA": "Полюхович Кирило",
+        "nameEN": "Poliukhovych Kyrylo",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Бовтвиненко Денис",
-        "nameEN": "Bovtvynenko Denys",
+        "nameUA": "Попов Артем",
+        "nameEN": "Popov Artem",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Чорний Дмитро",
-        "nameEN": "Chornyi Dmytro",
+        "nameUA": "Самофатов Григорій",
+        "nameEN": "Samofatov Hryhorii",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Макаренко Аріна",
-        "nameEN": "Makarenko Arina",
+        "nameUA": "Строкаченко Володимир",
+        "nameEN": "Strokachenko Volodymyr",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Ярміш Анастасія",
-        "nameEN": "Yarmish Anastasiia",
+        "nameUA": "Цищук Микола",
+        "nameEN": "Tsyshchuk Mykola",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     },
 {
-        "nameUA": "Дунай Богдан",
-        "nameEN": "Dunai Bohdan",
+        "nameUA": "Швець Ірина",
+        "nameEN": "Shvets Iryna",
         "placeUA": 3,
         "placeEN": "3rd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
-    },
-{
-        "nameUA": "Рошка Дмитро",
-        "nameEN": "Roshka Dmytro",
-        "placeUA": 3,
-        "placeEN": "3rd",
-        "nominationUA": "Фотоколаж",
-        "nominationEN": "Photo collage"
+        "nominationUA": "Вебдизайн",
+        "nominationEN": "Web design"
     }
 ]
