@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/credico/static/css/main.a5782fca.css",
-    "main.js": "/credico/static/js/main.7f55bec7.js",
+    "main.js": "/credico/static/js/main.fda73033.js",
     "static/media/certpart_UA.jpg": "/credico/static/media/certpart_UA.375f3378f23a47494140.jpg",
     "static/media/certpart_EN.jpg": "/credico/static/media/certpart_EN.23a8b76770d040d0ed66.jpg",
     "static/media/diploma_UA.jpg": "/credico/static/media/diploma_UA.1a2d1459e24164e0aebd.jpg",
@@ -14,10 +14,10 @@
     "static/media/slick.woff": "/credico/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/credico/index.html",
     "main.a5782fca.css.map": "/credico/static/css/main.a5782fca.css.map",
-    "main.7f55bec7.js.map": "/credico/static/js/main.7f55bec7.js.map"
+    "main.fda73033.js.map": "/credico/static/js/main.fda73033.js.map"
   },
   "entrypoints": [
     "static/css/main.a5782fca.css",
-    "static/js/main.7f55bec7.js"
+    "static/js/main.fda73033.js"
   ]
 }
