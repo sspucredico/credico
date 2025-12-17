@@ -2774,5 +2774,14 @@
         "placeEN": "3rd",
         "nominationUA": "Вебдизайн",
         "nominationEN": "Web design"
+    },
+    {
+        "nameUA": "Антошко Юлія",
+        "nameEN": "Antoshko Yuliia",
+        "placeUA": 1,
+        "placeEN": "1st",
+        "nominationUA": "Комп'ютерна графіка: Растрова графіка",
+        "nominationEN": "Computer graphics: Raster graphics"
     }
+
 ]
